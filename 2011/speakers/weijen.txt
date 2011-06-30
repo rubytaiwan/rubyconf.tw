@@ -21,4 +21,4 @@ Ruby on Rails的世界中，一直都只有Linux與Mac OS，可是根據IDC 2010
 
 Language: zh
 
-Talk Length: 50min
+Talk Length: 45min

@@ -11,7 +11,8 @@
 [tw] 1:30~2:00 ryudo - Sinatra, good friend to Rails
 [tw] 2:00~3:00 xdite - Essential Rails Design Pattern
 [tw] 3:00~4:00 tsechingho - 善用 Devise 建置會員系統
-[tw] 4:00~5:00 weijen - JRuby on Rails 在Windows 2008 R2中的配置方案
+[tw] 4:00~4:45 mason - Ruby on Windows
+[tw] 4:45~5:30 weijen - JRuby on Rails 在Windows 2008 R2中的配置方案
 
 ## Day2: */27
 
