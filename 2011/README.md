@@ -41,7 +41,7 @@ TWD $1500 *[Register Now!](#)* (will release soon)
 4. [en] 11:30~12:00 [Chris](2011/speakers/chris.md) - MongoDB (TBD)
 5. (launch)
 6. [en] 1:30~2:30 [Geoffrey Grosenbach](2011/speakers/topfunky.md) - Keynote
-7. [tw] 2:30~3:00 [林建欣 godfat](2011/speakers/godfat.md) - A modular Ruby REST client collection/infrastructure
+7. [tw] 2:30~3:00 [林健欣 godfat](2011/speakers/godfat.md) - A modular Ruby REST client collection/infrastructure
 8. [en] 3:00~3:30 [Nick Sutterer](2011/speakers/nick.md) CRUD Is Not REST - Hypermedia For Y'All
 9. [tw] 3:30~4:00 [林士淵&林聖哲 Felix&Vincent](2011/speakers/felix-vincent.md) - Rails SA Practice
 10. [en] 4:00~4:30 [Josh Moore](2011/speakers/josh.md) - Writing custom DataMapper Adapters
