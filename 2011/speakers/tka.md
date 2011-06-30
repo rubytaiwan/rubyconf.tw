@@ -1,8 +1,7 @@
-Name: 呂旺燊 Wang-Shen Lu
+# 呂旺燊 Wang-Shen Lu
+
 Twitter: https://twitter.com/#!/tkalu
 Blog: http://www.tkalu.com/
-
-Speaker Information:
 
 Wang-Shen Lu is Rails developer of Handlino Inc. in Hsinchu. 
 

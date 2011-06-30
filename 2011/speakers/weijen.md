@@ -1,8 +1,7 @@
-Name: 盧韋仁 Wei-Jen Lu
+# 盧韋仁 Wei-Jen Lu
+
 Twitter: https://twitter.com/#!/weijenlu
 Blog:
-
-Speaker Information:
 
 Wei-Jen Lu is Rails developer of Handlino Inc. in Hsinchu. He is also an active member of Ruby Taiwan community.
 

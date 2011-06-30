@@ -1,8 +1,7 @@
-Name: Nick Sutterer
+# Nick Sutterer
+
 Twitter:
 Blog:
-
-Speaker Information:
 
 Nick Sutterer appreciates the beauty of elegant code, and the value of
 open source software. Through his tireless development and advocacy of

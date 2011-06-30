@@ -1,8 +1,7 @@
-Name: Mason Chang 張銘軒
+# Mason Chang 張銘軒
+
 Twitter:
 Blog:
-
-Speaker Information:
 
 鴻海工程師, 在公司內主要是利用Ruby的高速開發來寫一些提高生產力的工具
 Me, who? HW => SW engineer at FXXCONN

@@ -1,8 +1,7 @@
-Name: Manic
+# Manic
+
 Twitter:
 Blog: 
-
-Speaker Information:
 
 痞客邦 程式設計師，之前主要是寫PHP, 最近才跑來寫RAILS。
 
