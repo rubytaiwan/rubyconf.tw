@@ -23,7 +23,7 @@ TWD $1500 *[Register Now!](#)* (will release soon)
 
 ### Day1: 8/26
 
-1. [tw] 9:00~10:00 [李昆航 wildjcrt](2011/speakers/jerry.md) - Next step after learning Rails CRUD
+1. [tw] 9:00~10:00 [李昆航 wildjcrt](2011/speakers/wildjcrt.md) - Next step after learning Rails CRUD
 2. [tw] 10:00~11:00 [Manic](2011/speakers/manic.md) - Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
 3. [en] 11:00~12:00 [Chen Jack S Y](2011/speakers/jack.md) - Using Ruby in Social Media platform
 4. (launch)
