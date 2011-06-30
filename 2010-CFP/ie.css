@@ -1,0 +1,10 @@
+a,a:link {
+	color: white;
+	}
+#cfp div {
+	color: rgb(206,189,189);
+	display: inline;
+	}
+#cfp h2 {
+	border-bottom: 1px solid rgb(119,45,45);
+	}
