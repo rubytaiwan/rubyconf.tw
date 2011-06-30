@@ -18,7 +18,7 @@
 
 [tw] 9:00~10:00 Qing - Keynote
 [en] 10:00~11:00 Chris Eppstein - Sass: The Future of Stylesheets
-[tw] 11:00~12:00 tka - Compass.app
+[tw] 11:00~12:00 tka - When someone hates command line
 [en] 11:30~12:00 Chris - MongoDB
 
 (launch)
