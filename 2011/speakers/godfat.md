@@ -1,14 +1,15 @@
-Name: Lin Jen Shin
-Twitter: https://twitter.com/#!/godfat
-Blog: http://profile.godfat.org./
+# Lin Jen Shin
 
-Speaker Information:
+Twitter: <https://twitter.com/#!/godfat>
+Blog: <http://profile.godfat.org>
 
 Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue Software, loving computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/: (.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])
 
-Subject: A modular Ruby REST client collection/infrastructure
+## Subject
 
-Extract:
+A modular Ruby REST client collection/infrastructure
+
+## Extract
 
 In this era of web services and mashups, we have seen a blooming of REST
 APIs. One might wonder, how do we use these APIs easily and elegantly?
@@ -24,6 +25,10 @@ for any other REST APIs.
 [rest-core]: http://github.com/cardinalblue/rest-core
 [rest-graph]: http://github.com/cardinalblue/rest-graph
 
-Language: zh
+## Language
 
-Talk Length: 30min
+Chinese
+
+## Talk Length
+
+30min

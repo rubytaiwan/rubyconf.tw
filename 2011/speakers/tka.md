@@ -6,15 +6,21 @@ Speaker Information:
 
 Wang-Shen Lu is Rails developer of Handlino Inc. in Hsinchu. 
 
-Subject: When someone hates command line
+## Subject
 
-Extract:
+When someone hates command line
+
+## Extract
 
 * Someone hates command line
 * Ruby GUI 
 * JRuby + SWT 
 * Compass.app
 
-Language: zh
+## Language
 
-Talk Length: 30min
+Chinese
+
+## Talk Length
+
+30min

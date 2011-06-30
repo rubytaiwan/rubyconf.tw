@@ -8,12 +8,18 @@ Geoffrey Grosenbach designs, produces, and publishes the acclaimed PeepCode http
 
 He holds a degree in Philosophy and has taught computer-related concepts to people of all ages including business-people in Seattle, grade school students in Taiwan, and Ruby developers in the USA, UK, Canada, and Australia.
 
-Subject: Keynote
+## Subject
 
-Extract:
+Keynote
+
+## Extract
 
 N/A
 
-Language: en
+## Language
 
-Talk Length: 50min
+English
+
+## Talk Length
+
+50min

@@ -12,9 +12,11 @@ there should be no such thing as a double-render error, and that one
 need not be slave to the great monolithic view mentality. Also, he
 would like to have beer with you.
 
-Subject: CRUD Is Not REST - Hypermedia For Y'All
+## Subject
 
-Extract:
+CRUD Is Not REST - Hypermedia For Y'All
+
+## Extract
 
 REST is an architectural style for distributed systems. However, many
 implementations forget about the distributed part of REST and simply
@@ -28,6 +30,10 @@ create a REST system as it is intended to be. Let's build a simple
 system using the Roar gem, Rails and Sinatra and discuss the benefits
 and drawbacks we get from distributed hypermedia systems.
 
-Language: en
+## Language
 
-Talk Length: 30min
+English
+
+## Talk Length
+
+30min

@@ -13,12 +13,18 @@ Speaker Information:
 1. 分散式計算
 2. 電腦網路
 
-Subject: Keynote
+## Subject
 
-Extract:
+Keynote
+
+## Extract
 
 N/A
 
-Language: zh
+## Language
 
-Talk Length: 50min
+Chinese
+
+## Talk Length
+
+50min

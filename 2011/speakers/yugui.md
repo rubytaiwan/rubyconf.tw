@@ -6,12 +6,18 @@ Speaker Information:
 
 Yuki Sonoda is the Ruby 1.9 release manager. She is known as "Yugui" in the Ruby community. She has improved development process of the programming language Ruby. Now she manages release process of the Ruby 1.9 series.
 
-Subject:  Ruby 1.9.3 and Ruby 1.9 development
+## Subject
 
-Extract:
+Ruby 1.9.3 and Ruby 1.9 development (TBD)
+
+## Extract
 
 N/A
 
-Language: en
+## Language
 
-Talk Length: 30min
+English
+
+## Talk Length
+
+30min

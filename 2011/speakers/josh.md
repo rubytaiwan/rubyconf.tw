@@ -1,17 +1,22 @@
-Name: Joshua Moore
+# Joshua Moore
+
 Twitter:
 Blog:
 
-Speaker Information:
-
 Joshua Moore (Optimis International) I am a ruby/rails developer working for OptimisCorp in Taiwan. I haven been involved with ruby, personally and professionally, for over 2 years.   I tend to enjoy deploying to the cloud and have spent a lot of time working with Ruby on the Google App Engine. You can find more about me at github: https://github.com/joshsmoore.
 
-Subject: Writing custom DataMapper Adapters
+## Subject
 
-Extract:
+Writing custom DataMapper Adapters
+
+## Extract
 
 DataMapper is a storage engine agnostic ORM, it can work just as well with a RDMS as with any another type of storage engine such as, but not limited to: no sequel stores (redis, mongo...), XML or yaml data source, etc. While many adapters already exist to connect DataMapper to a miriad of storage engines, there may not be one for your preferred storage engine or you may need to communicate with data from a legacy system.     If this is the case I will introduce you to the clean and simple API used to write your custom DataMapper adapter.
 
-Language: en
+## Language
 
-Talk Length: 30min
+English
+
+## Talk Length
+
+30min

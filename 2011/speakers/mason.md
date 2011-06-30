@@ -10,9 +10,11 @@ Experienced languages => C/C++, Java, HDL, PIC Assembly, MIPS, MatLab, Fortran, 
 Why I use ruby => because I want to learn Rails
 Why I use ruby in the company => because no one cares
   
-Subject: Ruby on Windows
+## Subject
 
-Extract:
+Ruby on Windows
+
+## Extract
 
 1. Why ruby? Why on Windows?
 2. Many rubies, what works on Windows?
@@ -21,6 +23,10 @@ Extract:
 5. Productivity usage
 6. Packaging and deploying 
 
-Language: zh
+## Language
 
-Talk Length: 45min
+Chinese
+
+## Talk Length
+
+45min
