@@ -3,7 +3,7 @@
 Twitter: <https://twitter.com/#!/godfat>
 Blog: <http://profile.godfat.org>
 
-Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue Software, loving computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/: (.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])
+"Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue Software, loving computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/: (.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])
 
 ## Subject
 
