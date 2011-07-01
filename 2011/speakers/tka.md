@@ -7,7 +7,7 @@ Wang-Shen Lu is Rails developer of Handlino Inc. in Hsinchu.
 
 ## Subject
 
-When someone hates command line
+Compass.app: When someone hates command line
 
 ## Extract
 

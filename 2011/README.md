@@ -37,7 +37,7 @@ TWD $1500 *[Register Now!](#)* (will release soon)
 
 1. [tw] 9:00~10:00 [王建興 Qing](2011/speakers/qing.md) - Keynote
 2. [en] 10:00~11:00 [Chris Eppstein](2011/speakers/chris-eppstein.md) - Sass: The Future of Stylesheets
-3. [tw] 11:00~11:30 [呂旺燊 tka](2011/speakers/tka.md) - When someone hates command line
+3. [tw] 11:00~11:30 [呂旺燊 tka](2011/speakers/tka.md) - Compass.app: When someone hates command line
 4. [en] 11:30~12:00 [Yuki Sonoda](2011/speakers/yugui.md) - Ruby 1.9.3 and Ruby 1.9 development (TBD)
 
 
