@@ -47,6 +47,7 @@
 ## Individual Sponsors
 
 We accept individual sponsor this year and the price is >= TWD $3000. You will get:
+
 * 1 pass to RubyConf Taiwan 2011
 * A mention of your name and link to your website in the individual sponsor section of conference website.
 * one copy of [Rails 101 - Learn Rails in 7 days](http://rails-101.logdown.com/) - Thanks to xdite sponsors her book.
