@@ -38,7 +38,7 @@ TWD $1500 *[Register Now!](#)* (will release soon)
 1. [tw] 9:00~10:00 [王建興 Qing, 聖藍科技](2011/speakers/qing.md) - Keynote
 2. [en] 10:00~11:00 [Chris Eppstein, Caring.com](2011/speakers/chris-eppstein.md) - Sass: The Future of Stylesheets
 3. [tw] 11:00~11:30 [呂旺燊 tka, Handlino](2011/speakers/tka.md) - Compass.app: When someone hates command line
-4. [en] 11:30~12:00 [Yuki Sonoda, Google Japan](2011/speakers/yugui.md) - Ruby 1.9.3 and Ruby 1.9 development (TBD)
+4. [en] 11:30~12:00 [Yuki Sonoda, Google Japan](2011/speakers/yugui.md) - Ruby 1.9.3 and Ruby 1.9 development
 5. (lunch)
 6. [en] 1:30~2:30 [Geoffrey Grosenbach, PeepCode](2011/speakers/topfunky.md) - Keynote
 7. [tw] 2:30~3:00 [林健欣 godfat, Cardinal Blue](2011/speakers/godfat.md) - A modular Ruby REST client collection/infrastructure
