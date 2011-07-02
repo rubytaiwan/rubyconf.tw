@@ -2,9 +2,6 @@
 
 * Date: 2011/8/26-27
 * Venue: 中央研究院 人文社會科學館 (人文館) H.S.S. Building, Academia Sinica
-** [中央研究院位置](http://www.sinica.edu.tw/location.htm) [Sinica Location](http://home.sinica.edu.tw/en/site/location.html)
-** [中研院院區圖: 第24號 人文館](http://www.sinica.edu.tw/as/map/asmap_c.html) [Campus of Academia Sinica: No.24 HSSB](http://www.sinica.edu.tw/as/map/asmap.html)
-** [Google Map](http://maps.google.com/maps/ms?ie=UTF8&source=embed&hl=zh-TW&msa=0&msid=101908379901557595242.00047f68df8db5ba850ee&ll=25.041749,121.613674&spn=0.037326,0.054932&z=14)
 * Price: TWD $1500 *[Register Now!](#)* (will release soon)
 
 ## Sponsors
@@ -48,6 +45,18 @@
 5min talk. Please submit via GitHub: Fork this project, add your speaker information, then send pull request.
 
 ## Individual Sponsors
+
+We accept individual sponsor this year and the price is >= TWD $3000. You will get:
+* 1 pass to RubyConf Taiwan 2011
+* A mention of your name and link to your website in the individual sponsor section of conference website.
+* one copy of [Rails 101 - Learn Rails in 7 days](http://rails-101.logdown.com/) - Thanks to xdite sponsors her book.
+* one singed book of [Rails 實戰聖經](http://ihower.tw/rails3) (*not published yet*) - Thanks to ihower sponsors his book.
+
+## Venue Information
+
+* [中央研究院位置](http://www.sinica.edu.tw/location.htm) [Sinica Location](http://home.sinica.edu.tw/en/site/location.html)
+* [中研院院區圖: 第24號 人文館](http://www.sinica.edu.tw/as/map/asmap_c.html) [Campus of Academia Sinica: No.24 HSSB](http://www.sinica.edu.tw/as/map/asmap.html)
+* [Google Map](http://maps.google.com/maps/ms?ie=UTF8&source=embed&hl=zh-TW&msa=0&msid=101908379901557595242.00047f68df8db5ba850ee&ll=25.041749,121.613674&spn=0.037326,0.054932&z=14)
 
 ## About Organizer
 
