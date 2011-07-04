@@ -1,0 +1,32 @@
+task :default => ["markdown:compile"]
+
+task :clean => ["markdown:clean"] 
+
+namespace :markdown do
+  require 'rubygems'
+  require 'redcarpet'
+  
+  files = Dir["speakers/*.md", "README.md"]
+  
+  task :compile do
+    files.each do |src|
+      base   = File.basename(src, '.md')
+      dir    = File.dirname(src)
+      target = File.join(dir, "#{base}.html")
+
+      puts "redcarpet #{src}"
+      File.open(target, "w") do |file|
+        file.write Redcarpet.new(File.read(src)).to_html
+      end
+    end
+  end
+  
+  task :clean do
+    files.each do |src|
+      base   = File.basename(src, '.md')
+      dir    = File.dirname(src)
+      target = File.join(dir, "#{base}.html")
+      sh "rm #{target}"
+    end
+  end
+end
