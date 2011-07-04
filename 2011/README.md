@@ -36,7 +36,7 @@
 7. [tw] 2:30~3:00 [林健欣 godfat, Cardinal Blue](2011/speakers/godfat.md) - A modular Ruby REST client collection/infrastructure
 8. [en] 3:00~3:30 [Nick Sutterer, Freiburg/Germany](2011/speakers/nick.md) CRUD Is Not REST - Hypermedia For Y'All
 9. [tw] 3:30~4:00 [林士淵&林聖哲 Felix&Vincent, T客邦](2011/speakers/felix-vincent.md) - Rails SA Practice
-10. [en] 4:00~4:30 [Allen&Christophe&Matt, Rulingcom](2011/speakers/rulingcom.md) - An Open CMS with MongoDB
+10. [en] 4:00~4:30 [Allen&Christophe&Matthew, Rulingcom](2011/speakers/rulingcom.md) - An Open CMS with MongoDB
 11. [en] 4:30~5:00 [Josh Moore, Optimis International](2011/speakers/josh.md) - Writing custom DataMapper Adapters
 12. (Lightning talk) 5:00~5:30 - Your show time
 
