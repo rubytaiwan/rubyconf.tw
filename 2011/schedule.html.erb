@@ -1,0 +1,52 @@
+<table summary="RubyConf Taiwan 2011 schedule">
+  <caption>RubyConf Taiwan 2011 schedule</caption>
+  <thead>
+    <tr>
+      <th scope="col" class="time">Time</th>
+      <th scope="col" class="session">Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @schedule.each do |day| %>
+    <tr>
+      <th scope="row"><h2><%= day['day'] %></h2></th>
+    <tr>
+    
+      <% day['morning'].each do |session| %>
+      <tr>
+        <th scope="row"><%= session['time'] %></th>
+        <td>
+          <h2><%= session['title'] %><a href="./#<%= session['speaker']['nickname'] %>">#</a></h2>
+          <p class="fn"><%= session['speaker']['display'] %></p>
+        </td>
+      </tr>
+      <% end %>
+
+      <tr class="tea">
+        <th scope="row">12:00 ~ 13:30</th>
+        <td>
+          <h2>Lunch</h2>
+        </td>
+      </tr>
+
+      <% day['afternoon'].each do |session| %>
+      <tr>
+        <th scope="row"><%= session['time'] %></th>
+        <td>
+          <h2><%= session['title'] %><a href="./#<%= session['speaker']['nickname'] %>">#</a></h2>
+          <p class="fn"><%= session['speaker']['display'] %></p>
+        </td>
+      </tr>
+      <% end %>
+      
+      <% if day['lightening'] %>
+      <tr class="lightning">
+        <th scope="row"><%= day['lightening']['time'] %></th>
+        <td>
+          <h2><%= day['lightening']['title'] %></h2>
+        </td>
+      </tr>   
+      <% end %>
+    <% end %>
+  </tbody>
+</table>

@@ -11,9 +11,9 @@ end
 
 @config = YAML::load_file('config.yml')
 
-task :default => ["speakers:all"]
+task :default => ["speakers:all", "schedule:all"]
 
-task :clean => ["speakers:clean"] 
+task :clean => ["speakers:clean", "schedule:clean"] 
 
 def img_to_sepia(source, target)
   # code modified form http://www.imagemagick.org/RMagick/doc/colorize.rb.html
@@ -63,6 +63,24 @@ namespace :speakers do
     @speakers.each do |s|
       sh "rm -f images/speakers/#{s['nickname']}.sepia.png"
     end
+    sh "rm -f #{target}"
+  end
+end
+
+namespace :schedule do
+  @schedule = YAML::load_file('schedule.yml')
+  target = 'schedule.html'
+
+  task :all do
+    @current_page = 'schedule'
+
+    File.open(target, "w") do |f|
+      @contents = ERB.new(File.read('schedule.html.erb')).result
+      f.write ERB.new(File.read(@config['website']['layout'])).result
+    end
+  end
+
+  task :clean do
     sh "rm -f #{target}"
   end
 end

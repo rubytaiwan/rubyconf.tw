@@ -1,0 +1,139 @@
+-
+  day: 'Day 1: 8/26'
+
+  morning:
+    - time: 9:00~10:00
+      title: Next step after learning Rails CRUD
+      speaker: 
+        display: 李昆航 wildjcrt, PIXNET
+        nickname: wildjcrt
+      lang: tw
+
+    - time: 10:00~11:00
+      title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
+      speaker:
+        display: Manic, PIXNET
+        nickname: manic
+      lang: tw
+
+    - time: 11:00~12:00
+      title: Using Ruby in Social Media platform
+      speaker:
+        display: Chen Jack S Y, Isobar Hong Kong
+        nickname: jack
+      lang: en
+
+  afternoon:
+    - time: 13:30~14:00
+      title: Sinatra, good friend to Rails
+      speaker:
+        display: 鄧慕凡 ryudo
+        nickname: ryudo
+      lang: tw
+
+    - time: 14:00~15:00
+      title: Essential Rails Design Pattern
+      speaker:
+        display: 鄭伊廷 xdite, T客邦
+        nickname: xdite
+      lang: tw
+
+    - time: 15:00~16:00
+      title: 善用 Devise 建置會員系統
+      speaker: 
+        display: 何澤清 tsechingho, T客邦
+        nickname: tsechingho
+      lang: tw
+    
+    - time: 16:00~16:45
+      title: Ruby on Windows
+      speaker:
+        display: 張銘軒 mason, 鴻海
+        nickname: mason
+      lang: tw
+    
+    - time: 16:45~17:30
+      title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
+      speaker: 
+        display: 盧韋仁 weijen, Handlino
+        nickname: weijen
+      lang: tw
+
+-
+  day: 'Day 2: 8/27'
+    
+  morning:
+    - time: '9:00~10:00'
+      title: Keynote
+      speaker: 
+        display:  王建興 Qing, 聖藍科技
+        nickname: qing
+      lang: tw
+
+    - time: '10:00~11:00'
+      title: 'Sass: The Future of Stylesheets'
+      speaker:
+        display: Chris Eppstein, Caring.com
+        nickname: chris-eppstein
+      lang: en
+
+    - time: '11:00~11:30'
+      title: 'Compass.app: When someone hates command line'
+      speaker:
+        display: 呂旺燊 tka, Handlino
+        nickname: tka
+      lang: tw
+
+    - time: '11:30~12:00'
+      title: Ruby 1.9.3 and Ruby 1.9 development
+      speaker:
+        display: Yuki Sonoda, Google Japan
+        nickname: yugui
+      lang: en
+
+  afternoon:
+    - time: '13:30~14:30'
+      title: Keynote
+      speaker:
+        display: PeepCode
+        nickname: peepcode
+      lang: en
+
+    - time: '14:30~15:00'
+      title: A modular Ruby REST client collection/infrastructure
+      speaker:
+        display: 林健欣 godfat, Cardinal Blue
+        nickname: godfat
+      lang: tw
+
+    - time: '15:00~15:30'
+      title: CRUD Is Not REST - Hypermedia For Y'All
+      speaker: 
+        display: Nick Sutterer, Freiburg/Germany
+        nickname: nick
+      lang: en
+
+    - time: '15:30~16:00'
+      title: Rails SA Practice
+      speaker:
+        display: 林士淵&林聖哲 Felix&Vincent, T客邦
+        nickname: felix-vincent
+      lang: tw
+
+    - time: '16:00~16:30'
+      title: An Open CMS with MongoDB
+      speaker: 
+        display: Allen&Christophe&Matthew, Rulingcom
+        nickname: rulingcom
+      lang: en
+
+    - time: '16:30~17:00'
+      title: Writing custom DataMapper Adapters
+      speaker: 
+        display: Josh Moore, Optimis International
+        nickname: josh
+      lang: en
+
+  lightening:
+    time: '17:00~17:30'
+    title: Your show time

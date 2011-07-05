@@ -4,10 +4,6 @@
 
 * needs to compile `sponsors/*.md` and put them all together in `information.html`
 
-## schedule.html
-
-* just put the modified html in `schedule.html.erb` and make a new rake task
-
 ## speakers.html
 
 * coda-slider for speaker avatars
