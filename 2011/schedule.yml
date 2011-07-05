@@ -3,141 +3,64 @@
 
   morning:
     - time: 9:00~10:00
-      title: Next step after learning Rails CRUD
-      by: 李昆航 wildjcrt, PIXNET
-      speakers: 
-        - wildjcrt
-      lang: tw
+      session: after-crud
 
     - time: 10:00~11:00
-      title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
-      by: Manic, PIXNET
-      speakers:
-        - manic
-      lang: tw
+      session: rails-boom
 
     - time: 11:00~12:00
-      title: Using Ruby in Social Media platform
-      by: Chen Jack S Y, Isobar Hong Kong
-      speakers:
-        - jack
-      lang: en
+      session: social-media
 
   afternoon:
     - time: 13:30~14:00
-      title: Sinatra, good friend to Rails
-      by: 鄧慕凡 ryudo
-      speakers:
-        - ryudo
-      lang: tw
+      session: sinatra
 
     - time: 14:00~15:00
-      title: Essential Rails Design Pattern
-      by: 鄭伊廷 xdite, T客邦
-      speakers:
-        - xdite
-      lang: tw
+      session: design-pattern
 
     - time: 15:00~16:00
-      title: 善用 Devise 建置會員系統
-      by: 何澤清 tsechingho, T客邦
-      speakers:
-        - tsechingho
-      lang: tw
-    
+      session: devise
+
     - time: 16:00~16:45
-      title: Ruby on Windows
-      by: 張銘軒 mason, 鴻海
-      speakers:
-        - mason
-      lang: tw
-    
+      session: ruby-on-windows
+
     - time: 16:45~17:30
-      title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
-      by: 盧韋仁 weijen, Handlino
-      speakers:
-        - weijen
-      lang: tw
+      session: jruby-win2008
 
 -
   day: 'Day 2: 8/27'
     
   morning:
     - time: '9:00~10:00'
-      title: Keynote
-      by:  王建興 Qing, 聖藍科技
-      speakers:
-        - qing
-      lang: tw
+      session: keynote-qing
 
     - time: '10:00~11:00'
-      title: 'Sass: The Future of Stylesheets'
-      by: Chris Eppstein, Caring.com
-      speakers:
-        - chris
-      lang: en
+      session: sass
 
     - time: '11:00~11:30'
-      title: 'Compass.app: When someone hates command line'
-      by: 呂旺燊 tka, Handlino
-      speakers:
-        - tka
-      lang: tw
+      session: compass-app
 
     - time: '11:30~12:00'
-      title: Ruby 1.9.3 and Ruby 1.9 development
-      by: Yuki Sonoda, Google Japan
-      speakers:
-        - yugui
-      lang: en
+      session: ruby19
 
   afternoon:
     - time: '13:30~14:30'
-      title: Keynote
-      by: PeepCode
-      speakers:
-        - peepcode
-      lang: en
+      session: keynote-peepcode
 
     - time: '14:30~15:00'
-      title: A modular Ruby REST client collection/infrastructure
-      by: 林健欣 godfat, Cardinal Blue
-      speakers:
-        - godfat
-      lang: tw
+      session: modular-rest
 
     - time: '15:00~15:30'
-      title: CRUD Is Not REST - Hypermedia For Y'All
-      by: Nick Sutterer, Freiburg/Germany
-      speakers:
-        - nick
-      lang: en
+      session: crud-isnt-rest
 
     - time: '15:30~16:00'
-      title: Rails SA Practice
-      by: 林士淵&林聖哲 Felix&Vincent, T客邦
-      speakers:
-        - felix
-        - vincent
-      lang: tw
+      session: rails-sa
 
     - time: '16:00~16:30'
-      title: An Open CMS with MongoDB
-      speaker: 
-        display: Allen&Christophe&Matthew, Rulingcom
-      speakers:
-        - allen
-        - christophe
-        - matthew
-      lang: en
+      session: open-cms
 
     - time: '16:30~17:00'
-      title: Writing custom DataMapper Adapters
-      speaker: 
-        display: Josh Moore, Optimis International
-      speakers:
-        - josh
-      lang: en
+      session: datamapper-adapter
 
   lightening:
     time: '17:00~17:30'

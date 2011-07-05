@@ -1,0 +1,149 @@
+order:
+  - keynote-peepcode
+  - keynote-qing
+  - ruby19
+  - sass
+  - compass-app
+  - modular-rest
+  - crud-isnt-rest
+  - rails-sa
+  - open-cms
+  - datamapper-adapter
+  - after-crud
+  - rails-boom
+  - social-media
+  - sinatra
+  - design-pattern
+  - devise
+  - ruby-on-windows
+  - jruby-win2008
+
+details:
+  after-crud:
+    title: Next step after learning Rails CRUD
+    by: 李昆航 wildjcrt, PIXNET
+    speakers: 
+      - wildjcrt
+    lang: tw
+
+  rails-boom:
+    title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
+    by: Manic, PIXNET
+    speakers:
+      - manic
+    lang: tw
+
+  social-media:
+    title: Using Ruby in Social Media platform
+    by: Chen Jack S Y, Isobar Hong Kong
+    speakers:
+      - jack
+    lang: en
+
+  sinatra:
+    title: Sinatra, good friend to Rails
+    by: 鄧慕凡 ryudo
+    speakers:
+      - ryudo
+    lang: tw
+
+  design-pattern:
+    title: Essential Rails Design Pattern
+    by: 鄭伊廷 xdite, T客邦
+    speakers:
+      - xdite
+    lang: tw
+
+  devise:
+    title: 善用 Devise 建置會員系統
+    by: 何澤清 tsechingho, T客邦
+    speakers:
+      - tsechingho
+    lang: tw
+
+  ruby-on-windows:
+    title: Ruby on Windows
+    by: 張銘軒 mason, 鴻海
+    speakers:
+      - mason
+    lang: tw
+
+  jruby-win2008:
+    title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
+    by: 盧韋仁 weijen, Handlino
+    speakers:
+      - weijen
+    lang: tw
+
+  keynote-qing:
+    title: Keynote
+    by:  王建興 Qing, 聖藍科技
+    speakers:
+      - qing
+    lang: tw
+
+  sass:
+    title: 'Sass: The Future of Stylesheets'
+    by: Chris Eppstein, Caring.com
+    speakers:
+      - chris
+    lang: en
+
+  compass-app:
+    title: 'Compass.app: When someone hates command line'
+    by: 呂旺燊 tka, Handlino
+    speakers:
+      - tka
+    lang: tw
+
+  ruby19:
+    title: Ruby 1.9.3 and Ruby 1.9 development
+    by: Yuki Sonoda, Google Japan
+    speakers:
+      - yugui
+    lang: en
+
+  keynote-peepcode:
+    title: Keynote
+    by: PeepCode
+    speakers:
+      - topfunky
+    lang: en
+
+  modular-rest:
+    title: A modular Ruby REST client collection/infrastructure
+    by: 林健欣 godfat, Cardinal Blue
+    speakers:
+      - godfat
+    lang: tw
+
+  crud-isnt-rest:
+    title: CRUD Is Not REST - Hypermedia For Y'All
+    by: Nick Sutterer, Freiburg/Germany
+    speakers:
+      - nick
+    lang: en
+
+  rails-sa:
+    title: Rails SA Practice
+    by: 林士淵&林聖哲 Felix&Vincent, T客邦
+    speakers:
+      - felix
+      - vincent
+    lang: tw
+
+  open-cms:
+    title: An Open CMS with MongoDB
+    by: Allen&Christophe&Matthew, Rulingcom
+    speakers:
+      - allen
+      - christophe
+      - matthew
+    lang: en
+
+  datamapper-adapter:
+    title: Writing custom DataMapper Adapters
+    by: Josh Moore, Optimis International
+    speakers:
+      - josh
+    lang: en
