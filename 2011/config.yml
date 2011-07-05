@@ -6,15 +6,18 @@ website:
     - information
 
 sponsors:
-  - abbr: newrelic
-    name: New Relic
-    url: http://www.newrelic.com/
-  - abbr: Techbang
-    name: T 客邦
-    url: http://www.techbang.com.tw
+  - abbr: rulingcom
+    name: Rulingcom
+    url: http://www.rulingcom.com/
+  - abbr: Handlino
+    name: Handlino
+    url: http://www.handlino.com/
   - abbr: optimusdev
     name: OptimusDev
     url: http://optimispt.com/
+  - abbr: ossf
+    name: OpenFoundry
+    url: http://www.openfoundry.org/
 
 speakers:
   - nickname: peepcode
