@@ -415,9 +415,6 @@ html.msie .coda-nav ul li a.current:hover span {
 	/* Change the width of the entire slider (without dynamic arrows) */
 	.coda-slider, .coda-slider .panel { width: 890px; } 
 
-	/* Tab nav */
-	.coda-nav ul li a.current { background: url(images/current.png) no-repeat center bottom; }
-
 	/* Panel padding */
 	.coda-slider .panel-wrapper { padding: 30px; }
 
@@ -428,7 +425,6 @@ html.msie .coda-nav ul li a.current:hover span {
 	.coda-nav ul li { display: inline }
 	.coda-nav ul li a { display: block; float: left; margin: 0 5px; padding-bottom: 17px; text-decoration: none }
 	.coda-nav ul li a:hover { background: none; }
-	.coda-nav ul li a.current:hover { background: url(images/current.png) no-repeat center bottom; }
 	.coda-nav ul li a img { display: block; }
 
 	/* Miscellaneous */

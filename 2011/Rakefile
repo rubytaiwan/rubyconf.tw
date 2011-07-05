@@ -48,7 +48,7 @@ namespace :speakers do
         img_to_sepia("images/speakers/#{s['nickname']}.png",
                      "images/speakers/#{s['nickname']}.sepia.png")
       else
-        # TODO: put an avatar of "somebody"
+        s['no_photo'] = true
       end
     end
     

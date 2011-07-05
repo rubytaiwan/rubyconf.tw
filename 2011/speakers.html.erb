@@ -5,7 +5,13 @@
   <div id="coda-nav-1" class="coda-nav">
     <ul>
       <% @speakers.each_with_index do |s,i| %>
-      <li class="tab<%= i %>"><a href="#<%= s['nickname'] %>"><span style="background-image:url(images/speakers/<%= s['nickname'] %>.png);"><img src="images/speakers/<%= s['nickname'] %>.sepia.png" alt="<%= s['name'] %>" /></span></a></li>             
+      <li class="tab<%= i %>"><a href="#<%= s['nickname'] %>">
+        <% if s['no_photo'] %>
+        <span style="background-color: #F0ADAD"><%= s['nickname'] %></span>
+        <% else %>
+        <span style="background-image:url(images/speakers/<%= s['nickname'] %>.png);"><img src="images/speakers/<%= s['nickname'] %>.sepia.png" alt="<%= s['name'] %>" /></span>
+        <% end %>
+      </a></li>
       <% end %>
     </ul>
   </div>
