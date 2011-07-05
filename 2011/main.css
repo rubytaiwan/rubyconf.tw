@@ -1,0 +1,438 @@
+/* Reset CSS v1.0 | 20080212 */ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; } body { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; } ins { text-decoration: none; } del { text-decoration: line-through; } table { border-collapse: collapse; border-spacing: 0; }
+/* self clear */ .group, .clear { clear: both; } .group:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+
+body {
+	background: #420000;
+	font-family: Verdana, 'LiHei Pro', 新細明體, sans-serif;
+	line-height: 1.5;
+	min-width: 1000px;
+	}
+a {
+	color: #a30;
+	}
+a:hover {
+	background: #a30;
+	color: white;
+	text-decoration: none;
+	}
+.inner {
+	width: 1000px;
+	margin: 0 auto;
+	}
+#header {
+	background: #920001;
+	}
+#header h1 {
+	text-indent: -99999em;
+	}
+
+#header .inner {
+	background: url(images/h1.jpg) no-repeat left top;
+	height: 320px;
+	position: relative;
+	}
+#header .date {
+	color: #f4e5e5;
+	position: absolute;
+	top: 105px;
+	left: 600px;
+	font-size: 15px;
+	line-height: 1.3;
+	background: url(images/arrow.png) no-repeat right top;
+	width: 150px;
+	padding-top: 10px;
+	}
+#header .date span {
+	font-size: 20px;
+	font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', Arial, sans-serif; 
+	font-weight: bold;
+	font-stretch: condensed;
+	}
+#header .register {
+	display: block;
+	text-indent: -99999em;
+	width: 140px;
+	height: 140px;
+	background: url(images/register.png) no-repeat left top;
+	position: absolute;
+	left: 743px;
+	top: 90px;
+	}
+#header .register:hover {
+	background-position: left bottom;
+	}
+#header .main-nav {
+	width: 890px;
+	position: absolute;
+	bottom: 0;
+	left: 55px;
+	}
+
+.main-nav li {
+	float: left;
+	width: 294px;
+	margin-right: 4px;
+	}
+.main-nav li.last {
+	margin: 0;
+	}
+.main-nav li a {
+	display: block;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #f9d18a;
+	background: rgb(127,0,0);
+	background: rgba(0,0,0,.2);
+	font-weight: bold;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-o-transition: all .3s;
+	}
+html.mac .main-nav li a {
+	font-size: 24px;
+	font-family: "proxima-nova-1", "proxima-nova-2", Verdana, sans-serif;
+	}
+.main-nav li a:hover {
+	color: white;
+	text-shadow: 0 0 8px rgba(255,255,255,1);
+	}
+.main-nav li a.current {
+	background: rgb(82,0,0);
+	cursor: default;
+	}
+.main-nav li a.current:hover {
+	text-shadow: none;
+	color: #f9d18a;
+	}
+#content {
+	background: #520000;
+	}
+#content .inner {
+	position: relative;
+	padding: 20px 0 40px;
+	}
+
+/* schedule */
+
+#content caption {
+	display: none;
+	}
+#content table {
+	width: 890px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	color: white;
+	font-size: 15px;
+	}
+#content table thead th {
+	border-bottom: 1px solid #712f2f;
+	}
+#content table thead th {
+	color: white;
+	}
+#content table thead th.time {
+	width: 150px;
+	}
+#content table thead th.session {
+	padding-left: 15px;
+	}
+#content table th {
+	padding: 10px;
+	text-align: left;
+	}
+#content table tbody th {
+	color: #cbb2b2;
+	font-weight: normal;
+	border-bottom: 1px solid #712f2f;
+	}
+#content table tbody td {
+	padding: 10px;
+	border-left: 10px solid #712f2f;
+	border-bottom: 1px solid #712f2f;
+	}
+#content table td h2 {
+	color: #f9d18a;
+	font-size: 17px;
+	}
+#content table td .fn {
+	font-size: 12px;
+	color: #dcccc9;
+	}
+#content table .odd {
+	}
+#content table .tea {
+	background: black;
+	}
+#content table .tea th,
+#content table .tea td {
+	padding: 5px 10px;
+	border: none;
+	border-bottom: 1px solid #712f2f;
+	}
+#content table .tea td h2 {
+	font-weight: normal;
+	font-size: 12px;
+	color: #666;
+	padding-left: 5px;
+	}
+#content table .lightning th {
+	background: black;
+	}
+#content table .lightning td {
+	background: black url(images/lightning.png) no-repeat -25px -3px;
+	padding-left: 45px;
+	font-style: italic;
+	border: none;
+	border-bottom: 1px solid #712f2f;
+	}
+#content table .lightning td h2 {
+	color: #eee;
+	text-shadow: 0 0 20px #f9d18a;
+	padding-bottom: 3px;
+	}
+
+
+/* information */
+
+.info {
+	width: 450px;
+	padding: 10px 20px 50px;
+	margin: 0 0 20px 120px;
+	color: #4d493d;
+	background: #fff4cd url(images/note.png) repeat-x bottom;
+
+	-webkit-transform: rotate(-.5deg);
+
+	}
+.info a {
+	text-decoration: none;
+	border-bottom: 1px solid #a30;
+	}
+.info h2 {
+	padding: 10px;
+	color: black;
+	border-bottom: 3px double #eee3bf;
+	line-height: 1.2;
+	}
+.info h3 {
+	font-size: 15px;
+	color: black;
+	}
+.info .description {
+	padding: 10px;
+	font-size: 12px;
+	}
+.info p {
+	margin: 1em 0;
+	}
+.info ul {
+	margin: 1em 0;
+	}
+.info li {
+	margin-bottom: 10px;
+	}
+.map {
+	border: 10px solid white;
+	background: #f2efe9;
+	height: 350px;
+	width: 350px;
+	overflow: hidden;
+
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .3);
+	-webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, .3);
+	-o-box-shadow: 2px 2px 10px rgba(0, 0, 0, .3);
+
+	position: absolute;
+	top: 45px;
+	right: 55px;
+	z-index: 100;
+	}
+
+/* coda panel */
+.panel .title {
+	font-size: 28px;
+	line-height: 1.2;
+	font-weight: bold;
+	}
+html.mac .panel .title {
+	font-size: 32px;
+	font-family: "proxima-nova-1", "proxima-nova-2", Verdana, sans-serif;
+	}
+.panel .title span {
+	font-size: .8em;
+	position: relative;
+	top: -1px;
+	}
+.panel .links a {
+	border: 1px solid #736d5a;
+	background: #b2a88b;
+	padding: 1px 10px 0;
+	color: black;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 1.5;
+	-khtml-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	}
+.panel .links a:hover {
+	background: black;
+	border-color: black;
+	color: white;
+	}
+.panel .links {
+	padding: 5px 0 10px;
+	position: relative;
+	left: -2px;
+	}
+.panel p {
+	font-size: 15px;
+	padding-bottom: 22px;
+	color: #4d493d;
+	}
+.panel .session {
+	border-top: 3px double #eee3bf;
+	padding-top: 10px;
+	font-size: 15px;
+	color: #4d493d;
+	}
+.panel .session h3 {
+	font-size: 20px;
+	line-height: 2;
+	font-weight: bold;
+	color: black;
+	}
+html.mac .panel .session h3 {
+	font-size: 24px;
+	font-family: "proxima-nova-1", "proxima-nova-2", Verdana, sans-serif;
+	}
+.panel .session p,
+.panel .session ul {
+	padding-bottom: 12px;
+	}
+.panel .session li {
+	margin-left: 50px;
+	list-style-type: disc;
+	}
+
+.coda-nav ul li a span {
+	display: block;
+	width: 90px;
+	height: 90px;
+	background-position: center center;
+
+	-webkit-transition: -webkit-transform .3s ease-in-out;
+	-moz-transition: -webkit-transform .3s ease-in-out;
+	-o-transition: -webkit-transform .3s ease-in-out;
+
+	}
+.coda-nav ul li a.current span {
+	
+	width: 90px;
+	height: 90px;
+
+	-webkit-transform: translate(-5px, -10px) rotate(715deg) scale(1.2);
+	-moz-transform: translate(-5px, -10px) rotate(715deg) scale(1.2);
+	-o-transform: translate(-5px, -10px) rotate(715deg) scale(1.2);
+
+	box-shadow: 5px 0 5px rgba(0, 0, 0, .3);
+	-webkit-box-shadow: 5px 0 5px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 5px 0 5px rgba(0, 0, 0, .3);
+	-o-box-shadow: 5px 0 5px rgba(0, 0, 0, .3);
+
+	border: 5px solid white;
+	position: relative;
+	z-index: 100;
+	position: relative;
+	margin: -5px;
+	cursor: default;
+
+	}
+
+.coda-nav ul li a:hover span {
+	border: 5px solid #7e0000;
+	margin: -5px;
+	}
+html.msie .coda-nav ul li a:hover span {
+	border: none;
+	margin: 0;
+	}
+.coda-nav ul li a.current:hover span,
+html.msie .coda-nav ul li a.current:hover span {
+	border: 5px solid white;
+	margin: -5px;
+	}
+.coda-nav ul li a.current span img {
+	display: none;
+	}
+
+
+/* sponsor */
+.sponsor {
+	background: white;
+	text-align: center;
+	font-size: 1px;
+	width: 890px;
+	margin: 0 auto;
+	padding: 0;
+	}
+.sponsor a:hover {
+	background: none;
+	}
+
+
+/* footer */
+#footer {
+	color: #cbb2b2;
+	font-size: 12px;
+	padding: 10px 0;
+	text-align: right;
+	text-shadow: 0 -1px 1px rgba(0,0,0,.7);
+	}
+#footer .inner {
+	width: 890px;
+	}
+
+
+/*
+	jQuery Coda-Slider v2.0 - http://www.ndoherty.biz/coda-slider
+	Copyright (c) 2009 Niall Doherty
+	This plugin available for use in all personal or commercial projects under both MIT and GPL licenses.
+*/
+	noscript div { background: #ccc; margin: 20px; padding: 15px }
+
+/* Most common stuff you'll need to change */
+
+	.coda-slider-wrapper { width: 900px; margin: 0 auto; padding: 17px 0 }
+	.coda-slider { background: #fff4cd url(images/note.png) repeat-x bottom; position: relative; left: 5px; }
+
+	/* Use this to keep the slider content contained in a box even when JavaScript is disabled */
+	.coda-slider-no-js .coda-slider { height: 200px; overflow: auto !important; padding-right: 20px }
+
+	/* Change the width of the entire slider (without dynamic arrows) */
+	.coda-slider, .coda-slider .panel { width: 890px; } 
+
+	/* Tab nav */
+	.coda-nav ul li a.current { background: url(images/current.png) no-repeat center bottom; }
+
+	/* Panel padding */
+	.coda-slider .panel-wrapper { padding: 30px; }
+
+/* Don't change anything below here unless you know what you're doing */
+
+	/* Tabbed nav */
+	.coda-nav ul { clear: both; display: block; margin: auto; }
+	.coda-nav ul li { display: inline }
+	.coda-nav ul li a { display: block; float: left; margin: 0 5px; padding-bottom: 17px; text-decoration: none }
+	.coda-nav ul li a:hover { background: none; }
+	.coda-nav ul li a.current:hover { background: url(images/current.png) no-repeat center bottom; }
+	.coda-nav ul li a img { display: block; }
+
+	/* Miscellaneous */
+	.coda-slider-wrapper { clear: both; }
+	.coda-slider { float: left; overflow: hidden; position: relative }
+	.coda-slider .panel { display: block; float: left }
+	.coda-slider .panel-container { position: relative }	
