@@ -1,2 +1,3 @@
 source :rubygems
 gem 'redcarpet' # Markdown compiler
+gem 'rmagick'
