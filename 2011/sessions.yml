@@ -25,6 +25,7 @@ details:
     speakers: 
       - wildjcrt
     lang: tw
+    length: 50
 
   rails-boom:
     title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
@@ -32,6 +33,7 @@ details:
     speakers:
       - manic
     lang: tw
+    length: 50
 
   social-media:
     title: Using Ruby in Social Media platform
@@ -39,6 +41,7 @@ details:
     speakers:
       - jack
     lang: en
+    length: 50
 
   sinatra:
     title: Sinatra, good friend to Rails
@@ -46,6 +49,7 @@ details:
     speakers:
       - ryudo
     lang: tw
+    length: 50
 
   design-pattern:
     title: Essential Rails Design Pattern
@@ -53,6 +57,7 @@ details:
     speakers:
       - xdite
     lang: tw
+    length: 50
 
   devise:
     title: 善用 Devise 建置會員系統
@@ -74,6 +79,7 @@ details:
     speakers:
       - weijen
     lang: tw
+    length: 45
 
   keynote-qing:
     title: Keynote
@@ -81,6 +87,7 @@ details:
     speakers:
       - qing
     lang: tw
+    length: 30
 
   sass:
     title: 'Sass: The Future of Stylesheets'
@@ -88,6 +95,7 @@ details:
     speakers:
       - chris
     lang: en
+    length: 50
 
   compass-app:
     title: 'Compass.app: When someone hates command line'
@@ -95,6 +103,7 @@ details:
     speakers:
       - tka
     lang: tw
+    length: 30
 
   ruby19:
     title: Ruby 1.9.3 and Ruby 1.9 development
@@ -102,6 +111,7 @@ details:
     speakers:
       - yugui
     lang: en
+    length: 30
 
   keynote-peepcode:
     title: Keynote
@@ -109,13 +119,15 @@ details:
     speakers:
       - topfunky
     lang: en
+    length: 50
 
   modular-rest:
     title: A modular Ruby REST client collection/infrastructure
     by: 林健欣 godfat, Cardinal Blue
     speakers:
       - godfat
-    lang: tw
+    lang: zh
+    length: 30
 
   crud-isnt-rest:
     title: CRUD Is Not REST - Hypermedia For Y'All
@@ -123,6 +135,7 @@ details:
     speakers:
       - nick
     lang: en
+    length: 30
 
   rails-sa:
     title: Rails SA Practice
@@ -131,6 +144,7 @@ details:
       - felix
       - vincent
     lang: tw
+    length: 30
 
   open-cms:
     title: An Open CMS with MongoDB
@@ -140,6 +154,7 @@ details:
       - christophe
       - matthew
     lang: en
+    length: 30
 
   datamapper-adapter:
     title: Writing custom DataMapper Adapters
@@ -147,3 +162,4 @@ details:
     speakers:
       - josh
     lang: en
+    length: 30
