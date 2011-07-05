@@ -4,12 +4,14 @@
 <div class="coda-slider-wrapper">
   <div id="coda-nav-1" class="coda-nav">
     <ul>
-      <% @speakers.each_with_index do |s,i| %>
-      <li class="tab<%= i %>"><a href="#<%= i %>">
-        <% if s['no_photo'] %>
-        <span style="background-color: #F0ADAD"><%= s['nickname'] %></span>
+      <% @sessions['order'].each_with_index do |session_name,i| %>
+      <li class="tab<%= i %>"><a href="#<%= i + 1%>">
+        <% session = @sessions['details'][session_name] %>
+
+        <% unless session['photo_base'] %>
+        <span style="background-color: #F0ADAD"><%= session['speakers'].join(', ') %></span>
         <% else %>
-        <span style="background-image:url(images/speakers/<%= s['nickname'] %>.png);"><img src="images/speakers/<%= s['nickname'] %>.sepia.png" alt="<%= s['name'] %>" /></span>
+        <span style="background-image:url(images/speakers/<%= session['photo_base'] %>.png);"><img src="images/speakers/<%= session['photo_base'] %>.sepia.png" alt="<%= session['speakers'].map { |s| @speakers[s]['name'] }.join(', ') %>" /></span>
         <% end %>
       </a></li>
       <% end %>
@@ -17,12 +19,20 @@
   </div>
 
   <div class="coda-slider preload" id="coda-slider-1">
-    <% @speakers.each_with_index do |s,i| %>
-    <div class="panel">
-      <div class="panel-wrapper">
-        <%= s['contents'] %>
+    <% @sessions['order'].each do |session_name| %>
+      <div class="panel">
+        <div class="panel-wrapper">
+
+          <% session = @sessions['details'][session_name] %>
+          <% session['speakers'].each do |speaker_nickname| %>
+            <% speaker = @speakers[speaker_nickname] %>
+
+            <p><%= speaker['intro'] %></p>
+          <% end %>
+
+          <div class='session'><%= session['intro'] %></div>
+        </div>
       </div>
-    </div>
     <% end %>
   </div>
 </div>

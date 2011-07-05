@@ -11,6 +11,10 @@ end
 
 @config = YAML::load_file('config.yml')
 
+@speakers = YAML::load_file('speakers.yml')
+@schedule = YAML::load_file('schedule.yml')
+@sessions = YAML::load_file('sessions.yml')
+
 task :default => ["speakers:all", "schedule:all"]
 
 task :clean => ["speakers:clean", "schedule:clean"] 
@@ -33,23 +37,33 @@ end
 
 namespace :speakers do
   target = 'speakers.html'
-  @speakers = @config['speakers']
 
   task :all do
-    @speakers.each do |s|
-      md = "speakers/#{s['nickname']}.md"
+    @speakers.each_pair do |nickname,speaker|
+      
+      speaker['intro'] = ""
+      md = "speakers/#{nickname}.md"
       if File.exists? md
-        s['contents'] = markdown(md)
+        speaker['intro'] = markdown(md)
       else
-        s['contents'] = "<h2>#{s['name']}</h2><p>Introductions Coming Soon!</p>"
+        speaker['intro'] = "<h2>#{speaker['name']}</h2><p>Introductions Coming Soon!</p>"
+      end
+    end
+
+    @sessions['details'].each_pair do |key,session|
+
+      photo_base = session['speakers'].join('-')
+      photo = "images/speakers/#{photo_base}.png"
+      photo_sepia = File.join(File.dirname(photo), "#{File.basename(photo, '.png')}.sepia.png")
+      puts photo_sepia
+      if File.exists? photo
+        img_to_sepia(photo, photo_sepia)
+        session['photo_base'] = photo_base
+      else
+        session['photo_base'] = nil
       end
 
-      if File.exists? "images/speakers/#{s['nickname']}.png"
-        img_to_sepia("images/speakers/#{s['nickname']}.png",
-                     "images/speakers/#{s['nickname']}.sepia.png")
-      else
-        s['no_photo'] = true
-      end
+      session['intro'] = markdown("sessions/#{key}.md")
     end
     
     @current_page = 'speakers'
@@ -60,28 +74,24 @@ namespace :speakers do
   end
   
   task :clean do
-    @speakers.each do |s|
-      sh "rm -f images/speakers/#{s['nickname']}.sepia.png"
+    @sessions['details'].each_value do |session|
+      sh "rm -f images/speakers/#{session['speakers'].join('-')}.sepia.png"
     end
     sh "rm -f #{target}"
   end
 end
 
 namespace :schedule do
-  @schedule = YAML::load_file('schedule.yml')
   target = 'schedule.html'
 
   task :all do
     speaker_indices = {}
-    @config['speakers'].each_index do |i|
-      speaker_indices[ @config['speakers'][i]['nickname'] ] = i + 1
+    @sessions['order'].each_with_index do |session,i|
+      speaker_indices[ session ] = i + 1
     end
 
-    @schedule.each do |day|
-      sessions = day['morning'] + day['afternoon']
-      sessions.each do |s|
-        s['speaker']['slider_id'] = speaker_indices[ s['speaker']['nickname'] ]
-      end
+    @sessions['details'].each_pair do |session_name, session|
+      session['speakers_slider_id'] = speaker_indices[ session_name ]
     end
 
     @current_page = 'schedule'
