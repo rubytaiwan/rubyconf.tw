@@ -28,6 +28,14 @@
             <% speaker = @speakers[speaker_nickname] %>
 
             <h2 class="title fn"><%= speaker['name'] %></h2>
+
+            <% if speaker['links'] != nil %>
+            <div class="links">
+              <% speaker['links'].each_value do |url| %>
+                <a href="<%= url %>" class="url"><%= url.gsub(/^http:\/\//, '') %></a>
+              <% end %>
+            </div>
+            <% end %>
             <p><%= speaker['intro'] %></p>
           <% end %>
 
