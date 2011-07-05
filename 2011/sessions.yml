@@ -24,7 +24,7 @@ details:
     by: 李昆航 wildjcrt, PIXNET
     speakers: 
       - wildjcrt
-    lang: tw
+    lang: zh
     length: 50
 
   rails-boom:
@@ -32,7 +32,7 @@ details:
     by: Manic, PIXNET
     speakers:
       - manic
-    lang: tw
+    lang: zh
     length: 50
 
   social-media:
@@ -48,7 +48,7 @@ details:
     by: 鄧慕凡 ryudo
     speakers:
       - ryudo
-    lang: tw
+    lang: zh
     length: 50
 
   design-pattern:
@@ -56,7 +56,7 @@ details:
     by: 鄭伊廷 xdite, T客邦
     speakers:
       - xdite
-    lang: tw
+    lang: zh
     length: 50
 
   devise:
@@ -64,21 +64,23 @@ details:
     by: 何澤清 tsechingho, T客邦
     speakers:
       - tsechingho
-    lang: tw
+    lang: zh
+    length: 50
 
   ruby-on-windows:
     title: Ruby on Windows
     by: 張銘軒 mason, 鴻海
     speakers:
       - mason
-    lang: tw
+    lang: zh
+    length: 45
 
   jruby-win2008:
     title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
     by: 盧韋仁 weijen, Handlino
     speakers:
       - weijen
-    lang: tw
+    lang: zh
     length: 45
 
   keynote-qing:
@@ -86,7 +88,7 @@ details:
     by:  王建興 Qing, 聖藍科技
     speakers:
       - qing
-    lang: tw
+    lang: zh
     length: 30
 
   sass:
@@ -102,7 +104,7 @@ details:
     by: 呂旺燊 tka, Handlino
     speakers:
       - tka
-    lang: tw
+    lang: zh
     length: 30
 
   ruby19:
@@ -143,7 +145,7 @@ details:
     speakers:
       - felix
       - vincent
-    lang: tw
+    lang: zh
     length: 30
 
   open-cms:
