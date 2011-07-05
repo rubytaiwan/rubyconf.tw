@@ -1,0 +1,22 @@
+<script type="text/javascript" src="js/jquery.coda-slider-2.0.js" ></script>
+<script type="text/javascript" src="js/rubyconf.js" ></script>
+
+<div class="coda-slider-wrapper">
+  <div id="coda-nav-1" class="coda-nav">
+    <ul>
+      <% @speakers.each_with_index do |s,i| %>
+      <li class="tab<%= i %>"><a href="#<%= s['nickname'] %>"><span style="background-image:url(images/speakers/<%= s['nickname'] %>.png);"><img src="images/speakers/<%= s['nickname'] %>.sepia.png" alt="<%= s['name'] %>" /></span></a></li>             
+      <% end %>
+    </ul>
+  </div>
+
+  <div class="coda-slider preload" id="coda-slider-1">
+    <% @speakers.each_with_index do |s,i| %>
+    <div class="panel">
+      <div class="panel-wrapper">
+        <%= s['contents'] %>
+      </div>
+    </div>
+    <% end %>
+  </div>
+</div>
