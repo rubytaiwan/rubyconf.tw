@@ -1,32 +1,68 @@
-task :default => ["markdown:compile"]
+require 'yaml'
+require 'erb'
 
-task :clean => ["markdown:clean"] 
+require 'rubygems'
+require 'redcarpet'
 
-namespace :markdown do
-  require 'rubygems'
-  require 'redcarpet'
-  
-  files = Dir["speakers/*.md", "README.md"]
-  
-  task :compile do
-    files.each do |src|
-      base   = File.basename(src, '.md')
-      dir    = File.dirname(src)
-      target = File.join(dir, "#{base}.html")
+def markdown(src)
+  extensions = [ :autolink, :hard_wrap ]
+  Redcarpet.new(File.read(src), *extensions).to_html
+end
 
-      puts "redcarpet #{src}"
-      File.open(target, "w") do |file|
-        file.write Redcarpet.new(File.read(src)).to_html
+@config = YAML::load_file('config.yml')
+
+task :default => ["speakers:all"]
+
+task :clean => ["speakers:clean"] 
+
+def img_to_sepia(source, target)
+  # code modified form http://www.imagemagick.org/RMagick/doc/colorize.rb.html
+  require 'RMagick'
+
+  img = Magick::Image.read(source).first
+
+  # Convert the color image to monochrome
+  mono = img.quantize(256, Magick::GRAYColorspace)
+
+  # TODO: find a better color
+  colorized = mono.colorize(0.50, 0.50, 0.50, '#f9d28b')
+
+  colorized.resize!(90, 90)
+  colorized.write(target)
+end
+
+namespace :speakers do
+  target = 'speakers.html'
+  @speakers = @config['speakers']
+
+  task :all do
+    @speakers.each do |s|
+      md = "speakers/#{s['nickname']}.md"
+      if File.exists? md
+        s['contents'] = markdown(md)
+      else
+        s['contents'] = "<h2>#{s['name']}</h2><p>Introductions Coming Soon!</p>"
       end
+
+      if File.exists? "images/speakers/#{s['nickname']}.png"
+        img_to_sepia("images/speakers/#{s['nickname']}.png",
+                     "images/speakers/#{s['nickname']}.sepia.png")
+      else
+        # TODO: put an avatar of "somebody"
+      end
+    end
+    
+    @current_page = 'speakers'
+    File.open(target, "w") do |f|
+      @contents = ERB.new(File.read('speakers.html.erb')).result
+      f.write ERB.new(File.read(@config['website']['layout'])).result
     end
   end
   
   task :clean do
-    files.each do |src|
-      base   = File.basename(src, '.md')
-      dir    = File.dirname(src)
-      target = File.join(dir, "#{base}.html")
-      sh "rm #{target}"
+    @speakers.each do |s|
+      sh "rm -f images/speakers/#{s['nickname']}.sepia.png"
     end
+    sh "rm -f #{target}"
   end
 end

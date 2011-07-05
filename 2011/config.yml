@@ -1,0 +1,55 @@
+website:
+  layout: layout.html.erb
+  pages:
+    - speakers
+    - schedule
+    - information
+
+sponsors:
+  - abbr: newrelic
+    name: New Relic
+    url: http://www.newrelic.com/
+  - abbr: Techbang
+    name: T 客邦
+    url: http://www.techbang.com.tw
+  - abbr: optimusdev
+    name: OptimusDev
+    url: http://optimispt.com/
+
+speakers:
+  - nickname: peepcode
+    name: Peepcode # required
+  - nickname: qing
+    name: 王建興 Qing Wang
+  - nickname: yugui
+    name: Yuki Sonoda 園田裕貴
+  - nickname: chris-eppstein
+    name: Chris Eppstein
+  - nickname: tka
+    name: 呂旺燊 Wang-Shen Lu
+  - nickname: godfat
+    name: Lin Jen Shin
+  - nickname: nick
+    name: Nick Sutterer
+  - nickname: felix-vincent
+    name: '林士淵 Shih-Yuan Lin, 林聖哲 Sheng-Zhe Lin'
+  - nickname: allen
+    name: Allen # required
+  - nickname: josh
+    name: Joshua Moore
+  - nickname: wildjcrt
+    name: 李昆航 KUN-KANG LEE
+  - nickname: manic
+    name: Manic
+  - nickname: jack
+    name: Chen Jack S Y
+  - nickname: ryudo
+    name: 鄧慕凡
+  - nickname: xdite
+    name:  鄭伊廷 Yi-Ting Cheng
+  - nickname: tsechingho
+    name: 何澤清 Tse-Ching Ho
+  - nickname: mason
+    name: Mason Chang 張銘軒
+  - nickname: weijen
+    name: 盧韋仁 Wei-Jen Lu
