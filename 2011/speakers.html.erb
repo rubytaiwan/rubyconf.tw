@@ -27,6 +27,7 @@
           <% session['speakers'].each do |speaker_nickname| %>
             <% speaker = @speakers[speaker_nickname] %>
 
+            <h2 class="title fn"><%= speaker['name'] %></h2>
             <p><%= speaker['intro'] %></p>
           <% end %>
 

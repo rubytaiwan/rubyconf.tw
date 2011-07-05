@@ -311,13 +311,13 @@ html.mac .panel .title {
 	font-size: 15px;
 	color: #4d493d;
 	}
-.panel .session h3 {
+.panel .session h2 {
 	font-size: 20px;
 	line-height: 2;
 	font-weight: bold;
 	color: black;
 	}
-html.mac .panel .session h3 {
+html.mac .panel .session h2 {
 	font-size: 24px;
 	font-family: "proxima-nova-1", "proxima-nova-2", Verdana, sans-serif;
 	}
