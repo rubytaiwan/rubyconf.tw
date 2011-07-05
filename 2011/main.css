@@ -311,13 +311,13 @@ html.mac .panel .title {
 	font-size: 15px;
 	color: #4d493d;
 	}
-.panel .session h2 {
+.panel .session h3 {
 	font-size: 20px;
 	line-height: 2;
 	font-weight: bold;
 	color: black;
 	}
-html.mac .panel .session h2 {
+html.mac .panel .session h3 {
 	font-size: 24px;
 	font-family: "proxima-nova-1", "proxima-nova-2", Verdana, sans-serif;
 	}
@@ -329,7 +329,12 @@ html.mac .panel .session h2 {
 	margin-left: 50px;
 	list-style-type: disc;
 	}
-
+.panel .session p.lang-length {
+  font-size: 12px;
+  }
+.panel .session p.lang-length span {
+  font-weight: bold;
+  }
 .coda-nav ul li a span {
 	display: block;
 	width: 90px;

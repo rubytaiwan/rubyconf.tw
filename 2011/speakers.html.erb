@@ -39,7 +39,11 @@
             <p><%= speaker['intro'] %></p>
           <% end %>
 
-          <div class='session'><%= session['intro'] %></div>
+          <div class='session'>
+            <h3><%= session['title'] %></h3>
+            <p class='lang-length'><span><%= @config['lang'][session['lang']] %></span>, <%= session['length'] %> minutes.</p>
+            <%= session['intro'] %>
+          </div>
         </div>
       </div>
     <% end %>

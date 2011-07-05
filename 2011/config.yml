@@ -5,6 +5,10 @@ website:
     - schedule
     - information
 
+lang:
+  zh: Chinese
+  en: English
+
 sponsors:
   - abbr: rulingcom
     name: Rulingcom
