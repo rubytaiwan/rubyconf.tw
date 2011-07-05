@@ -1,78 +1,83 @@
-- nickname: topfunky
+topfunky:
   name: Geoffrey Grosenbach
-  twitter: topfunky
-  blog: http://blog.peepcode.com/
-- nickname: qing
+  links:
+    twitter: http://twitter.com/topfunky
+    blog: http://blog.peepcode.com
+qing:
   name: 王建興 Qing Wang
-  twitter: qing_wang
-  blog: http://www.javaworld.com.tw/roller/qing/
-- nickname: yugui
+  links:
+    twitter: http://twitter.com/qing_wang
+    blog: http://www.javaworld.com.tw/roller/qing
+yugui:
   name: Yuki Sonoda 園田裕貴
-  twitter: yugui
-  blog: http://yugui.jp/
-- nickname: chris
+  links:
+    twitter: http://twitter.com/yugui
+    blog: http://yugui.jp
+chris:
   name: Chris Eppstein
-  twitter: chriseppstein
-  blog: http://chriseppstein.github.com/
-- nickname: tka
+  links:
+    twitter: http://twitter.com/chriseppstein
+    blog: http://chriseppstein.github.com
+tka:
   name: 呂旺燊 Wang-Shen Lu
-  twitter: tkalu
-  blog: http://www.tkalu.com/
-- nickname: godfat
+  links:
+    twitter: http://twitter.com/tkalu
+    blog: http://www.tkalu.com
+godfat:
   name: Lin Jen Shin
-  twitter: godfat
-  blog: http://profile.godfat.org
-- nickname: nick
+  links:
+    twitter: http://twitter.com/godfat
+    blog: http://profile.godfat.org
+nick:
   name: Nick Sutterer
-  twitter:
-  blog: 
-- nickname: felix
+  links:
+felix:
   name: 林士淵 Shih-Yuan Lin
-  twitter: hellolucky123
-  blog: http://blog.hellolucky.info
-  twitter:
-  blog: 
-- nickname: vincent
+  links:
+    twitter: http://twitter.com/hellolucky123
+    blog: http://blog.hellolucky.info
+vincent:
   name: 林聖哲 Sheng-Zhe Lin
-  twitter: v1nc3ntlaw
-  blog: http://about.me/v1nc3ntlaw
-- nickname: rulingcom
-  name: 'Allen & Christophe & Matthew'
-  twitter:
-  blog: 
-- nickname: josh
+  links:
+    twitter: http://twitter.com/v1nc3ntlaw
+    blog: http://about.me/v1nc3ntlaw
+allen:
+  name: Allen Cheng 鄭緯綸
+  links:
+christophe:
+  name: Christophe Vilayphiou 林順發
+  links:
+matthew:
+  name: Matthew Kaito Fu 傅儒淵
+  links:
+josh:
   name: Joshua Moore
-  twitter:
-  blog: 
-- nickname: wildjcrt
+  links:
+wildjcrt:
   name: 李昆航 KUN-KANG LEE
-  twitter: wildjcrt
-  blog: http://wildjcrt.pixnet.net/blog
-- nickname: manic
+  links:
+    twitter: http://twitter.com/wildjcrt
+    blog: http://wildjcrt.pixnet.net/blog
+manic:
   name: Manic
-  twitter:
-  blog: 
-- nickname: jack
+  links:
+jack:
   name: Chen Jack S Y
-  twitter:
-  blog: 
-- nickname: ryudo
+  links:
+ryudo:
   name: 鄧慕凡
-  twitter:
-  blog: 
-- nickname: xdite
+  links:
+xdite:
   name:  鄭伊廷 Yi-Ting Cheng
-  twitter: xdite
-  blog: http://blog.xdite.net/
-- nickname: tsechingho
+  links:
+    twitter: http://twitter.com/xdite
+    blog: http://blog.xdite.net
+tsechingho:
   name: 何澤清 Tse-Ching Ho
-  twitter:
-  blog: 
-- nickname: mason
+  links:
+mason:
   name: Mason Chang 張銘軒
-  twitter:
-  blog: 
-- nickname: weijen
+  links:
+weijen:
   name: 盧韋仁 Wei-Jen Lu
-  twitter: weijenlu
-  blog: 
+  links:
