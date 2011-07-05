@@ -5,5 +5,5 @@
 * CURD 會寫了之後，可以做基本的報修系統。
 * 實用網站 apidock、ruby-toolbox、rubygems、github
 * devise、omniauth
-* kaminari、nokogiri、simple_form、client_side_validations、ancestry、meta_search、richrc
+* kaminari、nokogiri、simple\_form、client\_side\_validations、ancestry、meta\_search、richrc
 * 進修各種可用的工具 railscasts、ruby5、asciicasts、rubyshow
