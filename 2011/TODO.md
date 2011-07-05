@@ -6,12 +6,10 @@
 
 ## speakers.html
 
-* coda-slider for speaker avatars
+* find a better colorize arguments for sepia style
 * missing photos of speakers:
-  * peepcode
   * tka
   * nick
-  * felix and vincent
   * allen
   * manic
   * jack
