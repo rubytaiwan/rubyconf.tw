@@ -3,6 +3,6 @@ $(function(){
 		dynamicArrows: false,			dynamicTabs: false,
 		autoHeightEaseDuration: 100,
 		slideEaseDuration: 100,
-		firstPanelToLoad: 4
+		firstPanelToLoad: 1
 	});
 });
