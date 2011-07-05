@@ -1,0 +1,1 @@
+Allen Cheng is the founder of RulingDigital, which is now the biggest academic CMS provider in Taiwan, and is planning to switch all his thousands and keep growing websites from PHP to Rails. And then, open the CMS.

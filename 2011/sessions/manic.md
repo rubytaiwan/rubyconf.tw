@@ -1,10 +1,3 @@
-# Manic
-
-Twitter:
-Blog: 
-
-痞客邦 程式設計師，之前主要是寫PHP, 最近才跑來寫RAILS。
-
 ## Subject
 
 Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉

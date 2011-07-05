@@ -1,0 +1,1 @@
+Chris Eppstein is the Software Architect at Caring.com, the creator of the Compass stylesheet framework, and a Sass core team member. Chris is an active member of the Ruby open source community having created or contributed to over 50 open source projects.

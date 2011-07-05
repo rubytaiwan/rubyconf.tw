@@ -1,10 +1,3 @@
-# 盧韋仁 Wei-Jen Lu
-
-Twitter: https://twitter.com/#!/weijenlu
-Blog:
-
-Wei-Jen Lu is Rails developer of Handlino Inc. in Hsinchu. He is also an active member of Ruby Taiwan community.
-
 ## Subject
 
 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案

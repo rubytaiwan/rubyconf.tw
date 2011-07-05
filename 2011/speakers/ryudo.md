@@ -1,0 +1,1 @@
+鄧慕凡, 遊戲界出身; 目前除了從事Ruby/Rails/Sinatra程式設計外, 也是台灣最大免費論壇系統FREEBBS.TW 與 遊戲公會網(GAMECLUB.TW)的創辦人之一. 

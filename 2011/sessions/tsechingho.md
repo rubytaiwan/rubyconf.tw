@@ -1,10 +1,3 @@
-# 何澤清 Tse-Ching Ho
-
-Twitter:
-Blog:
-
-何澤清（Tse-Ching Ho），現職T客邦資深工程師。自2008年開始自學 Rails 2，喜愛研究各種 ruby gem 的架構，對於善用程式技術來打造實用度高的網站應用特別感興趣。
-
 ## Subject
 
 善用 Devise 建置會員系統

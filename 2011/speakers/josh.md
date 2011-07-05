@@ -1,0 +1,1 @@
+Joshua Moore (Optimis International) I am a ruby/rails developer working for OptimisCorp in Taiwan. I haven been involved with ruby, personally and professionally, for over 2 years.   I tend to enjoy deploying to the cloud and have spent a lot of time working with Ruby on the Google App Engine. You can find more about me at github: https://github.com/joshsmoore.
