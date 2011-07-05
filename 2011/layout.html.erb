@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>RubyConf Taiwan 2011</title>
+  <meta name="description" content="RubyConf Taiwan 2011 will be held on August 26 and 27, 2011 in Academia Sinica(中央研究院 人文社會科學館), Taipei.">
+  <meta name="keywords" content="ruby,rails,conf,conference,developer,open,source,taiwan,2011" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/rubytaiwan" />
+  <link rel="stylesheet" type="text/css" href="main.css" media="screen" />
+  <!--[if !IE]><!-->
+  <script type="text/javascript" src="http://use.typekit.com/dfc7rcl.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <!--<![endif]-->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.browser.min.js" ></script>
+  <script type="text/javascript" src="js/jquery.easing.1.3.js" ></script>
+
+</head>
+<body class="coda-slider-no-js">
+
+<noscript>
+  <div>
+        <p>Unfortunately your browser does not have JavaScript capabilities which are required to exploit full functionality of our site. This could be the result of two possible scenarios:</p>
+        <ol>
+            <li>You are using an old web browser, in which case you should upgrade it to a newer version. We recommend the latest version of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome/">Chrome</a> or <a href="http://www.getfirefox.com">Firefox</a>.</li>
+            <li>You have disabled JavaScript in you browser, in which case you will have to enable it to properly use our site. <a href="http://www.google.com/support/bin/answer.py?answer=23852">Learn how to enable JavaScript</a>.</li>
+        </ol>
+    </div>
+</noscript>
+
+<div id="header"><div class="inner group">
+  <h1>RubyConf Taiwan 2011</h1>
+  <p class="date"><span>2011/8/26 to 8/27</span><br />中央研究院<br />人文館會議廳<br /><span>Taipei, Taiwan</span></p>
+  <a href="#" class="register">Register Now!</a>
+  <ul class="main-nav group">
+    <% page_count = @config['website']['pages'].size %>
+    <% @config['website']['pages'].each_with_index do |page,i| %>
+      <li <%= 'class="last"' if page_count == i + 1 %>>
+      <% if @current_page == page %>
+        <a href="./" class="current">
+      <% else %>
+        <a href="<%= page %>">
+      <% end %>
+      <%= page.capitalize %></a></li>
+    <% end %>
+  </ul>
+</div></div>
+
+<div id="content"><div class="inner group">
+
+  <div class="sponsor">
+    <% @config['sponsors'].each do |s| %>
+      <a href="<%= s['url'] %>"><img src="images/sponsors/banner_<%= s['abbr'] %>.png" alt="<%= s['name'] %>" /></a>
+    <% end %>
+  </div>
+  
+  <%= @contents %>
+
+</div></div>
+<div id="footer"><div class="inner">
+  <p>Feel free to contact us: <a href="mailto:2011@rubyconf.tw">2010@rubyconf.tw</a></p>
+  <p class="designby">
+    <a href="http://ruby.tw">Ruby Taiwan</a> | Site design by <a href="http://evendesign.tw">EvenDesign</a> | Hosted by <a href="http://www.openfoundry.org" target="_blank">OSSF</a>
+  </p>
+</div></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-145330-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
