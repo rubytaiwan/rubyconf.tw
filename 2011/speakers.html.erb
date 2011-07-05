@@ -5,7 +5,7 @@
   <div id="coda-nav-1" class="coda-nav">
     <ul>
       <% @speakers.each_with_index do |s,i| %>
-      <li class="tab<%= i %>"><a href="#<%= s['nickname'] %>">
+      <li class="tab<%= i %>"><a href="#<%= i %>">
         <% if s['no_photo'] %>
         <span style="background-color: #F0ADAD"><%= s['nickname'] %></span>
         <% else %>

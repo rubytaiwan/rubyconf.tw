@@ -25,7 +25,7 @@ def img_to_sepia(source, target)
   mono = img.quantize(256, Magick::GRAYColorspace)
 
   # TODO: find a better color
-  colorized = mono.colorize(0.50, 0.50, 0.50, '#f9d28b')
+  colorized = mono.colorize(0.0, 0.3, 0.3, '#520000')
 
   colorized.resize!(90, 90)
   colorized.write(target)
@@ -72,6 +72,18 @@ namespace :schedule do
   target = 'schedule.html'
 
   task :all do
+    speaker_indices = {}
+    @config['speakers'].each_index do |i|
+      speaker_indices[ @config['speakers'][i]['nickname'] ] = i + 1
+    end
+
+    @schedule.each do |day|
+      sessions = day['morning'] + day['afternoon']
+      sessions.each do |s|
+        s['speaker']['slider_id'] = speaker_indices[ s['speaker']['nickname'] ]
+      end
+    end
+
     @current_page = 'schedule'
 
     File.open(target, "w") do |f|
