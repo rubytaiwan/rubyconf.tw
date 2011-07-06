@@ -1,0 +1,1 @@
+How does one start with nothing and make something? When we write computer programs, we start with only our thoughts. One can improve one's skills and write better programs by using techniques well known to creative artists: scratchpads, prototypes, thought streams, side projects.
