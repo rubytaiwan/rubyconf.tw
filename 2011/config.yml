@@ -4,6 +4,7 @@ website:
     - speakers
     - schedule
     - information
+  welcome: speakers # will become index.html
 
 lang:
   zh: Chinese

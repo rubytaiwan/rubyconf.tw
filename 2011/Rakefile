@@ -15,9 +15,14 @@ end
 @schedule = YAML::load_file('schedule.yml')
 @sessions = YAML::load_file('sessions.yml')
 
-task :default => ["speakers:all", "schedule:all"]
+task :default => ["speakers:all", "schedule:all"] do
+  welcome = @config['website']['welcome']
+  sh "mv #{welcome}.html index.html"
+end
 
-task :clean => ["speakers:clean", "schedule:clean"] 
+task :clean => ["speakers:clean", "schedule:clean"] do
+  sh "rm -f index.html"
+end
 
 def img_to_sepia(source, target)
   # code modified form http://www.imagemagick.org/RMagick/doc/colorize.rb.html
