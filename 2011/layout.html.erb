@@ -36,10 +36,10 @@
     <% page_count = @config['website']['pages'].size %>
     <% @config['website']['pages'].each_with_index do |page,i| %>
       <li <%= 'class="last"' if page_count == i + 1 %>>
-      <% if @current_page == page %>
-        <a href="./" class="current">
+      <% if @config['website']['welcome'] == page %>
+        <a href="./" <%='class="current"' if @current_page == page %>>
       <% else %>
-        <a href="<%= page %>">
+        <a href="<%= page %>.html" <%='class="current"' if @current_page == page %>>
       <% end %>
       <%= page.capitalize %></a></li>
     <% end %>
