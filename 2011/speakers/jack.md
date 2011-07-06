@@ -7,5 +7,3 @@ Leading the development group for a social media platform, which is a Ruby + Rai
 Worked in a startup company based in Hong Kong and Singapore, mainly for a social network Creative Commons platform
 
 Worked in investment Dep., HSBC Hong Kong
-
-Twitter: @aquajach
