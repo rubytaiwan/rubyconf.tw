@@ -1,5 +1,5 @@
 order:
-  - keynote-peepcode
+  - keynote-code-creativity
   - keynote-qing
   - ruby19
   - sass
@@ -115,7 +115,7 @@ details:
     lang: en
     length: 30
 
-  keynote-peepcode:
+  keynote-code-creativity:
     title: Keynote - Code & Creativity
     by: PeepCode
     speakers:
