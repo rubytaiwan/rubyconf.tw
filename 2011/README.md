@@ -44,7 +44,7 @@
 
 5min talk. Please submit via GitHub: Fork this project, add your speaker information and subject in this page, then send pull request.
 
-1. Saurabh Bhatia [T](http://twitter.com/safew) [website](http://safewlabs.com) - Shoes: A Ruby Desktop and Windowing Toolkit
+1. Saurabh Bhatia [Twitter](http://twitter.com/safew) [Website](http://safewlabs.com) - Shoes: A Ruby Desktop and Windowing Toolkit
 
 ## Individual Sponsors
 
