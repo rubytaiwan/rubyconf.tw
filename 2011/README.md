@@ -53,6 +53,11 @@ We accept individual sponsor this year and the price is >= TWD $3000. You will g
 * one copy of [Rails 101 - Learn Rails in 7 days](http://rails-101.logdown.com/) - Thanks to xdite sponsors her book.
 * one singed book of [Rails 實戰聖經](http://ihower.tw/rails3) (*not published yet*) - Thanks to ihower sponsors his book.
 
+Thanks for Donations as follows:
+
+* [Wei-Jen Lu](https://twitter.com/#!/weijenlu)
+* [Chris Sun](https://twitter.com/#!/chrisun)
+
 ## Venue Information
 
 * [中央研究院位置](http://www.sinica.edu.tw/location.htm) [Sinica Location](http://home.sinica.edu.tw/en/site/location.html)
