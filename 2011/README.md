@@ -40,9 +40,11 @@
 11. [en] 4:30~5:00 [Josh Moore, Optimis International](2011/speakers/josh.md) - Writing custom DataMapper Adapters
 12. (Lightning talk) 5:00~5:30 - Your show time
 
-## Call for Lightning Presentation
+## Call for Lightning Talk
 
-5min talk. Please submit via GitHub: Fork this project, add your speaker information, then send pull request.
+5min talk. Please submit via GitHub: Fork this project, add your speaker information and subject in this page, then send pull request.
+
+1. Saurabh Bhatia [T](http://twitter.com/safew) [website](http://safewlabs.com) - Shoes: A Ruby Desktop and Windowing Toolkit
 
 ## Individual Sponsors
 
