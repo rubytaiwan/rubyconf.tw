@@ -33,7 +33,7 @@ a:hover {
 	}
 #header .sns {
   position: absolute;
-  left: 0;
+  left: 80px;
   top: 220px;
 }
 #header .date {
