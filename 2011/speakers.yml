@@ -1,46 +1,46 @@
 topfunky:
   name: Geoffrey Grosenbach
   links:
-    twitter: http://twitter.com/topfunky
-    blog: http://blog.peepcode.com
+    - 'http://twitter.com/topfunky'
+    - 'http://blog.peepcode.com'
 qing:
   name: 王建興 Qing Wang
   links:
-    twitter: http://twitter.com/qing_wang
-    blog: http://www.javaworld.com.tw/roller/qing
+    - 'http://twitter.com/qing_wang'
+    - 'http://www.javaworld.com.tw/roller/qing'
 yugui:
   name: Yuki Sonoda 園田裕貴
   links:
-    twitter: http://twitter.com/yugui
-    blog: http://yugui.jp
+    - 'http://twitter.com/yugui'
+    - 'http://yugui.jp'
 chris:
   name: Chris Eppstein
   links:
-    twitter: http://twitter.com/chriseppstein
-    blog: http://chriseppstein.github.com
+    - 'http://twitter.com/chriseppstein'
+    - 'http://chriseppstein.github.com'
 tka:
   name: 呂旺燊 Wang-Shen Lu
   links:
-    twitter: http://twitter.com/tkalu
-    blog: http://www.tkalu.com
+    - 'http://twitter.com/tkalu'
+    - 'http://www.tkalu.com'
 godfat:
   name: Lin Jen Shin
   links:
-    twitter: http://twitter.com/godfat
-    blog: http://profile.godfat.org
+    - 'http://twitter.com/godfat'
+    - 'http://profile.godfat.org'
 nick:
   name: Nick Sutterer
   links:
 felix:
   name: 林士淵 Shih-Yuan Lin
   links:
-    twitter: http://twitter.com/hellolucky123
-    blog: http://blog.hellolucky.info
+    - 'http://twitter.com/hellolucky123'
+    - 'http://blog.hellolucky.info'
 vincent:
   name: 林聖哲 Sheng-Zhe Lin
   links:
-    twitter: http://twitter.com/v1nc3ntlaw
-    blog: http://about.me/v1nc3ntlaw
+    - 'http://twitter.com/v1nc3ntlaw'
+    - 'http://about.me/v1nc3ntlaw'
 allen:
   name: Allen Cheng 鄭緯綸
   links:
@@ -56,23 +56,23 @@ josh:
 wildjcrt:
   name: 李昆航 KUN-KANG LEE
   links:
-    twitter: http://twitter.com/wildjcrt
-    blog: http://wildjcrt.pixnet.net/blog
+    - 'http://twitter.com/wildjcrt'
+    - 'http://wildjcrt.pixnet.net/blog'
 manic:
   name: Manic
   links:
 jack:
   name: Chen Jack S Y
   links:
-    twitter: http://twitter.com/aquajach
+    - 'http://twitter.com/aquajach'
 ryudo:
   name: 鄧慕凡
   links:
 xdite:
   name:  鄭伊廷 Yi-Ting Cheng
   links:
-    twitter: http://twitter.com/xdite
-    blog: http://blog.xdite.net
+    - 'http://twitter.com/xdite'
+    - 'http://blog.xdite.net'
 tsechingho:
   name: 何澤清 Tse-Ching Ho
   links:

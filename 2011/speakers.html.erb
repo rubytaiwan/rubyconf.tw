@@ -31,7 +31,7 @@
 
             <% if speaker['links'] != nil %>
             <div class="links">
-              <% speaker['links'].each_value do |url| %>
+              <% speaker['links'].each do |url| %>
                 <a href="<%= url %>" class="url"><%= url.gsub(/^http:\/\//, '') %></a>
               <% end %>
             </div>
