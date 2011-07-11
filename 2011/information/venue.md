@@ -8,4 +8,4 @@ No.128, Academia Road, Section 2, Nankang District, Taipei, Taiwan
   [Location and Map of Academia Sinica (en)](http://home.sinica.edu.tw/en/site/location.html)
 * [中研院院區圖: 第24號 人文館 (zh-tw)](http://www.sinica.edu.tw/as/map/asmap_c.html) <br>
   [Campus of Academia Sinica: No.24 HSSB (en)](http://www.sinica.edu.tw/as/map/asmap.html)
-* [View Larger Map](http://maps.google.com/maps/ms?ie=UTF8&source=embed&hl=zh-TW&msa=0&msid=101908379901557595242.00047f68df8db5ba850ee&ll=25.041749,121.613674&spn=0.037326,0.054932&z=14)
+* [View Larger Map](http://maps.google.com.tw/maps/ms?msid=209769501712926701636.0004a7c70931179554b54&msa=0)
