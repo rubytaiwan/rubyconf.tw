@@ -89,7 +89,7 @@ details:
     speakers:
       - qing
     lang: zh
-    length: 30
+    length: 50
 
   sass:
     title: 'Sass: The Future of Stylesheets'
