@@ -7,6 +7,7 @@ website:
   no-banner:
     - information
   welcome: speakers # will become index.html
+  register_url: http://registrano.com/events/rubyconf-taiwan-2011
 
 lang:
   zh: Chinese
