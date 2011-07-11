@@ -42,7 +42,7 @@
 
 ## Call for Lightning Talk
 
-5min talk. Please submit via GitHub: Fork this project, add your speaker information and subject in this page, then send pull request.
+5min talk. Please submit to 2011@rubyconf.tw
 
 1. Saurabh Bhatia [Twitter](http://twitter.com/safew) [Website](http://safewlabs.com) - Shoes: A Ruby Desktop and Windowing Toolkit
 
