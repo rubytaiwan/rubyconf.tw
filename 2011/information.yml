@@ -5,10 +5,3 @@ sections:
     title: Sponsorship
   - key: organizer
     title: About Organizer
-
-map:
-  args:
-    center: 25.041749,121.613674
-    size: 350x350
-    zoom: 14
-    sensor: false

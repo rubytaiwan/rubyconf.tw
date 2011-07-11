@@ -121,12 +121,6 @@ namespace :information do
       section['description'] = markdown("information/#{section['key']}.md")
     end
 
-    map_args = []
-    @information['map']['args'].each_pair do |key,value|
-      map_args << "#{key}=#{value}"
-    end
-    @information['map']['query'] = map_args.join('&')
-
     @current_page = 'information'
 
     File.open(target, "w") do |f|
