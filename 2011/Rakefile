@@ -21,7 +21,7 @@ task :default => ["speakers:all", "schedule:all", "information:all"] do
   sh "mv #{welcome}.html index.html"
 end
 
-task :clean => ["speakers:clean", "schedule:clean"] do
+task :clean => ["speakers:clean", "schedule:clean", "information:clean"] do
   sh "rm -f index.html"
 end
 
@@ -128,5 +128,9 @@ namespace :information do
       f.write ERB.new(File.read(@config['website']['layout'])).result
     end
 
+  end
+
+  task :clean do
+    sh "rm -f #{target}"
   end
 end
