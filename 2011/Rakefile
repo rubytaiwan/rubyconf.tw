@@ -16,7 +16,7 @@ end
 @sessions = YAML::load_file('sessions.yml')
 @information = YAML::load_file('information.yml')
 
-task :default => ["speakers:all", "schedule:all"] do
+task :default => ["speakers:all", "schedule:all", "information:all"] do
   welcome = @config['website']['welcome']
   sh "mv #{welcome}.html index.html"
 end
