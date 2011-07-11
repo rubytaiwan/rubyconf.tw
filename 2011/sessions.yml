@@ -49,7 +49,7 @@ details:
     speakers:
       - ryudo
     lang: zh
-    length: 50
+    length: 30
 
   design-pattern:
     title: Essential Rails Design Pattern
