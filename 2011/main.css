@@ -31,6 +31,11 @@ a:hover {
 	height: 320px;
 	position: relative;
 	}
+#header .sns {
+  position: absolute;
+  left: 0;
+  top: 220px;
+}
 #header .date {
 	color: #f4e5e5;
 	position: absolute;
