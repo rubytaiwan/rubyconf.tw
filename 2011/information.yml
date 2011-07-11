@@ -1,4 +1,6 @@
 sections:
+  - key: price
+    title: Ticket Price
   - key: venue
     title: Venue Information
   - key: sponsorship
