@@ -48,12 +48,14 @@
 
 <div id="content"><div class="inner group">
 
+  <% unless @config['website']['no-banner'].include? @current_page %>
   <div class="sponsor">
     <% @config['sponsors'].each do |s| %>
       <a href="<%= s['url'] %>"><img src="images/sponsors/banner_<%= s['abbr'] %>.png" alt="<%= s['name'] %>" /></a>
     <% end %>
   </div>
   
+  <% end %>
   <%= @contents %>
 
 </div></div>

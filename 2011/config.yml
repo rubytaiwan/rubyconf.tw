@@ -4,6 +4,8 @@ website:
     - speakers
     - schedule
     - information
+  no-banner:
+    - information
   welcome: speakers # will become index.html
 
 lang:
