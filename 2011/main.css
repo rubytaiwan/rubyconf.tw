@@ -239,11 +239,18 @@ html.mac .main-nav li a {
 	margin: 1em 0;
 	}
 .info ul {
-	margin: 1em 0;
+  list-style-type: disc;
+	margin: 1em 1.5em;
 	}
 .info li {
 	margin-bottom: 10px;
 	}
+.info #sponsorship .description h2 {
+  font-size: 12px;
+  padding: 0;
+  border: none;
+  font-style: italic;
+}
 .map {
 	border: 10px solid white;
 	background: #f2efe9;
@@ -394,7 +401,7 @@ html.msie .coda-nav ul li a.current:hover span {
 	font-size: 1px;
 	width: 890px;
 	margin: 0 auto;
-	padding: 0;
+	padding: 10px 0;
 	}
 .sponsor a:hover {
 	background: none;
