@@ -1,0 +1,3 @@
+* [中央研究院位置](http://www.sinica.edu.tw/location.htm) [Sinica Location](http://home.sinica.edu.tw/en/site/location.html)
+* [中研院院區圖: 第24號 人文館](http://www.sinica.edu.tw/as/map/asmap_c.html) [Campus of Academia Sinica: No.24 HSSB](http://www.sinica.edu.tw/as/map/asmap.html)
+* [Google Map](http://maps.google.com/maps/ms?ie=UTF8&source=embed&hl=zh-TW&msa=0&msid=101908379901557595242.00047f68df8db5ba850ee&ll=25.041749,121.613674&spn=0.037326,0.054932&z=14)

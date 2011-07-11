@@ -14,6 +14,7 @@ end
 @speakers = YAML::load_file('speakers.yml')
 @schedule = YAML::load_file('schedule.yml')
 @sessions = YAML::load_file('sessions.yml')
+@information = YAML::load_file('information.yml')
 
 task :default => ["speakers:all", "schedule:all"] do
   welcome = @config['website']['welcome']
@@ -109,5 +110,29 @@ namespace :schedule do
 
   task :clean do
     sh "rm -f #{target}"
+  end
+end
+
+namespace :information do
+  target = 'information.html'
+
+  task :all do
+    @information['sections'].each do |section|
+      section['description'] = markdown("information/#{section['key']}.md")
+    end
+
+    map_args = []
+    @information['map']['args'].each_pair do |key,value|
+      map_args << "#{key}=#{value}"
+    end
+    @information['map']['query'] = map_args.join('&')
+
+    @current_page = 'information'
+
+    File.open(target, "w") do |f|
+      @contents = ERB.new(File.read('information.html.erb')).result
+      f.write ERB.new(File.read(@config['website']['layout'])).result
+    end
+
   end
 end
