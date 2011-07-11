@@ -20,12 +20,7 @@
   <a href="http://www.flickr.com/search/?q=rubyconf%20taiwan"><img src="/images/rubyconf2010sc.jpg" width="800"></a>
   
   <ul> 
-    <li>2011/8/26-27, Taipei
-    	<ul>
-    		<li><a href="http://ruby.tw/post/5417039996">Call for Presentations</a></li>
-    		<li><a href="http://ruby.tw/post/5417382686">Call for Sponsors</a></li>
-    	</ul>
-    </li> 
+    <li><a href="/2011">2011/8/26-27, Taipei</a></li>
     <li><a href="/2010">2010/4/25, Taipei</a></li> 
   </ul>
   
