@@ -9,6 +9,7 @@
   .main {
     width: 800px;
     margin: auto;
+    font-size: 2em;
   }
 </style> 
  
