@@ -26,12 +26,15 @@ We accept individual sponsor this year and the price is >= TWD $3000. You will g
 * one copy of [Rails 101 - Learn Rails in 7 days](http://rails-101.logdown.com/) - Thanks to xdite sponsors her book.
 * one singed book of [Rails 實戰聖經](http://ihower.tw/rails3) (*not published yet*) - Thanks to ihower sponsors his book.
 
-Thanks for Donations as follows:
+Thanks for donations as follows:
 
 * [Wei-Jen Lu](https://twitter.com/#!/weijenlu)
 * [Chris Sun](https://twitter.com/#!/chrisun)
+* [TaopaiC](https://twitter.com/#!/TaopaiC)
+* [hSATAC](https://twitter.com/#!/hSATAC)
 
 ### How to sponsor us?
+
 Here is our [CFS proposal PDF](cfs/rubyconf-cfs-2011-en.pdf) (also in [zh-tw](cfs/rubyconf-cfs-2011.pdf)). Or you can donate individually via PayPal:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
