@@ -4,11 +4,11 @@
 http://www.rulingcom.com/
 Ruling Digital Inc. is a professional design company focusing on providing one-stop service to university departments and institutes.
 
-### Silver
-
 ![OptimisDev](images/sponsors/optimisdev.png)
 http://optimispt.com/
 OptimisDev is the team of passionate rubyists behind OptimisPT - the first web-based software suite that was developed by physical therapists for physical therapists ... all on rails. OptimisPT is a distillation of the collective wisdom and vision of the leading practitioners in the profession.
+
+### Silver
 
 ![Handlino](images/sponsors/handlino.png)
 http://handlino.com/
