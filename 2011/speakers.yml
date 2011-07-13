@@ -31,6 +31,8 @@ godfat:
 nick:
   name: Nick Sutterer
   links:
+    - 'https://twitter.com/#!/apotonick'
+    - 'http://nicksda.apotomo.de/'
 felix:
   name: 林士淵 Shih-Yuan Lin
   links:
@@ -53,6 +55,7 @@ matthew:
 josh:
   name: Joshua Moore
   links:
+    - 'http://codingforrent.com/'
 wildjcrt:
   name: 李昆航 KUN-KANG LEE
   links:
@@ -61,6 +64,7 @@ wildjcrt:
 manic:
   name: Manic
   links:
+    - 'http://www.manic.tw/blog'
 jack:
   name: Chen Jack S Y
   links:
@@ -76,9 +80,12 @@ xdite:
 tsechingho:
   name: 何澤清 Tse-Ching Ho
   links:
+    - 'https://twitter.com/#!/tsechingho'
 mason:
   name: Mason Chang 張銘軒
   links:
 weijen:
   name: 盧韋仁 Wei-Jen Lu
   links:
+    - 'https://twitter.com/#!/weijenlu'
+    - 'http://blog.weijen.net/'
