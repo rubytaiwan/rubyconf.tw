@@ -32,6 +32,9 @@ Thanks for donations as follows:
 * [Chris Sun](https://twitter.com/#!/chrisun)
 * [TaopaiC](https://twitter.com/#!/TaopaiC)
 * [hSATAC](https://twitter.com/#!/hSATAC)
+* [Richard Lee](https://twitter.com/#!/dlackty)
+* [Lawrence Lin](https://twitter.com/#!/deduce)
+* [Jerry Chang](#)
 
 ### How to sponsor us?
 
