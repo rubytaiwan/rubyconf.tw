@@ -34,7 +34,7 @@ Thanks for donations as follows:
 * [hSATAC](https://twitter.com/#!/hSATAC)
 * [Richard Lee](https://twitter.com/#!/dlackty)
 * [Lawrence Lin](https://twitter.com/#!/deduce)
-* [Jerry Chang](#)
+* [Cosplay](http://www.cosplayshopper.com/)
 
 ### How to sponsor us?
 
