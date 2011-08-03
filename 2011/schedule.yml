@@ -2,66 +2,68 @@
   day: 'Day 1: 8/26'
 
   morning:
-    - time: 9:00~10:00
+    - time: 9:00~9:50
       session: after-crud
 
-    - time: 10:00~11:00
+    - time: 10:10~11:00
       session: rails-boom
 
-    - time: 11:00~12:00
+    - time: 11:10~12:00
       session: social-media
 
-  afternoon:
-    - time: 13:30~14:00
-      session: sinatra
-
-    - time: 14:00~15:00
+  afternoon1:
+    - time: 13:30~14:20
       session: design-pattern
 
-    - time: 15:00~16:00
+    - time: 14:30~15:20
       session: devise
 
-    - time: 16:00~16:45
+  afternoon2:
+    - time: 15:40~16:10
+      session: sinatra
+      
+    - time: 16:10~16:50
       session: ruby-on-windows
 
-    - time: 16:45~17:30
+    - time: 16:50~17:30
       session: jruby-win2008
 
 -
   day: 'Day 2: 8/27'
     
   morning:
-    - time: '9:00~10:00'
+    - time: '9:00~9:50'
       session: keynote-qing
 
-    - time: '10:00~11:00'
+    - time: '10:10~11:00'
       session: sass
 
-    - time: '11:00~11:30'
+    - time: '11:10~11:40'
       session: compass-app
 
-    - time: '11:30~12:00'
+    - time: '11:40~12:10'
       session: ruby19
 
-  afternoon:
-    - time: '13:30~14:30'
+  afternoon1:
+    - time: '13:30~14:20'
       session: keynote-code-creativity
 
-    - time: '14:30~15:00'
+    - time: '14:20~14:50'
       session: modular-rest
 
-    - time: '15:00~15:30'
+    - time: '14:50~15:20'
       session: crud-isnt-rest
 
-    - time: '15:30~16:00'
+  afternoon2:    
+    - time: '15:40~16:10'
       session: rails-sa
-
-    - time: '16:00~16:30'
+      
+    - time: '16:10~16:40'
       session: open-cms
 
-    - time: '16:30~17:00'
+    - time: '16:40~17:10'
       session: datamapper-adapter
 
   lightening:
-    time: '17:00~17:30'
+    time: '17:10~17:30'
     title: Lightning Talk

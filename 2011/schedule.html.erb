@@ -12,6 +12,13 @@
       <th scope="row"><h2><%= day['day'] %></h2></th>
     <tr>
     
+      <tr class="tea">
+        <th scope="row">8:30 ~ 9:00</th>
+        <td>
+          <h2>Breakfast</h2>
+        </td>
+      </tr>
+      
       <% day['morning'].each do |assigned_session| %>
       <tr>
         <th scope="row"><%= assigned_session['time'] %></th>
@@ -30,7 +37,7 @@
         </td>
       </tr>
 
-      <% day['afternoon'].each do |assigned_session| %>
+      <% day['afternoon1'].each do |assigned_session| %>
       <tr>
         <th scope="row"><%= assigned_session['time'] %></th>
         <td>
@@ -40,6 +47,25 @@
         </td>
       </tr>
       <% end %>
+      
+      <tr class="tea">
+        <th scope="row">15:20 ~ 15:40</th>
+        <td>
+          <h2>Teatime</h2>
+        </td>
+      </tr>
+      
+      <% day['afternoon2'].each do |assigned_session| %>
+      <tr>
+        <th scope="row"><%= assigned_session['time'] %></th>
+        <td>
+          <% session = @sessions['details'][assigned_session['session']] %>
+          <h2><%= session['title'] %><a href="./#<%= session['speakers_slider_id'] %>">#</a></h2>
+          <p class="fn"><%= session['by'] %></p>
+        </td>
+      </tr>
+      <% end %>      
+            
       
       <% if day['lightening'] %>
       <tr class="lightning">
