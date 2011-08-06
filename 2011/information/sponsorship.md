@@ -35,6 +35,7 @@ Thanks for donations as follows:
 * [Richard Lee](https://twitter.com/#!/dlackty)
 * [Lawrence Lin](https://twitter.com/#!/deduce)
 * [Cosplay](http://www.cosplayshopper.com/)
+* [WildMind](http://www.wildmindcorp.com/)
 
 ### How to sponsor us?
 
