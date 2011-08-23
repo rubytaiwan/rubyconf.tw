@@ -44,7 +44,7 @@ details:
     length: 50
 
   sinatra:
-    title: Sinatra, good friend to Rails
+    title: 用Sinatra建置高效能與高自訂性的系統
     by: 鄧慕凡 ryudo
     speakers:
       - ryudo

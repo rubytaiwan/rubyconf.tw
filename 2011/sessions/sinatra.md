@@ -1,5 +1,1 @@
-Sinatra可以是Rails的好朋友, 內容包含：
-
-* 介紹Sinatra
-* Restful Sinatra App example
-* Sinatra如何幫助Rails
+介紹Sinatra這套Ruby DSL Framework的基礎, 以及如何透過Sinatra輔助Rails
