@@ -22,10 +22,10 @@
     - time: 16:00~16:40
       session: sinatra
       
-    - time: 16:40~16:20
+    - time: 16:40~17:20
       session: ruby-on-windows
 
-    - time: 16:20~18:00
+    - time: 17:20~18:00
       session: jruby-win2008
 
 -
