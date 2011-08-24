@@ -141,9 +141,8 @@ details:
 
   rails-sa:
     title: Rails SA Practice
-    by: 林士淵&林聖哲 Felix&Vincent, T客邦
+    by: 林聖哲 Vincent, T客邦
     speakers:
-      - felix
       - vincent
     lang: zh
     length: 30
