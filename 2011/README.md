@@ -15,7 +15,7 @@
 
 ### Day1: 8/26
 
-1. [tw] 9:00~10:00 [李昆航 wildjcrt, PIXNET](2011/speakers/wildjcrt.md) - Next step after learning Rails CRUD
+1. [tw] 9:00~10:00 [李昆航 wildjcrt, PIXNET](2011/speakers/wildjcrt.md) - Happy Programming
 2. [tw] 10:00~11:00 [Manic, PIXNET](2011/speakers/manic.md) - Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
 3. [en] 11:00~12:00 [Chen Jack S Y, Isobar Hong Kong](2011/speakers/jack.md) - Using Ruby in Social Media platform
 4. (lunch)

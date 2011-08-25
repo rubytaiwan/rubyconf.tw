@@ -20,9 +20,9 @@ order:
 
 details:
   after-crud:
-    title: Next step after learning Rails CRUD
+    title: Happy Programming
     by: 李昆航 wildjcrt, PIXNET
-    speakers: 
+    speakers:
       - wildjcrt
     lang: zh
     length: 50
