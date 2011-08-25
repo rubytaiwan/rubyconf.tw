@@ -121,8 +121,8 @@ The Juitter developer shall have no responsability for data loss or damage of an
 								
 								var tweet = $.Juitter.filter(item.text);
 								
-								if(fromID=="image") mHTML="<a href='http://www.twitter.com/"+item.from_user+"'><img src='"+item.profile_image_url+"' alt='"+item.from_user+"' class='juitterAvatar' /></a> "+$.Juitter.textFormat(tweet)+" -| <span class='time'>"+item.created_at+"</span> |- <a href='" + link + "' class='JRM' "+openLink+">"+readMore+"</a>";
-								else mHTML="<a href='http://www.twitter.com/"+item.from_user+"'>@"+item.from_user+":</a> "+$.Juitter.textFormat(tweet)+" -| <span class='time'>"+item.created_at+"</span> |-  <a href='" + link + "' "+openLink+">"+readMore+"</a>";
+								 mHTML="<a href='http://www.twitter.com/"+item.from_user+"'><img src='"+item.profile_image_url+"' alt='"+item.from_user+"' class='juitterAvatar' /> <span class='author'>@"+ item.from_user + "<span></a> "+$.Juitter.textFormat(tweet)+" <span class='time'>"+item.created_at+"</span> <a href='" + link + "' class='JRM' "+openLink+">"+readMore+"</a>";
+							
 								
 								$("<li></li>") 
 									.html(mHTML)  
