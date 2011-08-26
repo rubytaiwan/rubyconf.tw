@@ -13,7 +13,6 @@ $(document).ready(function() {
 		total: 20, // number of tweets to be show - max 100
 		nameUser:"text", // insert "image" to show avatar of "text" to show the name of the user that sent the tweet 
 		openExternalLinks:"newWindow", // here you can choose how to open link to external websites, "newWindow" or "sameWindow"
-                filter:"sex->*BAD word*,porn->*BAD word*,fuck->*BAD word*,shit->*BAD word*"  // insert the words you want to hide from the tweets followed by what you want to show instead example: "sex->censured" or "porn->BLOCKED WORD" you can define as many as you want, if you don't want to replace the word, simply remove it, just add the words you want separated like this "porn,sex,fuck"... Be aware that the tweets will still be showed, only the bad words will be removed
 	});
 	$("#aRodrigo").click(function(){
 		$(".jLinks").removeClass("on");
