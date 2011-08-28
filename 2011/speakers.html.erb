@@ -41,7 +41,9 @@
 
           <div class='session'>
             <h3><%= session['title'] %></h3>
-            <p class='lang-length'><span><%= @config['lang'][session['lang']] %></span>, <%= session['length'] %> minutes.</p>
+            <div class='notes'>
+              <span class='lang-length'><strong><%= @config['lang'][session['lang']] %></strong>, <%= session['length'] %> minutes.</span>
+            </div>
             <%= session['intro'] %>
           </div>
         </div>

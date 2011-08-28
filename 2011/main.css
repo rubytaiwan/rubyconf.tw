@@ -341,11 +341,8 @@ html.mac .panel .session h3 {
 	margin-left: 50px;
 	list-style-type: disc;
 	}
-.panel .session p.lang-length {
+.panel .session .notes {
   font-size: 12px;
-  }
-.panel .session p.lang-length span {
-  font-weight: bold;
   }
 .coda-nav ul li a span {
 	display: block;
