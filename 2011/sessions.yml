@@ -20,7 +20,7 @@ order:
 
 details:
   after-crud:
-    title: Happy Programming
+    title: Happy Programming - Next step after learning Rails CRUD
     by: 李昆航 wildjcrt, PIXNET
     speakers:
       - wildjcrt
