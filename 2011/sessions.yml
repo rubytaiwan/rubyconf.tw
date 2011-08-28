@@ -26,6 +26,7 @@ details:
       - wildjcrt
     lang: zh
     length: 50
+    slides: http://wildjcrt.github.com/happy_programming/
 
   rails-boom:
     title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
@@ -34,6 +35,7 @@ details:
       - manic
     lang: zh
     length: 50
+    slides: http://www.slideshare.net/Manic/rails-9014355
 
   social-media:
     title: Using Ruby in Social Media platform
@@ -42,6 +44,7 @@ details:
       - jack
     lang: en
     length: 50
+    slides: http://www.slideshare.net/chensongyong/build-socialsiteinruby
 
   sinatra:
     title: 用Sinatra建置高效能與高自訂性的系統
@@ -50,6 +53,7 @@ details:
       - ryudo
     lang: zh
     length: 30
+    slides: http://www.slideshare.net/ryudoawaru/sinatra-tutorialrubyconftw2011
 
   design-pattern:
     title: Essential Rails Design Pattern
@@ -58,6 +62,7 @@ details:
       - xdite
     lang: zh
     length: 50
+    slides: http://essential-rails-pattern.heroku.com/
 
   devise:
     title: 善用 Devise 建置會員系統
@@ -66,6 +71,7 @@ details:
       - tsechingho
     lang: zh
     length: 50
+    slides: http://www.slideshare.net/tsechingho/devise-tutorial-2011-rubyconf-taiwan
 
   ruby-on-windows:
     title: Ruby on Windows
@@ -74,6 +80,7 @@ details:
       - mason
     lang: zh
     length: 45
+    slides: http://www.slideshare.net/changmason/ruby-on-windows-for-rubyconftw-2011
 
   jruby-win2008:
     title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
@@ -82,6 +89,7 @@ details:
       - weijen
     lang: zh
     length: 45
+    slides: http://www.slideshare.net/weijenlu/ss-9030154
 
   keynote-qing:
     title: Keynote - 從 Java Programmer 的觀點來看 Ruby
@@ -90,6 +98,7 @@ details:
       - qing
     lang: zh
     length: 50
+    slides: http://www.slideshare.net/qingwang/java-programmer-ruby-9039273
 
   sass:
     title: 'Sass: The Future of Stylesheets'
@@ -98,6 +107,7 @@ details:
       - chris
     lang: en
     length: 50
+    slides: http://eppsteins.net/rubyconftw.pdf
 
   compass-app:
     title: 'Compass.app: When someone hates command line'
@@ -106,6 +116,7 @@ details:
       - tka
     lang: zh
     length: 30
+    slides: http://compassapp-rubyconf2011.heroku.com/
 
   ruby19:
     title: Ruby 1.9.3 and Ruby 1.9 development
@@ -114,6 +125,7 @@ details:
       - yugui
     lang: en
     length: 30
+    slides: http://www.slideshare.net/yugui/ruby-193-and-development-of-ruby
 
   keynote-code-creativity:
     title: Keynote - Code & Creativity
@@ -130,6 +142,7 @@ details:
       - godfat
     lang: zh
     length: 30
+    slides: http://www.godfat.org/slide/2011-08-27-rest-core.html
 
   crud-isnt-rest:
     title: CRUD Is Not REST - Hypermedia For Y'All
@@ -146,6 +159,7 @@ details:
       - vincent
     lang: zh
     length: 30
+    slides: http://v1nc3ntlaw.github.com/rubyconf-tw-2011-rails-sa/#1
 
   open-cms:
     title: An Open CMS with MongoDB
