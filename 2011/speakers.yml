@@ -50,6 +50,7 @@ matthew:
 josh:
   name: Joshua Moore
   links:
+    - 'http://twitter.com/codingforrent'
     - 'http://codingforrent.com/'
 wildjcrt:
   name: 李昆航 KUN-KANG LEE
@@ -67,6 +68,7 @@ jack:
 ryudo:
   name: 鄧慕凡
   links:
+    - 'http://twitter.com/ryudoawaru'
 xdite:
   name:  鄭伊廷 Yi-Ting Cheng
   links:
@@ -75,12 +77,13 @@ xdite:
 tsechingho:
   name: 何澤清 Tse-Ching Ho
   links:
-    - 'https://twitter.com/#!/tsechingho'
+    - 'http://twitter.com/tsechingho'
 mason:
   name: Mason Chang 張銘軒
   links:
+    - 'http://twitter.com/changmason'
 weijen:
   name: 盧韋仁 Wei-Jen Lu
   links:
-    - 'https://twitter.com/#!/weijenlu'
+    - 'http://twitter.com/weijenlu'
     - 'http://blog.weijen.net/'
