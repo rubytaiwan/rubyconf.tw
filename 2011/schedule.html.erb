@@ -73,6 +73,17 @@
         <td>
           <h2><%= day['lightening']['title'] %></h2>
           <p class="fn">5min talk. Please submit to 2011@rubyconf.tw</p>
+          <ul>
+            <% day['lightening']['sessions'].each do |session| %>
+            <li><%= session['speaker'] %>:
+              <% if session['slides'] %>
+                <a href="<%= session['slides'] %>"><%= session['title'] %></a>
+              <% else %>
+                <%= session['title'] %>
+              <% end %>
+            </li>
+            <% end %>
+          </ul>
         </td>
       </tr>   
       <% end %>

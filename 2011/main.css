@@ -208,7 +208,15 @@ html.mac .main-nav li a {
 	text-shadow: 0 0 20px #f9d18a;
 	padding-bottom: 3px;
 	}
-
+#content table .lightning td ul {
+  padding-left: 1em;
+  color: #eee;
+}
+#content table .lightning td li {
+  font-size: 12px;
+  font-style: normal;
+  list-style: circle;
+}
 
 /* information */
 
