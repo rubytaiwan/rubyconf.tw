@@ -67,3 +67,18 @@
   lightening:
     time: '17:30~18:00'
     title: Lightning Talk
+    sessions:
+      - speaker: @sansword
+        title: Ruby敏捷畢業：Agile Graduation Using Ruby
+        slides: http://www.slideshare.net/SansWord/agile-graduation-using-ruby
+      - speaker: "albb0920 & hrs113355"
+        title: 以 rails 實作的 ansi 圖收集網站 http://ansi.loli.tw
+        slides: 'https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B2ReFSiH3v7FNDQ4NGRjMjItYjRmNS00MTIyLWI5ZjQtYTI5MjhlZTgzNTU1&hl=en_US'
+      - speaker: @miaout17 (大貓)
+        title: LOL Programming
+        slides: https://github.com/miaout17/lolize
+      - speaker: AndrewLiu2(劉彥廷)
+        title: defly - ruby debugging and tracing tool
+        slides: http://www.slideshare.net/AndrewLiu2/defly
+      - speaker: @hellolucky123
+        title: Easy design mobile API with Ruby on Rails
