@@ -34,6 +34,12 @@
               <% speaker['links'].each do |url| %>
                 <a href="<%= url %>" class="url"><%= url.gsub(/^http:\/\//, '') %></a>
               <% end %>
+              <% if session['slides'] %>
+                <a href="<%= session['slides'] %>" class='url'>Slides</a>
+              <% end %>
+              <% if session['video'] %>
+                <a href="<%= session['video'] %>" class='url'>Video</a>
+              <% end %>
             </div>
             <% end %>
             <p><%= speaker['intro'] %></p>
@@ -43,14 +49,6 @@
             <h3><%= session['title'] %></h3>
             <div class='notes'>
               <span class='lang-length'><strong><%= @config['lang'][session['lang']] %></strong>, <%= session['length'] %> minutes.</span>
-              <span class='links'>
-              <% if session['slides'] %>
-                <a href="<%= session['slides'] %>" class='url'>Slides</a>
-              <% end %>
-              <% if session['video'] %>
-                <a href="<%= session['video'] %>" class='url'>Video</a>
-              <% end %>
-              </span>
             </div>
             <%= session['intro'] %>
           </div>
