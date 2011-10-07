@@ -27,7 +27,8 @@ details:
     lang: zh
     length: 50
     slides: http://wildjcrt.github.com/happy_programming/
-
+    video: http://vimeo.com/groups/rubytw/videos/29884753
+    
   rails-boom:
     title: Rails 炸機實務 - 如何不要炸爛你家機器和你老闆的臉
     by: Manic, PIXNET
@@ -36,7 +37,8 @@ details:
     lang: zh
     length: 50
     slides: http://www.slideshare.net/Manic/rails-9014355
-
+    video: http://vimeo.com/groups/rubytw/videos/29884726
+    
   social-media:
     title: Using Ruby in Social Media platform
     by: Chen Jack S Y, Isobar Hong Kong
@@ -45,6 +47,7 @@ details:
     lang: en
     length: 50
     slides: http://www.slideshare.net/chensongyong/build-socialsiteinruby
+    video: http://vimeo.com/groups/rubytw/videos/29818601
 
   sinatra:
     title: 用Sinatra建置高效能與高自訂性的系統
@@ -54,6 +57,7 @@ details:
     lang: zh
     length: 30
     slides: http://www.slideshare.net/ryudoawaru/sinatra-tutorialrubyconftw2011
+    video: http://vimeo.com/groups/rubytw/videos/30127067
 
   design-pattern:
     title: Essential Rails Design Pattern
@@ -63,6 +67,7 @@ details:
     lang: zh
     length: 50
     slides: http://essential-rails-pattern.heroku.com/
+    video: http://vimeo.com/groups/rubytw/videos/29887935
 
   devise:
     title: 善用 Devise 建置會員系統
@@ -72,6 +77,7 @@ details:
     lang: zh
     length: 50
     slides: http://www.slideshare.net/tsechingho/devise-tutorial-2011-rubyconf-taiwan
+    video: http://vimeo.com/groups/rubytw/videos/29887954
 
   ruby-on-windows:
     title: Ruby on Windows
@@ -81,6 +87,7 @@ details:
     lang: zh
     length: 45
     slides: http://www.slideshare.net/changmason/ruby-on-windows-for-rubyconftw-2011
+    video: http://vimeo.com/groups/rubytw/videos/30169690
 
   jruby-win2008:
     title: 把鐵路開進視窗中，JRuby on Rails 在Windows 2008 R2中的配置方案
@@ -90,6 +97,7 @@ details:
     lang: zh
     length: 45
     slides: http://www.slideshare.net/weijenlu/ss-9030154
+    video: http://vimeo.com/groups/rubytw/videos/30169695
 
   keynote-qing:
     title: Keynote - 從 Java Programmer 的觀點來看 Ruby
@@ -99,6 +107,7 @@ details:
     lang: zh
     length: 50
     slides: http://www.slideshare.net/qingwang/java-programmer-ruby-9039273
+    video: http://vimeo.com/groups/rubytw/videos/29419017
 
   sass:
     title: 'Sass: The Future of Stylesheets'
@@ -108,7 +117,8 @@ details:
     lang: en
     length: 50
     slides: http://eppsteins.net/rubyconftw.pdf
-
+    video: http://vimeo.com/groups/rubytw/videos/29434934
+    
   compass-app:
     title: 'Compass.app: When someone hates command line'
     by: 呂旺燊 tka, Handlino
@@ -117,6 +127,7 @@ details:
     lang: zh
     length: 30
     slides: http://compassapp-rubyconf2011.heroku.com/
+    video: http://vimeo.com/groups/rubytw/videos/29589431
 
   ruby19:
     title: Ruby 1.9.3 and Ruby 1.9 development
@@ -126,7 +137,8 @@ details:
     lang: en
     length: 30
     slides: http://www.slideshare.net/yugui/ruby-193-and-development-of-ruby
-
+    video: http://vimeo.com/groups/rubytw/videos/29438332
+    
   keynote-code-creativity:
     title: Keynote - Code & Creativity
     by: Geoffrey Grosenbach, PeepCode
@@ -134,7 +146,8 @@ details:
       - topfunky
     lang: en
     length: 50
-
+    video: http://vimeo.com/groups/rubytw/videos/29438388
+    
   modular-rest:
     title: A modular Ruby REST client collection/infrastructure
     by: 林健欣 godfat, Cardinal Blue
@@ -143,7 +156,8 @@ details:
     lang: zh
     length: 30
     slides: http://www.godfat.org/slide/2011-08-27-rest-core.html
-
+    video: http://vimeo.com/groups/rubytw/videos/29590001
+    
   crud-isnt-rest:
     title: CRUD Is Not REST - Hypermedia For Y'All
     by: Nick Sutterer, Freiburg/Germany
@@ -151,7 +165,9 @@ details:
       - nick
     lang: en
     length: 30
-
+    slides: http://nicksda.apotomo.de/?attachment_id=1546
+    video: http://vimeo.com/groups/rubytw/videos/29471574
+    
   rails-sa:
     title: Rails SA Practice
     by: 林聖哲 Vincent, T客邦
@@ -160,7 +176,8 @@ details:
     lang: zh
     length: 30
     slides: http://v1nc3ntlaw.github.com/rubyconf-tw-2011-rails-sa/#1
-
+    video: http://vimeo.com/groups/rubytw/videos/29590825
+    
   open-cms:
     title: An Open CMS with MongoDB
     by: Allen&Christophe&Matthew, Rulingcom
@@ -170,7 +187,8 @@ details:
       - matthew
     lang: en
     length: 30
-
+    video: http://vimeo.com/groups/rubytw/videos/30171784
+    
   datamapper-adapter:
     title: Writing custom DataMapper Adapters
     by: Josh Moore, Optimis International
@@ -178,3 +196,5 @@ details:
       - josh
     lang: en
     length: 30
+    slides: http://www.slideshare.net/codingforrent/dm-adapter-rubyconftw
+    video: http://vimeo.com/groups/rubytw/videos/30171873
