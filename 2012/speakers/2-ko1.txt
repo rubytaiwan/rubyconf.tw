@@ -1,0 +1,4 @@
+笹田耕一 Koichi Sasada
+https://twitter.com/_ko1
+
+Ruby 1.9 VM 的作者

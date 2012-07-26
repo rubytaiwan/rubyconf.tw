@@ -1,0 +1,5 @@
+(50分鐘-英文演講) Matz: Keynote
+(50分鐘-英文演講) Koichi Sasada: Ruby 2.0 VM (TBA)
+(50分鐘-英文演講) Akira Matsuda: Being a Rails contributor & a gem author who lives in East Asia (TBA)
+(50分鐘-中文演講) Freedom: Smalltalk (TBA)
+(50分鐘-中文演講) David Tian: Ruby on Rails在VMWare Mozy云备份服务中的应用
