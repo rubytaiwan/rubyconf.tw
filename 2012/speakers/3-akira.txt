@@ -1,2 +1,4 @@
 松田明 Akira Matsuda
 https://twitter.com/a_matsuda
+
+著名的分頁函式庫(Paginator)「Kaminari」的作者, 也是日本最活躍的Rails Contributor, 亦為日本Ruby社群「Asakusa.rb」的創辦人
