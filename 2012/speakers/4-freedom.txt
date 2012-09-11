@@ -1,1 +1,3 @@
-陳官辰 Koan-Sin Tan
+Koan-Sin Tan 陳官辰 freedom
+
+Koan-Sin Tan is a veteran open source / unix user. He learnt to use simple Basic programs on Multitech MPF-II (宏碁 小教授二號) in early 1980s, then learnt to use and write code for Unix on a VAX-11/780 running 4.3BSD in late 1980s.
