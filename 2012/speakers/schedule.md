@@ -1,4 +1,4 @@
-RubyConf Taiwan 2012 Schudule (TBA)
+RubyConf Taiwan 2012 Schedule (TBD)
 ==
 
 2012/12/7
