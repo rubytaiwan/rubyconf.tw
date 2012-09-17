@@ -12,7 +12,7 @@ RubyConf Taiwan 2012 Schudule (TBA)
 * 13:30~14:20 (中) Richard Lee: Ruby Toolbox for DevOps
 * 14:30~15:20 (中) thegiive: Puppet, the next level deploy system on all platform
 * 15:20~16:00 Teatime
-* 16:00~16:50 (英) Akira Matsuda: Being a Rails contributor & a gem author who lives in East Asia
+* 16:00~16:50 (英) Akira Matsuda: Being a Rails contributor & a gem author who lives in East Asia (TBD)
 * 17:00~17:30 (英) Gosuke Miyashita: Inside Sqale's Backend
 * 17:30~18:00 (中) 高見龍: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
 * 19:30~23:59 Official Party
@@ -20,8 +20,8 @@ RubyConf Taiwan 2012 Schudule (TBA)
 2012/12/8
 ===
 
-* 9:00~ 9:50 (中) Freedom: Smalltalk (TBA)
-* 10:00~10:50 (英) Koichi Sasada: Ruby 2.0 (TBA)
+* 9:00~ 9:50 (中) Freedom: Smalltalk (TBD)
+* 10:00~10:50 (英) Koichi Sasada: Ruby 2.0 (TBD)
 * 11:00~11:30 (英) Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
 * 11:30~12:00 (英) Sigfrid Dusci: Ruby off Rails
 * 12:00~13:30 Lunch
