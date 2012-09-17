@@ -14,7 +14,7 @@ RubyConf Taiwan 2012 Schedule (TBD)
 * 15:20~16:00 Teatime
 * 16:00~16:50 (English) Akira Matsuda: Being a Rails contributor & a gem author who lives in East Asia (TBD)
 * 17:00~17:30 (English) Gosuke Miyashita: Inside Sqale's Backend
-* 17:30~18:00 (Chinese) 高見龍: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
+* 17:30~18:00 (Chinese) Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
 * 19:30~23:59 Official Party
 
 2012/12/8
