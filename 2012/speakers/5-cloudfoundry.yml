@@ -1,0 +1,11 @@
+name: David Tian
+subject: Ruby on Rails在VMWare Mozy云备份服务中的应用
+language: Chinese
+length: 50
+summary:  "1. VMWare Mozy简介 
+2. Ruby on Rail在管理Mozy核心数据和业务中的应用 
+3. Ruby on Rails实践的经验和教训 
+4. VMWare CloudFoundry简介
+5. 移植Ruby on Rails App到CloudFoundry尝试 
+6. Q&A"
+bio: VMWare研发经理，供职于VMWare Mozy事业部，负责Mozy Web应用程序的研发及维护。3+年Ruby on Rails经验，Ruby Evangelist， 10+年IT行业经验, 2001年毕业于于浙江大学。 

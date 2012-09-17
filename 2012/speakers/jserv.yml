@@ -1,0 +1,10 @@
+name: Jim Huang 黃敬群
+links: ["http://blog.linux.org.tw/jserv/", "http://0xlab.org/"]
+subject: 在自動控制領域應用微型 Ruby
+language: Chinese
+length: 25
+summary: Mruby 的出現，就是將 Ruby 帶到更多運算環境，不在只是個人電腦或伺服器，而是有機會在機器人一類的自動控制領域，大放異彩。本議程將以實際應用 Mruby 到 MCU (微控制單元) 與 RTOS 領域的經驗，分享給對 Ruby 多樣應用有興趣的朋友
+bio: 'Jim Huang (黃敬群)，慣用網路暱稱為 "jserv"，熱血工讀生。自 1999 年開始參與開放原始碼 / 自由軟體開發，
+曾投入 Kaffe / GCJ (GCC for Java), 新酷音輸入法, LXDE, Linaro, Android Open
+Source Project 等國際性專案的發展工作。基於對電腦技術與自由軟體的熱愛，於 2009 年共同創立
+0xlab，期許能透過開放發展模式，拉近台灣硬體廠商與開放原始碼系統的距離。'

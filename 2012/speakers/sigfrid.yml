@@ -1,0 +1,16 @@
+name: Sigfrid Dusci
+subject: Ruby off Rails
+language: English
+length: 25
+summary: "Ruby on Rails is an excellent web application 
+framework and it is a key part of Ruby popularity. However, when 
+application complexity grows issues begin to appear, slow test suites and 
+obese models are some of them. This talk summarizes my experience trying 
+to deal with these problems and proposes an architecture that moves 
+business logic out from the framework into Plain Old Ruby Objects, still 
+using it as a delivery mechanism."
+bio: "Sigfrid Dusci is the Chief Technology Officer at Software 
+Element, a Ruby shop specializing in the creation of applications for 
+pharmaceutical, medical device and biotech companies. He is passionate 
+about software architectures since he took "Software Engineering 101" and 
+he is and advocate of the Software Craftsmanship movement."

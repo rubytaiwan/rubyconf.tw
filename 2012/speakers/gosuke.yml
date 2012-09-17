@@ -1,0 +1,30 @@
+name: Gosuke Miyashita
+twitter: gosukenator
+links: ["http://mizzy.org/"]
+subject: Inside Sqale's Backend
+language: English
+length: 25
+summary: "[Sqale](https://sqale.jp/) is a cloud application platform for Ruby
+from [paperboy&co., Inc](http://www.paperboy.co.jp), Japan.
+
+Sqale uses some Ruby technologies and others like these in its backend.
+
+ * Ruby/Ruby On Rails
+ * Puppet/Chef
+ * Resque
+ * Unicorn
+ * AWS(EC2, ELB, RDS, Route53)
+ * Patched version of OpenSSH
+ * Patched version of Linux kernel
+ * OpenResty(ngx_openresty)
+ * Redis
+ * Git
+ * LXC
+ * etc.
+
+I will talk about the backend architecture of Sqale through explaining
+how we use these technologies in it.
+
+If you are interested in the inside architecture of a cloud
+application platform, this session will be very helpful."
+bio: "Name: Gosuke Miyashita, Company: paperboy&co, Location: Japan"
