@@ -1,7 +1,12 @@
 name: Eddie Kao 高見龍
-links: ["http://blog.eddie.com.tw/about-eddie/"]
+links: ["http://blog.eddie.com.tw/"]
+twitter: eddiekao
 subject: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
 language: Chinese
 length: 25
-summary: 藉由閱讀Ruby的原始碼，來更了解Ruby的運作機制跟原理
-bio: 喜歡寫程式的阿宅
+summary:
+Learn more about Ruby internal by read Ruby source code, which may or may not be revealed on textbook.
+藉由閱讀Ruby的原始碼，來更了解Ruby的運作機制跟原理。
+bio:
+Coding Nerd, Ruby/Flash/AS3 Certified Developer and iOS & Rails Rookie, also a SHOW-OFF person who loves to share what I've learned in my own study path.
+喜歡寫程式的阿宅!
