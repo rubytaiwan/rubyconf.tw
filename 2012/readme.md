@@ -30,7 +30,7 @@ Organizer
 * Twitter: @rubytaiwan
 * Staffs
   * ihower
-  * mufan
+  * ryudo
   * eddie
 
 Contact
