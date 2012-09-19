@@ -13,7 +13,7 @@ RubyConf Taiwan 2012 Schedule (TBD)
 * 14:30~15:20 (Chinese) thegiive: Puppet, the next level deploy system on all platform
 * 15:20~16:00 Teatime
 * 16:00~16:50 (English) Akira Matsuda: Being a Rails contributor & a gem author who lives in East Asia (TBD)
-* 17:00~17:30 (English) Gosuke Miyashita: Inside Sqale's Backend
+* 17:00~17:30 (Chinese) Joseph Ku: RubyMotion: Hack Your iOS App Like Never Before
 * 17:30~18:00 (Chinese) Eddie: May the Source Be with You - Learning Ruby by Reading Ruby Source Code
 * 19:30~23:59 Official Party
 
@@ -23,11 +23,10 @@ RubyConf Taiwan 2012 Schedule (TBD)
 * 9:00~ 9:50 (Chinese) Freedom: Smalltalk (TBD)
 * 10:00~10:50 (English) Koichi Sasada: Ruby 2.0 (TBD)
 * 11:00~11:30 (English) Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
-* 11:30~12:00 (English) Sigfrid Dusci: Ruby off Rails
+* 11:30~12:00 (English) Gosuke Miyashita: Inside Sqale's Backend
 * 12:00~13:30 Lunch
 * 13:30~14:20 (English) nomadcoder: Modular web-apps with Rails, Sencha Ext JS, and Netzke 
 * 14:30~15:20 (Chinese) godfat: Concurrent Ruby Application Servers
 * 15:20~16:00 Teatime
 * 16:00~16:50 (English) Ben Orenstein(@r00k): Refactoring from Good to Great
-* 17:00~17:30 (Chinese) Joseph Ku: RubyMotion: Hack Your iOS App Like Never Before
-* 17:30~18:00 Lightning Talk
+* 17:00~18:00 Lightning Talk
