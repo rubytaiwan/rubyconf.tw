@@ -14,6 +14,12 @@ Venue Information
 * 台北市士林區中山北路七段113號
 * [Google Map](https://maps.google.com/maps?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%83%E6%AE%B5113%E8%99%9F&hl=zh-TW&ie=UTF8&sll=19.228177,-23.027344&sspn=67.759997,72.861328&hnear=111%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%B8%83%E6%AE%B5113%E8%99%9F&t=m&z=17)
  
+
+Call For Sponsors
+===
+
+See http://rubytaiwan.tumblr.com/post/27812337166/rubyconf-taiwan-2012-call-for-sponsors
+
 Official Party
 ===
 
