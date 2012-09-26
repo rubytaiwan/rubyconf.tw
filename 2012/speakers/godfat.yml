@@ -12,7 +12,4 @@ There's no perfect one-and-for-all model, but only ones can suit our
 need best. We'll talk about various ways for concurrency, and what's
 current implementations which we can pick from and how to implement
 them."
-bio: 'Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue
-Software, loving computer games, open source, Haskell and
-self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/:
-(.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])'
+bio: '"Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue Software, loving computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/: (.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])'
