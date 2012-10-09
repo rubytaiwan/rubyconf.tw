@@ -4,6 +4,7 @@ Sliver: ResumeCompanion
 Bronze: Goodlife.tw
 Bronze: Rocodev
 Bronze: Handlino (贊助咖啡)
+Bronze: Cardinal Blue
 
 媒體合作: 台灣新浪
 網頁設計: 四點設計
