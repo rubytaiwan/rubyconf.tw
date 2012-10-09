@@ -21,7 +21,7 @@ RubyConf Taiwan 2012 Schedule (TBD)
 ===
 
 * 9:00~ 9:50 (Chinese) Freedom: Smalltalk (TBD)
-* 10:00~10:50 (English) Koichi Sasada: Ruby 2.0 (TBD)
+* 10:00~10:50 (English) Koichi Sasada: (Implementation Details of Ruby 2.0 VM).succ
 * 11:00~11:30 (English) Hiroshi SHIBATA: How to discover the Ruby's defects with web application.
 * 11:30~12:00 (English) Gosuke Miyashita: Inside Sqale's Backend
 * 12:00~13:30 Lunch
