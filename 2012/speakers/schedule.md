@@ -30,3 +30,13 @@ RubyConf Taiwan 2012 Schedule (TBD)
 * 15:20~16:00 Teatime
 * 16:00~16:50 (English) Ben Orenstein(@r00k): Refactoring from Good to Great
 * 17:00~18:00 Lightning Talk
+
+Lightning Talk
+===
+
+* 高見龍: Vim for Ruby/Rails Developer
+* Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
+* 小蟹: 如何使用分頁 gem 和 partial 來輕鬆完成 ajax 的區塊更新與無限捲軸功能
+* Kentaro Kuribayashi: Fast Web Service Guided by Fluentd
+* Kensuke Nagae: Introducing nonopaste-cli
+* Shinya Tsunematsu: Building production server environment of ruby in modern way.
