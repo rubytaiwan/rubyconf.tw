@@ -34,6 +34,8 @@ RubyConf Taiwan 2012 Schedule (TBD)
 Lightning Talk
 ===
 
+5min talk. Please submit to contact@rubyconf.tw
+
 * 高見龍: Vim for Ruby/Rails Developer
 * Von: 使用 Goliath 設計 High Concurrent 及 High Availability 的 API
 * 小蟹: 如何使用分頁 gem 和 partial 來輕鬆完成 ajax 的區塊更新與無限捲軸功能
