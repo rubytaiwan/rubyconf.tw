@@ -1,3 +1,9 @@
+.navbar .nav > li {
+  float:none;
+}
+.navbar .nav {
+  float:none;
+}
 .sponsor img {
     width: 220px;
 }
@@ -373,6 +379,7 @@ select {
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
+      height: 300px;
   }
   .container {
     width: 768px;
@@ -504,6 +511,7 @@ select {
 @media only screen and (max-width: 767px) {
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
+      height: 250px;
   }
   .container {
     width: 300px;
@@ -558,6 +566,7 @@ select {
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
+      height: 250px;
   }
   .container {
     width: 420px;
@@ -1073,6 +1082,7 @@ h3 {
 @media only screen and (max-width: 959px) {
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
+      height: 300px;
   }
 }
 /* Tablet Portrait size to standard 960 (devices and browsers) */
@@ -1084,6 +1094,7 @@ h3 {
   }
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
+      height: 300px;
   }
 
 }
@@ -1097,6 +1108,7 @@ h3 {
   }
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
+      height: 250px;
   }
   
 }
@@ -1114,6 +1126,7 @@ h3 {
   
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
+      height: 250px;
   }
   
 }
@@ -1130,9 +1143,9 @@ h3 {
 
   #logo {
       background: url('../img/logo400.png') no-repeat center center;
+      height: 150px;
   }
-  
-  
+
 }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 767px) {
