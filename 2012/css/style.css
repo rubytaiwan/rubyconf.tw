@@ -1,3 +1,9 @@
+.sponsor {
+    float: left;
+}
+.sponsor img {
+    width: 220px;
+}
 font-size: 30px;@charset "utf-8";
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */@font-face {
   font-family: "Open Sans";
