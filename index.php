@@ -21,6 +21,7 @@
   <a href="http://www.flickr.com/search/?q=rubyconf%20taiwan"><img src="/images/rubyconf2010sc.jpg" width="800"></a>
   
   <ul> 
+    <li><a href="/2012">2012/12/7-8, Taipei</a></li>
     <li><a href="/2011">2011/8/26-27, Taipei</a></li>
     <li><a href="/2010">2010/4/25, Taipei</a></li> 
   </ul>
