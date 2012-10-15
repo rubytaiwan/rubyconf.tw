@@ -374,6 +374,9 @@ select {
 ================================================== */
 /* Note: Design for a width of 768px */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
+  #logo {
+      background: url('../img/logo800.png') no-repeat center center;
+  }
   .container {
     width: 768px;
   }
@@ -502,6 +505,9 @@ select {
 ================================================== */
 /* Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
+  #logo {
+      background: url('../img/logo600.png') no-repeat center center;
+  }
   .container {
     width: 300px;
   }
@@ -553,6 +559,9 @@ select {
 ================================================== */
 /* Note: Design for a width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+  #logo {
+      background: url('../img/logo600.png') no-repeat center center;
+  }
   .container {
     width: 420px;
   }
@@ -1065,7 +1074,9 @@ h3 {
 
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
-  
+  #logo {
+      background: url('../img/logo800.png') no-repeat center center;
+  }
 }
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -1073,6 +1084,9 @@ h3 {
   input[type=password],
   textarea {
     width: 342px !important;
+  }
+  #logo {
+      background: url('../img/logo800.png') no-repeat center center;
   }
 
 }
@@ -1086,7 +1100,6 @@ h3 {
   }
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      width: 100%;
   }
   
 }
@@ -1104,7 +1117,6 @@ h3 {
   
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      width: 100%;
   }
   
 }
@@ -1121,7 +1133,6 @@ h3 {
 
   #logo {
       background: url('../img/logo400.png') no-repeat center center;
-      width: 100%;
   }
   
   
@@ -1148,10 +1159,15 @@ h3 {
     z-index: 1000;
   }
 }
-@media only screen and (min-width: 959px) {
+@media only screen and (min-width: 959px) and (max-width: 1200px) {
   input[type=text],
   input[type=password],
   textarea {
     width: 438px !important;
   }
+
+  #logo {
+      background: url('../img/logo1100.png') no-repeat center center;
+  }
+  
 }
