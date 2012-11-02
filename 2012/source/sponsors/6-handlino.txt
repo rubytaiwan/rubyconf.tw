@@ -1,1 +1,3 @@
 http://handlino.com/
+
+If you are looking for good web application design & development, Handlino is here to help. Handlino was founded in December 2006. Our expertise are application development and standards-compliant web design. We have been engaged in open source communities, our tools of trade include CSS, JavaScript, Ruby on Rails, and Perl.
