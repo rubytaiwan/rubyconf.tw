@@ -20,3 +20,13 @@ $(document).ready ->
         left: 0
         top: -0.03 * $(window).height()
 
+  $('.popup').each ->
+      $(this).qtip
+        content:
+            text: $(this).attr('rel')
+        position:
+            my: 'bottom center'
+            at: 'top center'
+            target: $(this)
+        style:
+            classes: 'ui-tooltip-light ui-tooltip-rounded'
