@@ -564,9 +564,11 @@ select {
 ================================================== */
 /* Note: Design for a width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+  #meetup a img { width: 100px;}
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
       height: 250px;
+      margin-top: -150px !important;
   }
   .container {
     width: 420px;
@@ -720,6 +722,8 @@ h3 {
 /* ============================= */
 /* 			logo		         */
 /* ============================= */
+#meetup {text-align: left; width: 50%; margin-left: 20%;}
+
 #logo {
   display: block;
   padding: 40px 0px;
@@ -729,6 +733,7 @@ h3 {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
+  margin-top: -200px;
 }
 /* ============================= */
 /* 	speakers                     */
@@ -1141,9 +1146,11 @@ h3 {
     font-size: 60px;
   }
 
+  #meetup a img { width: 100px;}
   #logo {
       background: url('../img/logo400.png') no-repeat center center;
       height: 150px;
+      margin-top: -100px !important;
   }
 
 }
@@ -1159,7 +1166,7 @@ h3 {
     display: inline-block;
   }
   #home {
-    padding-top: 100px;
+    padding-top: 50px;
   }
   #navigation {
     position: fixed;
