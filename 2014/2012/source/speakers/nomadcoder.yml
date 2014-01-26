@@ -1,0 +1,8 @@
+name: Denis Gorin
+twitter: nomadcoder
+links: ["http://netzke.org/", "https://github.com/nomadcoder"]
+subject: Modular web-apps with Rails, Sencha Ext JS, and Netzke 
+language: English
+length: 50
+summary: "Modular approach to complex RIA (rich internet applications) gives considerable advantages over the commonly used MVC: structuring code into well defined components provides for high scalability, reusability and testability of the code. Besides, with a component being a Ruby class, the developers have full access to such OOP techniques as inheritance and mixing-in. The Netzke open source framework takes all the hard work of giving the developers clean and consistent techniques to create web components using Ruby for the server-side, and Sencha Ext JS for the client-side code. This talk will give you the introduction to the rationale behind Netzke, as well as show you some very cool code during the live coding session, which will make you want to use Netzke in your next project."
+bio: "Denis Gorin is the author and maintainer of Netzke, a traveling freelance Ruby and JavaScript developer from Amsterdam with professional web-development experience of more than 5 years. He's been speaking at a few Rails conferences and local Ruby events around the world. He's an enthusiastic nomad lifestyle advocate, and a productivity geek twitting at @nomadcoder."

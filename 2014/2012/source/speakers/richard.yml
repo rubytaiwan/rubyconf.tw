@@ -1,0 +1,14 @@
+name: Richard Lee 李致緯
+subject: Ruby Toolbox for DevOps 
+language: Chinese
+length: 50
+summary: "隨著各種行動、社交網路服務的蓬勃發展，以及敏捷軟體開發和 SaaS、雲端運算的普及化，在現今的網路服務，程式的開發以及服務的維運已經變得密不可分。開發者時常是身兼得伺服器管理以及營運的角色，也因此產生了 DevOps 這樣的新一代工作職位。
+
+在本次的演講當中，主要希望和觀眾從三個面向去切入 DevOps 們可以如何使用 Ruby 來改善工作流程：
+
+1. Provisioning - 透過 Chef / Vagarnt 等 Ruby 相關工具來達成自動化部署以及彈性的調整伺服器數量
+2. Continous Integration & Deployment - 透過  Capistrano / Janky / Hubot 以及 GitHub 的 API 整合來達成持續整合和部署
+3. Monitoring - 透過 God / Fluentd 等工具來監控伺服器以及程式狀況、並且收集所需要的記錄以便後續進行分析
+
+在演講的內容中，將會使用目前本公司的服務以及工作流程來作為例子分享，會特別針對中小型的 Startups 要如何善用這些工具來改善工作流程和節省會加以描述。"
+bio: Richard Lee 李致緯，Polydice 的共同創辦人，目前主要參與公司產品愛料理的營運以及開發。

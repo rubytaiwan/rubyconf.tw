@@ -1,0 +1,3 @@
+http://cloudfoundry.org/
+
+Cloud Foundry is an open platform as a service, providing a choice of clouds, developer frameworks and application services. Initiated by VMware, with broad industry support, Cloud Foundry makes it faster and easier to build, test, deploy and scale applications. It is an open source project and is available through a variety of private cloud distributions and public cloud instances, including CloudFoundry.com.

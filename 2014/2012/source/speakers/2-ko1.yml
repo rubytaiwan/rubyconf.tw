@@ -1,0 +1,16 @@
+name: 笹田耕一 Koichi Sasada (Matz' team at Heroku, Inc.)
+twitter: _ko1
+subject: (Implementation Details of Ruby 2.0 VM).succ
+language: English
+length: 50
+summary: "As a member of Matz's team in Heroku, I'm working Ruby 2.0 to be
+released in next February. Ruby 2.0 doesn't have drastic changes in
+behavior except adding some new features. However, an internal of Ruby
+2.0 VM is changing to improve performance! For example, we changed VM
+data structures and method invocation processes to achieve fast
+execution. In this presentation, I will introduce the internal changes
+and its performance. This presentation is plus one version of my
+presentation at RubyConf 2012."
+bio: "Five years ago, YARV I developed was merged into Ruby 1.9. After five
+years, now I can concentrate on Ruby 2.0 VM development as a member of
+Matz's team in Heroku, Inc."
