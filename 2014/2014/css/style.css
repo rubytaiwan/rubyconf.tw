@@ -650,7 +650,7 @@ body {
   line-height: 1.5em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  background: url(../img/pattern6.png);
+  background: url(../img/background/buttom.png);
   text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.8);
 }
 h1,
@@ -683,8 +683,7 @@ h3 {
 /* ============================= */
 #navigation {
   display: block;
-  background: url(../img/pattern6.png);
-  border-bottom: 1px solid #dddddd;
+  background: url(../img/background/header.png);
   -webkit-box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.3);
   -o-box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.3);
@@ -722,10 +721,13 @@ h3 {
 /* ============================= */
 #logo {
   display: block;
-  padding: 40px 0px;
-  background: url('../img/logo.png') no-repeat center center;
-  height: 514px;
-  width: 100%;
+  padding: 0px 0px;
+  background: url('../img/logo/logo_left.png'), url('../img/logo/logo_center.png'), url('../img/logo/logo_right.png');
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, center, right;
+  height: 400px;
+  margin: 0 auto;
+  width: 794px;
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
@@ -1159,7 +1161,7 @@ h3 {
     display: inline-block;
   }
   #home {
-    padding-top: 100px;
+    padding-top: 60px;
   }
   #navigation {
     position: fixed;
