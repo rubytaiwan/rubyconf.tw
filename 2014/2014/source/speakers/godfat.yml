@@ -1,0 +1,18 @@
+name: "Lin Jen Shin (godfat)"
+subject: Concurrent Ruby Application Servers
+language: Chinese
+length: 50
+summary: "By understanding various of ways to achieve concurrency (i.e. serving
+more requests in a short period of time with less resource), we can
+pick the right model which suits our needs for a certain kind of web
+application and make it more responsive under high load/traffics and
+less vulnerable to DoS attack.
+
+There's no perfect one-and-for-all model, but only ones can suit our
+need best. We'll talk about various ways for concurrency, and what's
+current implementations which we can pick from and how to implement
+them."
+bio: 'Lin Jen Shin (godfat) is a programmer who works for Cardinal Blue
+Software, loving computer games, open source, Haskell and
+self-referential jokes, such as: %p=~/(.+)/;puts(($1%%$1)[/:
+(.+)/,1])"=~/(.+)/;puts(($1%$1)[/: (.+)/,1])'

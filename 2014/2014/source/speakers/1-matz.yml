@@ -1,0 +1,7 @@
+name: 松本行弘 Yukihiro Matsumoto (Ruby Chief Architect, Heroku)
+twitter: yukihiro_matz
+subject: Keynote
+language: English
+length: 50
+summary: 
+bio: Ruby 語言之父，Ruby協會理事長，現今最常見的Ruby語言實作版本MRI(Matz's Ruby Implementation)即以其命名。除了長年致力於Ruby的推廣之外，近年則專注於行動與嵌入式系統的Ruby分支「mruby」。

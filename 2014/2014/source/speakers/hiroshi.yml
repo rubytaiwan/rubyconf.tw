@@ -1,0 +1,20 @@
+name: Hiroshi SHIBATA
+subject: How to discover the Ruby's defects with web application.
+language: English
+length: 25
+summary: "To discover the Ruby's defects is too difficult because they are in
+hidden place. So we need high contexts and techniques if we try to
+discover Ruby's defects without any ruby application.
+
+A remarkable feature of the Japanese Ruby is that we have many Ruby
+applications. A tDiary(http://www.tdiary.org/) is one of oldest web
+application with ruby. tDiary has been growing up with ruby, and found
+defects in ruby. Because tDiary uses Ruby functions that other
+softwares do not use.
+
+I will talk about Ruby's useful but rare functions and how to discover
+Ruby's defects."
+bio: "Hiroshi SHIBATA (Advanced senior engineer at paperboy&co., Inc.) Tokyo, Japan
+My work mission is solving all technical problems in my company. I
+have been developping tDiary(like a blog system) for 10 years. I am
+member of asakusa.rb."
