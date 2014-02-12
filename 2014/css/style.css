@@ -5,7 +5,7 @@
   float:none;
 }
 .sponsor img {
-    width: 220px;
+    width: 105px;
 }
 font-size: 30px;@charset "utf-8";
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */@font-face {
@@ -379,7 +379,7 @@ select {
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
-      height: 300px;
+      height: 310px;
   }
   .container {
     width: 768px;
@@ -511,7 +511,7 @@ select {
 @media only screen and (max-width: 767px) {
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      height: 250px;
+      height: 350px;
   }
   .container {
     width: 300px;
@@ -566,7 +566,7 @@ select {
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      height: 250px;
+      height: 350px;
   }
   .container {
     width: 420px;
@@ -722,12 +722,12 @@ h3 {
 #logo {
   display: block;
   padding: 0px 0px;
-  background: url('../img/logo/logo_left.png'), url('../img/logo/logo_center.png'), url('../img/logo/logo_right.png');
-  background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: left, center, right;
-  height: 400px;
+  background: url('../img/logo1100.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 425px;
   margin: 0 auto;
-  width: 794px;
+  /*width: 794px;*/
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
@@ -1084,7 +1084,7 @@ h3 {
 @media only screen and (max-width: 959px) {
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
-      height: 300px;
+      height: 310px;
   }
 }
 /* Tablet Portrait size to standard 960 (devices and browsers) */
@@ -1096,7 +1096,7 @@ h3 {
   }
   #logo {
       background: url('../img/logo800.png') no-repeat center center;
-      height: 300px;
+      height: 310px;
   }
 
 }
@@ -1110,7 +1110,7 @@ h3 {
   }
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      height: 250px;
+      height: 350px;
   }
 
 }
@@ -1128,7 +1128,7 @@ h3 {
 
   #logo {
       background: url('../img/logo600.png') no-repeat center center;
-      height: 250px;
+      height: 350px;
   }
 
 }
@@ -1145,7 +1145,7 @@ h3 {
 
   #logo {
       background: url('../img/logo400.png') no-repeat center center;
-      height: 150px;
+      height: 260px;
   }
 
 }
