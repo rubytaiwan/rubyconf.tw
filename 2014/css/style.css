@@ -1,3 +1,9 @@
+.table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th {
+  background-color: #d4d3bf;
+}
+/*override bootstrap color*/
+
+
 .navbar .nav > li {
   float:none;
 }
@@ -5,12 +11,12 @@
   float:none;
 }
 .sponsor img {
-    width: 105px;
 }
 
 .sponsor {
   margin-left: 40px;
 }
+
 font-size: 30px;@charset "utf-8";
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */@font-face {
   font-family: "Open Sans";
@@ -717,7 +723,7 @@ h3 {
 #navigation ul > li > a:hover,
 #navigation ul > li > a:focus {
   color: #fff;
-  background: #bc0e31;
+  background: #dab866;
   padding-bottom: 5px;
 }
 /* ============================= */
@@ -1077,6 +1083,7 @@ h3 {
 }
 
 .table th, .table td {
+  text-align: center;
   border-left: 1px solid #ccc;
 }
 
