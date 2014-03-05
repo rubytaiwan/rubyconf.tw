@@ -17,6 +17,16 @@
   margin-left: 40px;
 }
 
+.staff a {
+  margin-left: 40px;
+}
+
+.staff img:hover {
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  transition-duration: 3s;
+}
+
 font-size: 30px;@charset "utf-8";
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */@font-face {
   font-family: "Open Sans";
