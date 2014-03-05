@@ -15,7 +15,7 @@ $(document).ready(function() {
   $("#registration").on({
     click: function(e) {
       e.preventDefault();
-      return window.open('http://registrano.com/events/rubyconf-taiwan-2012', '_blank');
+      return window.open('http://rubytaiwan.kktix.cc/events/rubyconftw2014', '_blank');
     }
   });
   $("#navigation a").on({
