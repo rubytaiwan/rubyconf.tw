@@ -1,0 +1,11 @@
+speakers:
+  - name: 松本行弘 Matz
+    twitter: yukihiro_matz
+    bio: Yukihiro "Matz" Matsumoto is the creator of Ruby programming language. He started development of Ruby in 1993. Now he works for Heroku which has sponsored Ruby development since 2011. He also serves as a chairman at Ruby Association, a non-profit organization for supporting Ruby. We are honored to have Matz joining us for this year's conference.
+    subject: Keynote
+    summary:
+  - name: Linda Liukas
+    twitter: ylindaliukas
+    bio: Founder of Rails Girls Community
+    subject: How the Principles of Ruby Inspired the Rails Girls Community
+    summary: Internet is profoundly human. What we learned from growing a Rails Girls community into 160 cities - and how we applied principles behind Ruby to build it.
