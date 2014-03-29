@@ -1087,6 +1087,10 @@ h3 {
   width: 68%;
 }
 
+.intro li {
+  margin-top: 5px;
+}
+
 .table-bordered th, .table-bordered td {
   border-left: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
@@ -1210,4 +1214,12 @@ h3 {
 
 .twtr {
   font-size: 17px;
+}
+
+.bio {
+  color: #be6d48;
+}
+
+.subject {
+  color: #943640;
 }
