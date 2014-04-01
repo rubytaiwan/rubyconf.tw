@@ -1,0 +1,59 @@
+-
+  day: 1
+  date: 2014/4/25
+  venue: Auditorium
+  schedule:
+  -
+    start_at: 09:30
+    name: OPENING
+    type: appearance
+    duration: 20
+  -
+    start_at: 09:50
+    name: INTERMISSION
+    type: intermission
+    duration: 5
+  -
+    start_at: 09:55
+    name: SPONSOR APPEARANCE
+    type: appearance
+    duration: 5
+  -
+    start_at: 10:00
+    type: session
+    pic: JustinLin.png
+    name: Justin Lin
+    title: Understanding Typing, Understanding Ruby
+    duration: 50
+  -
+    start_at: 10:50
+    name: INTERMISSION
+    type: intermission
+    duration: 20
+  -
+    start_at: 11:10
+    type: session
+    name: Joseph Ku
+    pic: joseph-ku.png
+    title: "RubyMotion Gets A Cool New Friend: mruby on iOS"
+    duration: 50
+  -
+    start_at: 12:00
+    name: LAUNCH
+    type: intermission
+    duration: 90
+  -
+    start_at: 13:30
+    type: session
+    pic: matz.png
+    name: Manic Chuang
+    title: Practice: Refactoring with tests
+    duration: 25
+  -
+    start_at: 13:30
+    type: session
+    pic: matz.png
+    name: Matz
+    title: TBA
+    duration: 50
+
