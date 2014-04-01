@@ -17,15 +17,6 @@
   margin-left: 40px;
 }
 
-.staff a {
-  margin-left: 40px;
-}
-
-.staff img:hover {
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate(270deg);
-  transition-duration: 3s;
-}
 
 font-size: 30px;@charset "utf-8";
 /* @font-face kit by Fonts2u (http://www.fonts2u.com) */@font-face {
@@ -1247,3 +1238,31 @@ h3 {
 #coc strong {
   color: #bc0e31;
 }
+
+#staff .intro {
+  display: none;
+}
+
+#staff .staffs {
+  text-align: center;
+}
+
+#staff .staffs .slidewrap {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#staff .staff a {
+  margin-right: 40px;
+}
+
+#staff .staff {
+  display: inline-block
+}
+
+#staff .staff img:hover {
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  transition-duration: 3s;
+}
+
