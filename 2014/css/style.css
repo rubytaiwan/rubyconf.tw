@@ -1250,6 +1250,7 @@ h3 {
 #staff .staffs .slidewrap {
   display: inline-block;
   margin: 0 auto;
+  margin-top: 70px;
 }
 
 #staff .staff a {
@@ -1257,12 +1258,53 @@ h3 {
 }
 
 #staff .staff {
-  display: inline-block
+  display: inline-block;
+  position: relative;
+  width: 110px;
+  height: 65px;
 }
 
 #staff .staff img:hover {
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
   transition-duration: 3s;
+}
+
+#staff .staff .avatar a {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#staff .staff.gem-tiny img{
+  width: 50%;
+}
+
+#staff .staff.gem-small img{
+  width: 75%;
+}
+
+#staff .staff .staff-overtop{
+  position: absolute;
+  top: -60px;
+}
+
+#staff .staff .staff-top {
+  position: absolute;
+  top: -40px;
+}
+
+#staff .staff .staff-middle {
+  position: absolute;
+  top: -20px;
+}
+
+#staff .staff .staff-bottom {
+  position: absolute;
+  top: 0px;
+}
+
+#staff .staff .staff-overbottom {
+  position: absolute;
+  top: 20px;
 }
 
