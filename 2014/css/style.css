@@ -753,11 +753,11 @@ h3 {
 .slidewrap .avatar{
   text-align: center;
 }
-.slidewrap .avatar img:hover {
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate(270deg);
-  transition-duration: 3s;
-}
+/*.slidewrap .avatar img:hover {*/
+  /*-webkit-transform: rotate(270deg);*/
+  /*-moz-transform: rotate(270deg);*/
+  /*transition-duration: 3s;*/
+/*}*/
 .slidewrap h3 {
   font-size: 20px;
   width: 131px;
@@ -1262,12 +1262,7 @@ h3 {
   position: relative;
   width: 110px;
   height: 65px;
-}
-
-#staff .staff img:hover {
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate(270deg);
-  transition-duration: 3s;
+  z-index: 3;
 }
 
 #staff .staff .avatar a {
@@ -1308,3 +1303,58 @@ h3 {
   top: 20px;
 }
 
+#staff .staff:before {
+  content: '';
+  position: absolute;
+  display: inline-block;
+  background-color: #DC3137;
+  width: 80px;
+  height: 4px;
+  z-index: 1;
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:nth-child(1):before {
+  transform: rotate(26deg);
+  -webkit-transform: rotate(26deg);
+  -moz-transform: rotate(26deg);
+  width: 77px;
+  top: 15px;
+  left: 58px;
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:nth-child(2):before {
+  transform: rotate(164deg);
+  -webkit-transform: rotate(164deg);
+  -moz-transform: rotate(164deg);
+  top: 28px;
+  width: 82px
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:nth-child(3):before {
+  transform: rotate(157deg);
+  -webkit-transform: rotate(157deg);
+  -moz-transform: rotate(157deg);
+  width: 91px;
+  top: -9px;
+  left: 44px;
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:nth-child(4):before {
+  transform: rotate(20deg);
+  -webkit-transform: rotate(20deg);
+  -moz-transform: rotate(20deg);
+  top: -17px;
+  left: 53px;
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:nth-child(5):before {
+  transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  top: 25px;
+  left: 61px;
+}
+
+#staff > div > div.sixteen.columns.staffs > div > div:last-child:before {
+  display: none;
+}
