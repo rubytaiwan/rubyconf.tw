@@ -45,15 +45,250 @@
   -
     start_at: 13:30
     type: session
-    pic: matz.png
+    pic: manic.png
     name: Manic Chuang
-    title: Practice: Refactoring with tests
+    title: "Practice: Refactoring with tests"
     duration: 25
   -
-    start_at: 13:30
+    start_at: 14:05
     type: session
     pic: matz.png
     name: Matz
-    title: TBA
+    title: "Objective Ruby"
     duration: 50
-
+  -
+    start_at: 14:55
+    name: "Tea Time"
+    type: intermission
+    duration: 20
+  -
+    start_at: 15:15
+    type: session
+    pic: "godfat-sq.png"
+    name: "Lin Jen-Shin (godfat)"
+    title: "RubyQC -- A conceptual QuickCheck library for Ruby"
+    duration: 25
+  -
+    start_at: 15:40
+    type: session
+    pic: taiansu.png
+    name: Taian Su
+    title: "Tell a good story with Ruby"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: DavidYun.png
+    name: David Yun
+    title: "透過 Ruby 讓 Web API 使用者喜歡你的 10 件事"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: tonytonyjan.png
+    name: 簡煒航
+    title: "打造漂亮的 Rails 後台"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: Richard.png
+    name: "Richard Huang"
+    title: "Improve and refactor ruby code easier"
+    duration: 25
+  -
+    start_at: 19:30
+    type: party
+    name: "Official Party"
+    duration: 210
+-
+  day: 1
+  date: 2014/4/25
+  venue: "Performance Hall"
+  schedule:
+  -
+    start_at: 09:30
+    type: none
+    duration: 345
+  -
+    start_at: 15:15
+    type: session
+    pic: Winston.png
+    name: "Winston Teo"
+    title: "Happy Teams"
+    duration: 25
+  -
+    start_at: 15:45
+    type: session
+    pic: Lance.png
+    name: "Lance Gleason"
+    title: "Analytics For The Busy Ruby Developer"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: Sausheong.png
+    name: "Sau Sheong Chang"
+    title: "Money, Sex and Evolution"
+    duration: 25
+  -
+    start_at: 16:45
+    type: session
+    pic: "Satoshi-GUNJI.png"
+    name: "Satoshi GUNJI"
+    title: "Introducing Rubyist Magazine"
+    duration: 25
+  -
+    start_at: 17:15
+    type: session
+    pic: hsbt.png
+    name: "Hiroshi SHIBATA"
+    title: 'From "legacy" to the "edge" 2014 edition.'
+    duration: 25
+-
+  day: 2
+  date: 2014/4/26
+  venue: Auditorium
+  schedule:
+  -
+    start_at: 09:30
+    name: OPENING
+    type: appearance
+    duration: 20
+  -
+    start_at: 09:50
+    name: INTERMISSION
+    type: intermission
+    duration: 5
+  -
+    start_at: 09:55
+    name: SPONSOR APPEARANCE
+    type: appearance
+    duration: 5
+  -
+    start_at: 10:00
+    type: session
+    pic: JustinLin.png
+    name: Justin Lin
+    title: Understanding Typing, Understanding Ruby
+    duration: 50
+  -
+    start_at: 10:50
+    name: INTERMISSION
+    type: intermission
+    duration: 20
+  -
+    start_at: 11:10
+    type: session
+    name: Joseph Ku
+    pic: joseph-ku.png
+    title: "RubyMotion Gets A Cool New Friend: mruby on iOS"
+    duration: 50
+  -
+    start_at: 12:00
+    name: LAUNCH
+    type: intermission
+    duration: 90
+  -
+    start_at: 13:30
+    type: session
+    pic: manic.png
+    name: Manic Chuang
+    title: "Practice: Refactoring with tests"
+    duration: 25
+  -
+    start_at: 14:05
+    type: session
+    pic: matz.png
+    name: Matz
+    title: "Objective Ruby"
+    duration: 50
+  -
+    start_at: 14:55
+    name: "Tea Time"
+    type: intermission
+    duration: 20
+  -
+    start_at: 15:15
+    type: session
+    pic: "godfat-sq.png"
+    name: "Lin Jen-Shin (godfat)"
+    title: "RubyQC -- A conceptual QuickCheck library for Ruby"
+    duration: 25
+  -
+    start_at: 15:40
+    type: session
+    pic: taiansu.png
+    name: Taian Su
+    title: "Tell a good story with Ruby"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: DavidYun.png
+    name: David Yun
+    title: "透過 Ruby 讓 Web API 使用者喜歡你的 10 件事"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: tonytonyjan.png
+    name: 簡煒航
+    title: "打造漂亮的 Rails 後台"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: Richard.png
+    name: "Richard Huang"
+    title: "Improve and refactor ruby code easier"
+    duration: 25
+  -
+    start_at: 19:30
+    type: party
+    name: "Official Party"
+    duration: 210
+-
+  day: 2
+  date: 2014/4/26
+  venue: "Performance Hall"
+  schedule:
+  -
+    start_at: 09:30
+    type: none
+    duration: 345
+  -
+    start_at: 15:15
+    type: session
+    pic: Winston.png
+    name: "Winston Teo"
+    title: "Happy Teams"
+    duration: 25
+  -
+    start_at: 15:45
+    type: session
+    pic: Lance.png
+    name: "Lance Gleason"
+    title: "Analytics For The Busy Ruby Developer"
+    duration: 25
+  -
+    start_at: 16:15
+    type: session
+    pic: Sausheong.png
+    name: "Sau Sheong Chang"
+    title: "Money, Sex and Evolution"
+    duration: 25
+  -
+    start_at: 16:45
+    type: session
+    pic: "Satoshi-GUNJI.png"
+    name: "Satoshi GUNJI"
+    title: "Introducing Rubyist Magazine"
+    duration: 25
+  -
+    start_at: 17:15
+    type: session
+    pic: hsbt.png
+    name: "Hiroshi SHIBATA"
+    title: 'From "legacy" to the "edge" 2014 edition.'
+    duration: 25
