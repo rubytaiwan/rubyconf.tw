@@ -152,102 +152,84 @@
   schedule:
   -
     start_at: 09:30
-    name: OPENING
-    type: appearance
-    duration: 20
-  -
-    start_at: 09:50
-    name: INTERMISSION
-    type: intermission
-    duration: 5
-  -
-    start_at: 09:55
-    name: SPONSOR APPEARANCE
-    type: appearance
-    duration: 5
-  -
-    start_at: 10:00
     type: session
-    pic: JustinLin.png
-    name: Justin Lin
-    title: Understanding Typing, Understanding Ruby
+    pic: "Brucehsu.png"
+    name: "Szu-Kai Hsu"
+    title: "Cores unleashed - Exploiting Parallelism in Ruby with STM (and a new VM)"
+    duration: 25
+  -
+    start_at: 10:05
+    type: session
+    pic: Linda.png
+    name: "Linda Liukas & Terence Lee"
+    title: "How the Principles of Ruby Inspired the Rails Girls Community"
     duration: 50
   -
-    start_at: 10:50
+    start_at: 10:55
     name: INTERMISSION
     type: intermission
     duration: 20
   -
-    start_at: 11:10
+    start_at: 11:15
     type: session
-    name: Joseph Ku
-    pic: joseph-ku.png
-    title: "RubyMotion Gets A Cool New Friend: mruby on iOS"
+    name: "Tse-Ching Ho"
+    pic: "Tse-ChingHo.png"
+    title: "Ruby on Bioinformatics"
     duration: 50
   -
-    start_at: 12:00
+    start_at: 12:05
     name: LAUNCH
     type: intermission
-    duration: 90
+    duration: 85
   -
     start_at: 13:30
     type: session
-    pic: manic.png
-    name: Manic Chuang
-    title: "Practice: Refactoring with tests"
+    pic: richardlee.png
+    name: "Richard Lee"
+    title: "Ruby & Friends: Taking Go as an example"
     duration: 25
   -
-    start_at: 14:05
+    start_at: 14:15
     type: session
-    pic: matz.png
-    name: Matz
-    title: "Objective Ruby"
+    pic: headius.png
+    name: Charles Nutter
+    title: "Growing Up - Bringing Concurrency to Ruby"
     duration: 50
   -
-    start_at: 14:55
+    start_at: 15:05
     name: "Tea Time"
     type: intermission
     duration: 20
   -
-    start_at: 15:15
+    start_at: 15:25
     type: session
-    pic: "godfat-sq.png"
-    name: "Lin Jen-Shin (godfat)"
-    title: "RubyQC -- A conceptual QuickCheck library for Ruby"
+    pic: ko1.png
+    name: "Koichi Sasada"
+    title: "Object lifetime analysis with Ruby 2.1"
     duration: 25
   -
-    start_at: 15:40
+    start_at: 15:55
     type: session
-    pic: taiansu.png
-    name: Taian Su
-    title: "Tell a good story with Ruby"
+    pic: "Yuichiro-MASUI.png"
+    name: "Yuichiro MASUI"
+    title: "mruby on iOS == MobiRuby"
     duration: 25
   -
-    start_at: 16:15
+    start_at: 16:25
     type: session
-    pic: DavidYun.png
-    name: David Yun
-    title: "透過 Ruby 讓 Web API 使用者喜歡你的 10 件事"
+    pic: Zzak.png
+    name: "Zachary Scott"
+    title: "Contributing To Ruby: Part Two"
     duration: 25
   -
-    start_at: 16:15
-    type: session
-    pic: tonytonyjan.png
-    name: 簡煒航
-    title: "打造漂亮的 Rails 後台"
-    duration: 25
+    start_at: 17:00
+    type: lt
+    name: "Lightning Talk"
   -
-    start_at: 16:15
-    type: session
-    pic: Richard.png
-    name: "Richard Huang"
-    title: "Improve and refactor ruby code easier"
-    duration: 25
-  -
-    start_at: 19:30
-    type: party
-    name: "Official Party"
-    duration: 210
+    start_at: 18:00
+    name: CLOSING
+    type: appearance
+    duration: 10
 -
   day: 2
   date: 2014/4/26
@@ -255,40 +237,63 @@
   schedule:
   -
     start_at: 09:30
+    type: session
+    pic: TeamYamanekko.png
+    name: "Team Yamanekko"
+    title: "How to debug mruby"
+    duration: 25
+  -
+    start_at: 10:00
     type: none
-    duration: 345
+    duration: 75
   -
-    start_at: 15:15
+    start_at: 11:15
     type: session
-    pic: Winston.png
-    name: "Winston Teo"
-    title: "Happy Teams"
+    pic: "Francis-Chong.png"
+    name: "Francis Chong"
+    title: "Implement beautiful DSL for iOS using Ruby"
     duration: 25
   -
-    start_at: 15:45
+    start_at: 11:40
     type: session
-    pic: Lance.png
-    name: "Lance Gleason"
-    title: "Analytics For The Busy Ruby Developer"
+    pic: Arne.png
+    name: "Arne Brasseur"
+    title: "Functional Programming in Ruby"
     duration: 25
   -
-    start_at: 16:15
+    start_at: 12:05
+    name: LAUNCH
+    type: intermission
+    duration: 85
+  -
+    start_at: 13:30
     type: session
-    pic: Sausheong.png
-    name: "Sau Sheong Chang"
-    title: "Money, Sex and Evolution"
+    pic: yukitorii.png
+    name: "Yuki Torii"
+    title: "the Guide to know Ruby implementation for non-C language programer"
     duration: 25
   -
-    start_at: 16:45
+    start_at: 14:10
+    type: none
+    duration: 75
+  -
+    start_at: 15:25
     type: session
-    pic: "Satoshi-GUNJI.png"
-    name: "Satoshi GUNJI"
-    title: "Introducing Rubyist Magazine"
+    pic: Andre_Arko.png
+    name: "Andre Arko"
+    title: "Extreme Makeover - Rubygems Edition"
     duration: 25
   -
-    start_at: 17:15
+    start_at: 15:55
     type: session
-    pic: hsbt.png
-    name: "Hiroshi SHIBATA"
-    title: 'From "legacy" to the "edge" 2014 edition.'
+    pic: DonWerve.png
+    name: "Don Werve"
+    title: "Becoming a 10x developer"
+    duration: 25
+  -
+    start_at: 16:25
+    type: session
+    pic: "Amy-Wibowo.png"
+    name: "Amy Wibowo"
+    title: "sweaters as a service - adventures in electronic knitting"
     duration: 25
