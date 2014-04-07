@@ -11,10 +11,17 @@
   float:none;
 }
 .sponsor img {
+  margin-top: 20px;
 }
 
 .sponsor {
   margin-left: 40px;
+  color: #666;
+}
+
+.sponsor:hover {
+  text-decoration: none;
+  color: #666;
 }
 
 .staff a {
