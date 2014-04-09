@@ -12,6 +12,7 @@
 }
 
 .shine {
+  display: none;
   position: absolute;
   left: 0;
   right: 0;
@@ -32,4 +33,8 @@
 
 .shine .circle {
   margin-bottom: -7px
+}
+
+.staff:hover .shine {
+  display: block;
 }
