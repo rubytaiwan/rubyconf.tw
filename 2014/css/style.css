@@ -1273,11 +1273,11 @@ h3 {
   vertical-align: middle;
 }
 
-#staff .staff.gem-tiny img{
+#staff .staff.gem-tiny .avatar img{
   width: 50%;
 }
 
-#staff .staff.gem-small img{
+#staff .staff.gem-small .avatar img{
   width: 75%;
 }
 

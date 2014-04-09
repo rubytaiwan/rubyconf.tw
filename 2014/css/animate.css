@@ -38,3 +38,8 @@
 .staff:hover .shine {
   display: block;
 }
+
+.circle img{
+  width: 16px; !important
+  height: 16px; !important
+}
