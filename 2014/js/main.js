@@ -30,6 +30,7 @@ $(document).ready(function() {
       });
     }
   });
+  /*
   return $('.popup').each(function() {
     return $(this).qtip({
       content: {
@@ -45,4 +46,5 @@ $(document).ready(function() {
       }
     });
   });
+  */
 });

@@ -1306,16 +1306,6 @@ h3 {
   top: 20px;
 }
 
-#staff .staff:before {
-  content: '';
-  position: absolute;
-  display: inline-block;
-  background-color: #DC3137;
-  width: 80px;
-  height: 4px;
-  z-index: 1;
-}
-
 #staff > div > div.sixteen.columns.staffs > div > div:nth-child(1):before {
   transform: rotate(26deg);
   -webkit-transform: rotate(26deg);
