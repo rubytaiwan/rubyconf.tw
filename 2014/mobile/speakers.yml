@@ -1,0 +1,181 @@
+  -
+    id: 1
+    name: "Matsumoto Yukihiro"
+    pic: "matz.png"
+    twitter: "yukihiro_matz"
+    intro: "Father of Ruby"
+  -
+    id: 2
+    name: "Linda Liukas"
+    pic: linda.png
+    twitter: lindaliukas
+    intro: "Founder of Rails Girls Community"
+  -
+    id: 3
+    name: "Terence Lee"
+    pic: terence_lee.png
+    twitter: hone02
+    intro: "Terence works at Heroku maintaining the Ruby stack and a slew of OSS projects such as Ruby and Bundler, as well as helping with the Rails Girls movement. When he's not going to an awesome Heroku or Ruby event, he lives in Austin, TX, the taco capital of America.(Terence loves Friday hugs, EVERY DAY OF THE WEEK! Give him a big one when you see him!)"
+  -
+    id: 4
+    name: Charles Nutter
+    pic: headius.png
+    twitter: headius
+    intro: "Charles has worked on JRuby for seven years, bringing Ruby to the JVM and performance and efficiency to Ruby. His work has brought him to the deepest levels of the JVM, and he continues to push the JVM's boundaries while teaching and evangelizing JRuby and OpenJDK."
+  -
+    id: 5
+    name: Justin Lin
+    pic: JustinLin.png
+    twitter: caterpillar
+    intro: "A freelancer enjoys studying programming languages, frameworks and communities; learn designs, paradigms and cultures from them. Writing what he’s learned occupies most of the leisure time. Online documentation covers areas about C/C + +, Java, Scala, Ruby / Rails, Python, JavaScript, etc."
+  -
+    id: 6
+    name: Zachary Scott
+    pic: zzak.png
+    twitter: "_zzak"
+    intro: 'CRuby Committer'
+  -
+    id: 7
+    name: "André Arko"
+    pic: "Andre_Arko.png"
+    twitter: indirect
+    intro: "André thinks Ruby is pretty cool. He designs and builds web applications at Cloud City Development by day, and works on Bundler and Rubygems by night… and also some days."
+  -
+    id: 8
+    name: Amy Wibowo
+    pic: "Amy-Wibowo.png"
+    twitter: sailorhg
+    intro: "Amy is a software engineer at Airbnb. Prior to Airbnb, she's done machine learning research on the ASIMO team at Honda Research Institute in Japan and HCI research at the University of Tokyo. She also enjoys hardware hacking and the intersection of art and technology-- in particular, making tools that enable people to be more creative."
+  -
+    id: 9
+    name: "Sau Sheong Chang"
+    pic: Sausheong.png
+    twitter: sausheong
+    intro: "Chang Sau Sheong is the Director of Regional Solutions Engineering for Asia and Latin America in PayPal. He is responsible to deliver integrated solutions and products that are needed by business units the respective regions. Previously, he was the Director of HP Labs Singapore, responsible for managing a team of research scientists and engineers focusing on researching, developing and testing cloud computing and Big Data technologies for HP. Before joining HP, Sau Sheong was the Chief Technology Officer for Garena and Director of Engineering for Yahoo! Southeast Asia. Sau Sheong is an active developer on many open source projects and has also published 3 technical books. His latest is ‘Exploring Everyday Things with R and Ruby’ with O’Reilly Media, which explores how we can discover the data that is intertwined with our daily lives."
+  -
+    id: 10
+    name: "Lance Gleason"
+    pic: Lance.png
+    twitter: lgleasain
+    intro: "Lance has been a computer nut ever since his dad bought him a VIC 20 in the 1980s. After nearly a decade as a Java developer for companies like Kodak, CNN, and GE, he decided to end his addiction to heavy inheritance, static typing, and coding without tests. These days, he practices clean Ruby living with lots of well-tested code, class composition, and fun dynamic languages as a developer/startup CTO for hire with extensive experience in data science and committer on open source projects such as the Passbook-iOS, Asari and Active Asari Gems. He is known to practice interspecies pair (purr) programming with his orange tabby, Allie, and when he's not writing code, you will find him diving with sharks, trekking through Chernobyl, sampling wine, cheering on the Springboks or perfecting his biltong recipe."
+  -
+    id: 11
+    name: Hiroshi SHIBATA
+    pic: hsbt.png
+    twitter: hsbt
+    intro: "OSS Programer, CRuby commiter, One of organizers of RailsGirls in Japan. Advanced senior engineer in paperboy&co., Inc. He is interested in migration strategy of legacy to edge."
+  -
+    id: 12
+    name: Winston Teo
+    pic: Winston.png
+    twitter: winstonyw
+    intro: "Winston is the Founder of JollyGoodCode, a consultancy that specialises in Agile and Ruby. Formerly from Pivotal Labs, he's been doing Ruby since 2007 and is a fervent proponent of engineering happiness. Winston loves to contribute to open source, having built gems such as GoogleVisualr and Cactus. He's also the organiser of monthly Ruby meetups in Singapore and RedDotRubyConference since 2013."
+  -
+    id: 13
+    name: Francis Chong
+    pic: "Francis-Chong.png"
+    twitter: siuying
+    intro: "Ruby and iOS developer."
+  -
+    id: 14
+    name: Bruce Hsu
+    pic: "Brucehsu.png"
+    twitter: brucehsu
+    intro: "Szu-Kai Hsu (brucehsu) is currently a graduate student at National Chung Cheng University. Bruce has been programming Ruby and enjoying it since he first discovered Ruby in 2008."
+  -
+    id: 15
+    name: Richard Huang
+    pic: "Richard.png"
+    twitter: flyerhzm
+    intro: "Richard Huang is the Founder of Xinmin Labs, he's also a senior engineer who has a strong focus on code quality, problem solving and server performance. He loves contributing to the open source community, has built bullet and rails_best_practices gems."
+  -
+    id: 16
+    name: Arne Brasseur
+    pic: Arne.png
+    twitter: plexus
+    intro: "Arne is a developer, speaker, programming coach and open-source contributor. With a passion for both human and programming languages, he has spent the last decade teaching and exploring the finer points of Ruby, Emacs lisp, Bash, Mandarin Chinese, and others. When not hopping conferences or Pacific islands, he can be found at his home base in Berlin, brewing fine teas while pondering the future of open-source and the web."
+  -
+    id: 17
+    name: Manic Chuang
+    pic: manic.png
+    twitter: maniclf
+    intro: "Rails Web Developer; 2008 ~ 2013: PIXNET Web Developer (PHP included); 2013 ~ 2014.3 : Faria Web Developer, organizer of Let's Try Rails Tuesday event and coach of Rails Girls Taipei."
+  -
+    id: 18
+    name: Tonytony Jan
+    pic: tonytonyjan.png
+    twitter: tonytonyjan
+    intro: "靠 Ruby 吃飯的自由業，2013 年成立腦袋有動工作室，同時也是個研究生。喜歡 Ruby、Java，愛好寫程式，以此為樂，並以此維生。A freelancer from 2012, founder of brainana.com in 2013, as well as a graduated student. Love Ruby and Java. Program for joy and living."
+  -
+    id: 19
+    name: Team Yamanekko
+    pic: TeamYamanekko.png
+    twitter: yuri_at_earth
+    intro: 'Team Yamanekko is a developer group of Yurie Yamane and Masayoshi Takahashi. We are using mruby for micro controllers, with the slogan "tanoshii mruby(mruby for fun)". Yurie Yamane is a programmer who is interested in embedded systems, and a member of asakusa.rb. Masayoshi Takahashi is an old-time Rubyist and the founder of Nihon Ruby no Kai, the non-profit Ruby community in Japan. He is also the founder of Tatsu-Zine Publising, the e-book publisher for IT engineers in Japan.'
+  -
+    id: 20
+    name: Satoshi GUNJI
+    pic: "Satoshi-GUNJI.png"
+    twitter: gunjisatoshi
+    intro: "I'm one of the members of Rubyist Magazine editors' team."
+  -
+    id: 21
+    name: Don Werve
+    pic: DonWerve.png
+    twitter: matadon
+    intro: "Many years ago I was a system administrator that lived and breathed C and Perl, but I fell in with a bad crowd in university and started doing Ruby, which led to my first startup in 2009. For the past three years, I've traveled around the US, Europe, and Asia as a consulting CTO, helping software companies improve their team performance."
+  -
+    id: 22
+    name: Lin Jen-Shin
+    pic: "godfat-sq.png"
+    twitter: godfat
+    intro: 'Lin Jen Shin (godfat) is a programmer who loves computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts((11%%11)[/: (.+)/,1])"=~/(.+)/;puts((11%11)[/: (.+)/,1])'
+  -
+    id: 23
+    name: Tse-Ching Ho
+    pic: "Tse-ChingHo.png"
+    twitter: tsechingho
+    intro: "A rubyist devoted to popularize the utilizing of ruby on bioinformatics, interested in visualization of dataset on the web and application of high throughput data, familiar with tools for automation workflow, and certainly developed websites.
+Subject: Ruby on Bioinformatics"
+  -
+    id: 24
+    name: Koichi Sasada
+    pic: ko1.png
+    twitter: "_ko1"
+    intro: "Koichi Sasada is a programmer, mainly developping Ruby interpreter (CRuby/MRI). He is a member of Matz's team in Heroku, Inc, now we are working for Ruby 2.2. He is also a director of Ruby Association."
+  -
+    id: 25
+    name: Yuichiro MASUI
+    pic: "Yuichiro-MASUI.png"
+    twitter: masuidrive
+    intro: "I'm Yuichiro MASUI. a.k.a. masuidrive. Ruby on Rails and iOS developer. ex-Appcelarati. I really love programming, spending all time for coding."
+  -
+    id: 26
+    name: Taian Su
+    pic: taiansu.png
+    twitter: taiansu
+    intro: "3 yrs magazine editor, 4 yrs programmer, 10+ yrs violinist. Love Ruby, CoffeeScript and LISP. Enjoy jazz, tango and reading."
+  -
+    id: 27
+    name: Richard Lee
+    pic: richardlee.png
+    twitter: dlackty
+    intro: "CTO & Co-founder at Polydice. Passionate about product development and operations."
+  -
+    id: 28
+    name: David Yun
+    pic: DavidYun.png
+    twitter: abookyun
+    intro: "在 Polydice 執行愛料理計畫的 Ruby 愛好者。"
+  -
+    id: 29
+    name: YUKI TORII
+    pic: yukitorii.png
+    twitter: yotii23
+    intro: "Yuki Torii is a Rails developer and the Organizer of RailsGirls Tokyo. She is working in Manyo (Everyleaf) corporation."
+  -
+    id: 30
+    name: Joseph Ku
+    pic: "joseph-ku.png"
+    twitter: josephku
+    intro: "Programmer. I wrote x86 Assembly at age 10, C at 20, Ruby at 30. Ruby lover, Board gamer, Guitar Hero® rocker."

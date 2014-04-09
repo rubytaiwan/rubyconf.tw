@@ -2,4 +2,4 @@
 require 'yaml'
 require 'json'
 
-puts YAML.load(File.read(ARGV[0])).to_json
+puts JSON.generate(YAML.load(File.read(ARGV[0])), ascii_only: true)
