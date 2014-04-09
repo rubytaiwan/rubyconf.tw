@@ -3,5 +3,33 @@
  */
 
 @-webkit-keyframes shiney {
+  0% {
+    height: 0px;
+  }
+  100% {
+    height: 45px;
+  }
+}
 
+.shine {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  z-index: -1;
+}
+
+.shine span {
+  position: relative;
+  margin: 0 auto;
+  -webkit-transform: rotate(180deg);
+  display: block;
+  width: 2px;
+  background: #DC3137;
+  height: 10px;
+  -webkit-animation: shiney 2s linear 0s infinite alternate;
+}
+
+.shine .circle {
+  margin-bottom: -7px
 }

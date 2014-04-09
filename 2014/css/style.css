@@ -1260,10 +1260,6 @@ h3 {
   margin-top: 70px;
 }
 
-#staff .staff a {
-  margin-right: 40px;
-}
-
 #staff .staff {
   display: inline-block;
   position: relative;
@@ -1326,7 +1322,7 @@ h3 {
   -moz-transform: rotate(26deg);
   width: 77px;
   top: 15px;
-  left: 58px;
+  left: 54px;
 }
 
 #staff > div > div.sixteen.columns.staffs > div > div:nth-child(2):before {
@@ -1351,15 +1347,15 @@ h3 {
   -webkit-transform: rotate(20deg);
   -moz-transform: rotate(20deg);
   top: -17px;
-  left: 53px;
+  left: 48px;
 }
 
 #staff > div > div.sixteen.columns.staffs > div > div:nth-child(5):before {
-  transform: rotate(5deg);
-  -webkit-transform: rotate(5deg);
-  -moz-transform: rotate(5deg);
+  transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+  -moz-transform: rotate(15deg);
   top: 25px;
-  left: 61px;
+  left: 55px;
 }
 
 #staff > div > div.sixteen.columns.staffs > div > div:last-child:before {

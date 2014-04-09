@@ -3,7 +3,7 @@ $(document).ready(function() {
   $(window).scroll(function() {
     var scrollPos;
     scrollPos = $(this).scrollTop();
-    return $("section").css({
+    return $("section#home").css({
       "background-position": "center " + (-scrollPos / 4) + "px"
     });
   });
