@@ -14,11 +14,6 @@
     type: intermission
     duration: 5
   -
-    start_at: 09:55
-    name: SPONSOR APPEARANCE
-    type: appearance
-    duration: 5
-  -
     start_at: 10:00
     type: session
     pic: JustinLin.png
