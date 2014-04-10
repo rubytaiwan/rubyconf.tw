@@ -179,15 +179,35 @@
   font-size: 12px;
 }
 /* line 92, ../sass/animate.sass */
+#staff #staff-list li .profile .profile-img {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin: 12px auto 5px;
+  -webkit-box-shadow: 0 2px 3px rgba(51, 51, 51, 0.2), 0 -2px 1px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: 0 2px 3px rgba(51, 51, 51, 0.2), 0 -2px 1px rgba(255, 255, 255, 0.5);
+  box-shadow: 0 2px 3px rgba(51, 51, 51, 0.2), 0 -2px 1px rgba(255, 255, 255, 0.5);
+  background: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+/* line 100, ../sass/animate.sass */
+#staff #staff-list li .profile .profile-img img {
+  height: 100%;
+}
+/* line 102, ../sass/animate.sass */
 #staff #staff-list li .frame {
   position: relative;
 }
-/* line 94, ../sass/animate.sass */
+/* line 104, ../sass/animate.sass */
 #staff #staff-list li .frame img {
   position: relative;
   z-index: 3;
 }
-/* line 97, ../sass/animate.sass */
+/* line 107, ../sass/animate.sass */
 #staff #staff-list li .frame i {
   position: absolute;
   bottom: 100%;
@@ -204,7 +224,7 @@
   -o-transition: 0.4s;
   transition: 0.4s;
 }
-/* line 109, ../sass/animate.sass */
+/* line 119, ../sass/animate.sass */
 #staff #staff-list li .frame i:before {
   position: absolute;
   z-index: 1;
@@ -220,13 +240,13 @@
   -moz-box-shadow: inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white;
   box-shadow: inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white;
 }
-/* line 121, ../sass/animate.sass */
+/* line 131, ../sass/animate.sass */
 #staff #staff-list li:nth-child(1) {
   width: 76px;
   height: 132px;
   margin-bottom: 0;
 }
-/* line 125, ../sass/animate.sass */
+/* line 135, ../sass/animate.sass */
 #staff #staff-list li:nth-child(1) .frame {
   -webkit-transform: rotate(-30deg);
   -moz-transform: rotate(-30deg);
@@ -234,17 +254,17 @@
   -o-transform: rotate(-30deg);
   transform: rotate(-30deg);
 }
-/* line 127, ../sass/animate.sass */
+/* line 137, ../sass/animate.sass */
 #staff #staff-list li:nth-child(1) .frame img {
   width: 76px;
 }
-/* line 129, ../sass/animate.sass */
+/* line 139, ../sass/animate.sass */
 #staff #staff-list li:nth-child(2) {
   width: 72px;
   height: 115px;
   margin-bottom: 30px;
 }
-/* line 133, ../sass/animate.sass */
+/* line 143, ../sass/animate.sass */
 #staff #staff-list li:nth-child(2) .frame {
   -webkit-transform: rotate(70deg);
   -moz-transform: rotate(70deg);
@@ -252,7 +272,7 @@
   -o-transform: rotate(70deg);
   transform: rotate(70deg);
 }
-/* line 135, ../sass/animate.sass */
+/* line 145, ../sass/animate.sass */
 #staff #staff-list li:nth-child(2) .frame i {
   -webkit-animation: shiney 1s linear 0s infinite alternate;
   -moz-animation: shiney 1s linear 0s infinite alternate;
@@ -260,17 +280,17 @@
   -ms-animation: shiney 1s linear 0s infinite alternate;
   animation: shiney 1s linear 0s infinite alternate;
 }
-/* line 137, ../sass/animate.sass */
+/* line 147, ../sass/animate.sass */
 #staff #staff-list li:nth-child(2) .frame img {
   width: 56px;
 }
-/* line 139, ../sass/animate.sass */
+/* line 149, ../sass/animate.sass */
 #staff #staff-list li:nth-child(3) {
   width: 72px;
   height: 90px;
   margin-bottom: -30px;
 }
-/* line 143, ../sass/animate.sass */
+/* line 153, ../sass/animate.sass */
 #staff #staff-list li:nth-child(3) .frame {
   -webkit-transform: rotate(-120deg);
   -moz-transform: rotate(-120deg);
@@ -278,17 +298,17 @@
   -o-transform: rotate(-120deg);
   transform: rotate(-120deg);
 }
-/* line 145, ../sass/animate.sass */
+/* line 155, ../sass/animate.sass */
 #staff #staff-list li:nth-child(3) .frame img {
   width: 28px;
 }
-/* line 147, ../sass/animate.sass */
+/* line 157, ../sass/animate.sass */
 #staff #staff-list li:nth-child(4) {
   width: 72px;
   height: 110px;
   margin-bottom: 25px;
 }
-/* line 151, ../sass/animate.sass */
+/* line 161, ../sass/animate.sass */
 #staff #staff-list li:nth-child(4) .frame {
   -webkit-transform: rotate(-15deg);
   -moz-transform: rotate(-15deg);
@@ -296,17 +316,17 @@
   -o-transform: rotate(-15deg);
   transform: rotate(-15deg);
 }
-/* line 153, ../sass/animate.sass */
+/* line 163, ../sass/animate.sass */
 #staff #staff-list li:nth-child(4) .frame img {
   width: 50px;
 }
-/* line 155, ../sass/animate.sass */
+/* line 165, ../sass/animate.sass */
 #staff #staff-list li:nth-child(5) {
   width: 72px;
   height: 121px;
   margin-bottom: -35px;
 }
-/* line 159, ../sass/animate.sass */
+/* line 169, ../sass/animate.sass */
 #staff #staff-list li:nth-child(5) .frame {
   -webkit-transform: rotate(35deg);
   -moz-transform: rotate(35deg);
@@ -314,7 +334,7 @@
   -o-transform: rotate(35deg);
   transform: rotate(35deg);
 }
-/* line 161, ../sass/animate.sass */
+/* line 171, ../sass/animate.sass */
 #staff #staff-list li:nth-child(5) .frame i {
   -webkit-animation: shiney 1s linear 0s infinite alternate;
   -moz-animation: shiney 1s linear 0s infinite alternate;
@@ -322,13 +342,13 @@
   -ms-animation: shiney 1s linear 0s infinite alternate;
   animation: shiney 1s linear 0s infinite alternate;
 }
-/* line 163, ../sass/animate.sass */
+/* line 173, ../sass/animate.sass */
 #staff #staff-list li:nth-child(6) {
   width: 72px;
   height: 92px;
   margin-bottom: 15px;
 }
-/* line 167, ../sass/animate.sass */
+/* line 177, ../sass/animate.sass */
 #staff #staff-list li:nth-child(6) .frame {
   -webkit-transform: rotate(-40deg);
   -moz-transform: rotate(-40deg);
@@ -336,7 +356,7 @@
   -o-transform: rotate(-40deg);
   transform: rotate(-40deg);
 }
-/* line 169, ../sass/animate.sass */
+/* line 179, ../sass/animate.sass */
 #staff #staff-list li:nth-child(6) .frame i {
   -webkit-animation: shiney 1s linear 0s infinite alternate;
   -moz-animation: shiney 1s linear 0s infinite alternate;
@@ -344,17 +364,17 @@
   -ms-animation: shiney 1s linear 0s infinite alternate;
   animation: shiney 1s linear 0s infinite alternate;
 }
-/* line 171, ../sass/animate.sass */
+/* line 181, ../sass/animate.sass */
 #staff #staff-list li:nth-child(6) .frame img {
   width: 30px;
 }
-/* line 173, ../sass/animate.sass */
+/* line 183, ../sass/animate.sass */
 #staff #staff-list li:nth-child(7) {
   width: 72px;
   height: 118px;
   margin-bottom: 35px;
 }
-/* line 177, ../sass/animate.sass */
+/* line 187, ../sass/animate.sass */
 #staff #staff-list li:nth-child(7) .frame {
   -webkit-transform: rotate(120deg);
   -moz-transform: rotate(120deg);
@@ -362,15 +382,15 @@
   -o-transform: rotate(120deg);
   transform: rotate(120deg);
 }
-/* line 179, ../sass/animate.sass */
+/* line 189, ../sass/animate.sass */
 #staff #staff-list li:nth-child(7) .frame img {
   width: 60px;
 }
-/* line 182, ../sass/animate.sass */
+/* line 192, ../sass/animate.sass */
 #staff #staff-list li .frame:hover {
   cursor: pointer;
 }
-/* line 184, ../sass/animate.sass */
+/* line 194, ../sass/animate.sass */
 #staff #staff-list li .frame:hover i {
   display: block;
   -webkit-transition: 0.4s;
@@ -380,11 +400,11 @@
   opacity: 1;
   height: 45px;
 }
-/* line 189, ../sass/animate.sass */
+/* line 199, ../sass/animate.sass */
 #staff #staff-list li .frame:hover ~ .profile {
   opacity: 1;
 }
-/* line 191, ../sass/animate.sass */
+/* line 201, ../sass/animate.sass */
 #staff #staff-list li .frame:before {
   position: absolute;
   content: "";
