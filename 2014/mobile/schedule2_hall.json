@@ -1,0 +1,86 @@
+[
+  {
+    "start_at": "09:30",
+    "type": "session",
+    "title": "How to debug mruby",
+    "pic": "TeamYamanekko.png",
+    "speaker_id": 19
+  },
+  {
+    "start_at": "10:00",
+    "type": "appearance",
+    "title": "SPONSOR APPEARANCE",
+ },
+  {
+    "start_at": "10:05",
+    "type": "none",
+ },
+  {
+    "start_at": "10:55",
+    "type": "intermission",
+    "title": "Tea Time",
+ },
+  {
+    "start_at": "11:15",
+    "type": "session",
+    "title": "Implement beautiful DSL for iOS using Ruby",
+    "pic": "Francis-Chong.png",
+    "speaker_id": 13
+  },
+  {
+    "start_at": "11:40",
+    "type": "session",
+    "title": "Functional Programming in Ruby",
+    "pic": "Arne.png",
+    "speaker_id": 16
+  },
+  {
+    "start_at": "12:05",
+    "type": "intermission",
+    "title": "LAUNCH",
+ },
+  {
+    "start_at": "13:35",
+    "type": "session",
+    "title": "the Guide to know Ruby implementation for non-C language programer",
+    "pic": "yukitorii.png",
+    "speaker_id": 29
+  },
+  {
+    "start_at": "14:10",
+    "type": "none",
+  },
+  {
+    "start_at": "14:15",
+    "type": "none",
+ },
+  {
+    "start_at": "15:25",
+    "type": "session",
+    "pic": "Andre_Arko.png",
+    "title": "Extreme Makeover - Rubygems Edition",
+    "speaker_id": 7
+  },
+  {
+    "start_at": "15:55",
+    "type": "session",
+    "title": "Becoming a 10x developer",
+    "pic": "DonWerve.png",
+    "speaker_id": 21
+  },
+  {
+    "start_at": "16:25",
+    "type": "session",
+    "title": "sweaters as a service - adventures in electronic knitting",
+    "pic": "Amy-Wibowo.png",
+    "speaker_id": 8
+  },
+  {
+    "start_at": "17:00",
+    "type": "none",
+  },
+  {
+    "start_at": "18:00",
+    "type": "none",
+ },
+]

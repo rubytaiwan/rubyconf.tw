@@ -1,1 +1,272 @@
-[{"id":1,"name":"Matsumoto Yukihiro","pic":"matz.png","twitter":"yukihiro_matz","intro":"Father of Ruby"},{"id":2,"name":"Linda Liukas","pic":"linda.png","twitter":"lindaliukas","intro":"Founder of Rails Girls Community"},{"id":3,"name":"Terence Lee","pic":"terence_lee.png","twitter":"hone02","intro":"Terence works at Heroku maintaining the Ruby stack and a slew of OSS projects such as Ruby and Bundler, as well as helping with the Rails Girls movement. When he's not going to an awesome Heroku or Ruby event, he lives in Austin, TX, the taco capital of America.(Terence loves Friday hugs, EVERY DAY OF THE WEEK! Give him a big one when you see him!)"},{"id":4,"name":"Charles Nutter","pic":"headius.png","twitter":"headius","intro":"Charles has worked on JRuby for seven years, bringing Ruby to the JVM and performance and efficiency to Ruby. His work has brought him to the deepest levels of the JVM, and he continues to push the JVM's boundaries while teaching and evangelizing JRuby and OpenJDK."},{"id":5,"name":"Justin Lin","pic":"JustinLin.png","twitter":"caterpillar","intro":"A freelancer enjoys studying programming languages, frameworks and communities; learn designs, paradigms and cultures from them. Writing what he\u2019s learned occupies most of the leisure time. Online documentation covers areas about C/C + +, Java, Scala, Ruby / Rails, Python, JavaScript, etc."},{"id":6,"name":"Zachary Scott","pic":"zzak.png","twitter":"_zzak","intro":"CRuby Committer"},{"id":7,"name":"Andr\u00e9 Arko","pic":"Andre_Arko.png","twitter":"indirect","intro":"Andr\u00e9 thinks Ruby is pretty cool. He designs and builds web applications at Cloud City Development by day, and works on Bundler and Rubygems by night\u2026 and also some days."},{"id":8,"name":"Amy Wibowo","pic":"Amy-Wibowo.png","twitter":"sailorhg","intro":"Amy is a software engineer at Airbnb. Prior to Airbnb, she's done machine learning research on the ASIMO team at Honda Research Institute in Japan and HCI research at the University of Tokyo. She also enjoys hardware hacking and the intersection of art and technology-- in particular, making tools that enable people to be more creative."},{"id":9,"name":"Sau Sheong Chang","pic":"Sausheong.png","twitter":"sausheong","intro":"Chang Sau Sheong is the Director of Regional Solutions Engineering for Asia and Latin America in PayPal. He is responsible to deliver integrated solutions and products that are needed by business units the respective regions. Previously, he was the Director of HP Labs Singapore, responsible for managing a team of research scientists and engineers focusing on researching, developing and testing cloud computing and Big Data technologies for HP. Before joining HP, Sau Sheong was the Chief Technology Officer for Garena and Director of Engineering for Yahoo! Southeast Asia. Sau Sheong is an active developer on many open source projects and has also published 3 technical books. His latest is \u2018Exploring Everyday Things with R and Ruby\u2019 with O\u2019Reilly Media, which explores how we can discover the data that is intertwined with our daily lives."},{"id":10,"name":"Lance Gleason","pic":"Lance.png","twitter":"lgleasain","intro":"Lance has been a computer nut ever since his dad bought him a VIC 20 in the 1980s. After nearly a decade as a Java developer for companies like Kodak, CNN, and GE, he decided to end his addiction to heavy inheritance, static typing, and coding without tests. These days, he practices clean Ruby living with lots of well-tested code, class composition, and fun dynamic languages as a developer/startup CTO for hire with extensive experience in data science and committer on open source projects such as the Passbook-iOS, Asari and Active Asari Gems. He is known to practice interspecies pair (purr) programming with his orange tabby, Allie, and when he's not writing code, you will find him diving with sharks, trekking through Chernobyl, sampling wine, cheering on the Springboks or perfecting his biltong recipe."},{"id":11,"name":"Hiroshi SHIBATA","pic":"hsbt.png","twitter":"hsbt","intro":"OSS Programer, CRuby commiter, One of organizers of RailsGirls in Japan. Advanced senior engineer in paperboy&co., Inc. He is interested in migration strategy of legacy to edge."},{"id":12,"name":"Winston Teo","pic":"Winston.png","twitter":"winstonyw","intro":"Winston is the Founder of JollyGoodCode, a consultancy that specialises in Agile and Ruby. Formerly from Pivotal Labs, he's been doing Ruby since 2007 and is a fervent proponent of engineering happiness. Winston loves to contribute to open source, having built gems such as GoogleVisualr and Cactus. He's also the organiser of monthly Ruby meetups in Singapore and RedDotRubyConference since 2013."},{"id":13,"name":"Francis Chong","pic":"Francis-Chong.png","twitter":"siuying","intro":"Ruby and iOS developer."},{"id":14,"name":"Bruce Hsu","pic":"Brucehsu.png","twitter":"brucehsu","intro":"Szu-Kai Hsu (brucehsu) is currently a graduate student at National Chung Cheng University. Bruce has been programming Ruby and enjoying it since he first discovered Ruby in 2008."},{"id":15,"name":"Richard Huang","pic":"Richard.png","twitter":"flyerhzm","intro":"Richard Huang is the Founder of Xinmin Labs, he's also a senior engineer who has a strong focus on code quality, problem solving and server performance. He loves contributing to the open source community, has built bullet and rails_best_practices gems."},{"id":16,"name":"Arne Brasseur","pic":"Arne.png","twitter":"plexus","intro":"Arne is a developer, speaker, programming coach and open-source contributor. With a passion for both human and programming languages, he has spent the last decade teaching and exploring the finer points of Ruby, Emacs lisp, Bash, Mandarin Chinese, and others. When not hopping conferences or Pacific islands, he can be found at his home base in Berlin, brewing fine teas while pondering the future of open-source and the web."},{"id":17,"name":"Manic Chuang","pic":"manic.png","twitter":"maniclf","intro":"Rails Web Developer; 2008 ~ 2013: PIXNET Web Developer (PHP included); 2013 ~ 2014.3 : Faria Web Developer, organizer of Let's Try Rails Tuesday event and coach of Rails Girls Taipei."},{"id":18,"name":"Tonytony Jan","pic":"tonytonyjan.png","twitter":"tonytonyjan","intro":"\u9760 Ruby \u5403\u98ef\u7684\u81ea\u7531\u696d\uff0c2013 \u5e74\u6210\u7acb\u8166\u888b\u6709\u52d5\u5de5\u4f5c\u5ba4\uff0c\u540c\u6642\u4e5f\u662f\u500b\u7814\u7a76\u751f\u3002\u559c\u6b61 Ruby\u3001Java\uff0c\u611b\u597d\u5beb\u7a0b\u5f0f\uff0c\u4ee5\u6b64\u70ba\u6a02\uff0c\u4e26\u4ee5\u6b64\u7dad\u751f\u3002A freelancer from 2012, founder of brainana.com in 2013, as well as a graduated student. Love Ruby and Java. Program for joy and living."},{"id":19,"name":"Team Yamanekko","pic":"TeamYamanekko.png","twitter":"yuri_at_earth","intro":"Team Yamanekko is a developer group of Yurie Yamane and Masayoshi Takahashi. We are using mruby for micro controllers, with the slogan \"tanoshii mruby(mruby for fun)\". Yurie Yamane is a programmer who is interested in embedded systems, and a member of asakusa.rb. Masayoshi Takahashi is an old-time Rubyist and the founder of Nihon Ruby no Kai, the non-profit Ruby community in Japan. He is also the founder of Tatsu-Zine Publising, the e-book publisher for IT engineers in Japan."},{"id":20,"name":"Satoshi GUNJI","pic":"Satoshi-GUNJI.png","twitter":"gunjisatoshi","intro":"I'm one of the members of Rubyist Magazine editors' team."},{"id":21,"name":"Don Werve","pic":"DonWerve.png","twitter":"matadon","intro":"Many years ago I was a system administrator that lived and breathed C and Perl, but I fell in with a bad crowd in university and started doing Ruby, which led to my first startup in 2009. For the past three years, I've traveled around the US, Europe, and Asia as a consulting CTO, helping software companies improve their team performance."},{"id":22,"name":"Lin Jen-Shin","pic":"godfat-sq.png","twitter":"godfat","intro":"Lin Jen Shin (godfat) is a programmer who loves computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts((11%%11)[/: (.+)/,1])\"=~/(.+)/;puts((11%11)[/: (.+)/,1])"},{"id":23,"name":"Tse-Ching Ho","pic":"Tse-ChingHo.png","twitter":"tsechingho","intro":"A rubyist devoted to popularize the utilizing of ruby on bioinformatics, interested in visualization of dataset on the web and application of high throughput data, familiar with tools for automation workflow, and certainly developed websites. Subject: Ruby on Bioinformatics"},{"id":24,"name":"Koichi Sasada","pic":"ko1.png","twitter":"_ko1","intro":"Koichi Sasada is a programmer, mainly developping Ruby interpreter (CRuby/MRI). He is a member of Matz's team in Heroku, Inc, now we are working for Ruby 2.2. He is also a director of Ruby Association."},{"id":25,"name":"Yuichiro MASUI","pic":"Yuichiro-MASUI.png","twitter":"masuidrive","intro":"I'm Yuichiro MASUI. a.k.a. masuidrive. Ruby on Rails and iOS developer. ex-Appcelarati. I really love programming, spending all time for coding."},{"id":26,"name":"Taian Su","pic":"taiansu.png","twitter":"taiansu","intro":"3 yrs magazine editor, 4 yrs programmer, 10+ yrs violinist. Love Ruby, CoffeeScript and LISP. Enjoy jazz, tango and reading."},{"id":27,"name":"Richard Lee","pic":"richardlee.png","twitter":"dlackty","intro":"CTO & Co-founder at Polydice. Passionate about product development and operations."},{"id":28,"name":"David Yun","pic":"DavidYun.png","twitter":"abookyun","intro":"\u5728 Polydice \u57f7\u884c\u611b\u6599\u7406\u8a08\u756b\u7684 Ruby \u611b\u597d\u8005\u3002"},{"id":29,"name":"YUKI TORII","pic":"yukitorii.png","twitter":"yotii23","intro":"Yuki Torii is a Rails developer and the Organizer of RailsGirls Tokyo. She is working in Manyo (Everyleaf) corporation."},{"id":30,"name":"Joseph Ku","pic":"joseph-ku.png","twitter":"josephku","intro":"Programmer. I wrote x86 Assembly at age 10, C at 20, Ruby at 30. Ruby lover, Board gamer, Guitar Hero\u00ae rocker."}]
+ [
+  {
+  "id": 1,
+  "name": "Matsumoto Yukihiro",
+  "pic": "matz.png",
+  "twitter": "yukihiro_matz",
+  "intro": "Father of Ruby",
+  "topic": "Objective Ruby",
+  "summary":""
+  },
+  {
+  "id": 2,
+  "name": "Linda Liukas",
+  "pic": "linda.png",
+  "twitter": "lindaliukas",
+  "intro": "Founder of Rails Girls Community",
+  "topic": "How the Principles of Ruby Inspired the Rails Girls Community",
+  "summary": " Internet is profoundly human. What we learned from growing a Rails Girls community into 160 cities - and how we applied principles behind Ruby to build it."
+  },
+  {
+  "id": 3,
+  "name": "Terence Lee",
+  "pic": "terence_lee.png",
+  "twitter": "hone02",
+  "intro": "Terence works at Heroku maintaining the Ruby stack and a slew of OSS projects such as Ruby and Bundler, as well as helping with the Rails Girls movement. When he's not going to an awesome Heroku or Ruby event, he lives in Austin, TX, the taco capital of America.(Terence loves Friday hugs, EVERY DAY OF THE WEEK! Give him a big one when you see him!)",
+  "topic":"How the Principles of Ruby Inspired the Rails Girls Community(joint talk with Linda)",
+  "summary":""
+  },
+  {
+  "id": 4,
+  "name": "Charles Nutter",
+  "pic": "headius.png",
+  "twitter": "headius",
+  "intro": "Charles has worked on JRuby for seven years, bringing Ruby to the JVM and performance and efficiency to Ruby. His work has brought him to the deepest levels of the JVM, and he continues to push the JVM's boundaries while teaching and evangelizing JRuby and OpenJDK.",
+  "topic":"Growing Up: Bringing Concurrency to Ruby",
+  "summary":"Times are changing. With the help of implementations like JRuby, more and more Rubyists are taking advantage of multi-core concurrency and building large-scale applications. But the Ruby world is still growing up when it comes to thread safety and parallel execution. This talk will cover libraries and techniques you can use to build better, faster, safer concurrent Ruby applications and provide tangible monetary justifications for making the move."
+  },
+  {
+  "id": 5,
+  "name": "Justin Lin",
+  "pic": "JustinLin.png",
+  "twitter": "caterpillar",
+  "intro": "A freelancer enjoys studying programming languages, frameworks and communities; learn designs, paradigms and cultures from them. Writing what he's learned occupies most of the leisure time. Online documentation covers areas about C/C + +, Java, Scala, Ruby / Rails, Python, JavaScript, etc.",
+  "topic": "Understanding Typing, Understanding Ruby.",
+  "summary": "In a dynamically-typed language, such as Ruby, no type declarations are reqiured. The programmer is free from associating each variable with a particular type. It's easy to use because we're all consenting adults here. Understanding typing is a way to be a consenting adult, avoid shooting yourself in the foot or even feel free if you must."
+  },
+  {
+  "id": 6,
+  "name": "Zachary Scott",
+  "pic": "zzak.png",
+  "twitter": "_zzak",
+  "intro": "CRuby Committer",
+  "topic": "Contributing To Ruby: Part Two",
+  "summary": "It's my personal goal to introduce as many people as possible to open-source and make it dead simple for them to contribute. What happens if you have something specific you want to contribute? This talk will show you the best practices for discussing features and ideas with ruby-core. We'll show you how to get your high-level concepts imagined through effecient channels of discussion to implementation. We should talk about how fear and language barriers play a role in getting the right kind of feedback. We'll also talk about how ruby-core operates with the vast distance between its members. Most importantly, we'll give you the confidence to work effectively with ruby-core and how we can improve Ruby together."
+  },
+  {
+  "id": 7,
+  "name": "André Arko",
+  "pic": "Andre_Arko.png",
+  "twitter": "indirect",
+  "intro": "André thinks Ruby is pretty cool. He designs and builds web applications at Cloud City Development by day, and works on Bundler and Rubygems by night… and also some days.",
+  "topic": "Extreme Makeover: Rubygems Edition",
+  "summary": "This talk exists primarily as a \"State of the Gem Ecosystem Address\", to tell everyone how things are going, what we've been working on, and why they should care. It also tries to point out the benefits that every Rubyist gets from the Ruby ecosystem, while gently letting them know that those things don't happen for free. Hopefully, by providing that information, we can ask people to contribute time and effort to improving things for everyone and sound like we are leading by example, rather than demanding that someone step up to solve the problems for us, already."
+  },
+  {
+  "id": 8,
+  "name": "Amy Wibowo",
+  "pic": "Amy-Wibowo.png",
+  "twitter": "sailorhg",
+  "intro": "Amy is a software engineer at Airbnb. Prior to Airbnb, she's done machine learning research on the ASIMO team at Honda Research Institute in Japan and HCI research at the University of Tokyo. She also enjoys hardware hacking and the intersection of art and technology-- in particular, making tools that enable people to be more creative.",
+  "topic": "sweaters as a service: adventures in electronic knitting",
+  "summary": "In the 1980's, Nintendo had plans for making a knitting add-on to the NES, with an interface that resembled Mariopaint, but with patterned mittens, sweaters, and scarves as output. Sadly, this product never saw the light of day. Devastated upon hearing this and dreaming about what could have been, a group of Airbnb engineers (who knew nothing about machine knitting) set out to hack a knitting machine from the 1980's to be computer-controlled, using a tutorial from adafruit as a starting point. Hear about our struggles and triumphs, which ranged from learning to replace knitting machine needles and conduct basic repairs, to emulating a floppy drive and hacking together a custom cable cable to send our own patterns to the machine, to writing our own yarn printer API in ruby/rails and printing our first doge meme in yarn. And watch us (LIVE!) as we send images and knit requests to our yarn server, and behold as it knits ugly sweaters from those images!"
+  },
+  {
+  "id": 9,
+  "name": "Sau Sheong Chang",
+  "pic": "Sausheong.png",
+  "twitter": "sausheong",
+  "intro": "Chang Sau Sheong is the Director of Regional Solutions Engineering for Asia and Latin America in PayPal. He is responsible to deliver integrated solutions and products that are needed by business units the respective regions. Previously, he was the Director of HP Labs Singapore, responsible for managing a team of research scientists and engineers focusing on researching, developing and testing cloud computing and Big Data technologies for HP. Before joining HP, Sau Sheong was the Chief Technology Officer for Garena and Director of Engineering for Yahoo! Southeast Asia. Sau Sheong is an active developer on many open source projects and has also published 3 technical books. His latest is 'Exploring Everyday Things with R and Ruby' with O'Reilly Media, which explores how we can discover the data that is intertwined with our daily lives.",
+  "topic":"Money, Sex and Evolution",
+  "summary":"We are all born with a sense of wonder and amazement at the world around us. Many of us just learn to turn it off as we grow older and jaded. I believe this is partly because we don't understand what goes on in the world around us well enough, and thus we don't care either. This talk is an attempt to bring back that wonder and sense of discovery of the world around us through the tools of our trade -- programming and analyzing data. It's hard to explore the whole wide world with just bits and bytes. So if we can't explore the world we live in, we'll create our own worlds and explore those — in other words, we'll use simulations. Simulations are an excellent way of exploring things that we cannot control by simply focusing on those things we can. This enables us to simplify and eventually understand the real world better. In this talk, I'll discuss how Ruby can be used to build a simulated world, bring that to life and explore various facets of that simulated world. I will show how Ruby is not just for developing web applications, it's also an exciting tool for exploration."
+  },
+  {
+  "id": 10,
+  "name": "Lance Gleason",
+  "pic": "Lance.png",
+  "twitter": "lgleasain",
+  "intro": "Lance has been a computer nut ever since his dad bought him a VIC 20 in the 1980s. After nearly a decade as a Java developer for companies like Kodak, CNN, and GE, he decided to end his addiction to heavy inheritance, static typing, and coding without tests. These days, he practices clean Ruby living with lots of well-tested code, class composition, and fun dynamic languages as a developer/startup CTO for hire with extensive experience in data science and committer on open source projects such as the Passbook-iOS, Asari and Active Asari Gems. He is known to practice interspecies pair (purr) programming with his orange tabby, Allie, and when he's not writing code, you will find him diving with sharks, trekking through Chernobyl, sampling wine, cheering on the Springboks or perfecting his biltong recipe.",
+  "topic":"Analytics For The Busy Ruby Developer",
+  "summary":"Our applications have the potential to produce a lot of data. Every time a user clicks a button, buys something, or our application does any number of things we have the opportunity to gain useful insights. But where do you begin? Should I gather every data point I can think of? What tools work the best? There is a lot of talk and hype about analytics. In this session, let's take a look at what goes into mining data and analyzing the insights. We'll discuss different approaches to gathering, storing, and querying data, how to determine the KPIs to focus on, and how to interpret and use information in meaningful ways. While you may not be a statistician, see how some basic statistics can help you to start to wrangle your data."
+  },
+  {
+  "id": 11,
+  "name": "Hiroshi SHIBATA",
+  "pic": "hsbt.png",
+  "twitter": "hsbt",
+  "intro": "OSS Programer, CRuby commiter, One of organizers of RailsGirls in Japan. Advanced senior engineer in paperboy&co., Inc. He is interested in migration strategy of legacy to edge.",
+  "topic":"From \"legacy\" to the \"edge\" 2014 edition.",
+  "summary":"I talked 'From \"legacy\" to the \"edge\": Advanced strategies to gain web service.' at RedDotRubyConf 2013. This talk included that migration of Ruby 1.8.6 to 1.8.7 and Rails 2.0 to 2.3. After 1 year, We finished upgrading Ruby 1.8.7 to 2.1.0 and Rails 2.3 to 3.2. We got a lot of idea and practice from this success. In this talk, I will introduce following themes from the point of view of deeply technical side. * How do we reduce technical debt? * How do we upgrade Rails while adding new features? * How do we do continuous delivery and migrating the database simultaneously? I'll talk about migration methodologies of ordinary web companies in Japan. If you are interested in continuous maintenance and continuous delivery, I definitely recommend this talk."
+  },
+  {
+  "id": 12,
+  "name": "Winston Teo",
+  "pic": "Winston.png",
+  "twitter": "winstonyw",
+  "intro": "Winston is the Founder of JollyGoodCode, a consultancy that specialises in Agile and Ruby. Formerly from Pivotal Labs, he's been doing Ruby since 2007 and is a fervent proponent of engineering happiness. Winston loves to contribute to open source, having built gems such as GoogleVisualr and Cactus. He's also the organiser of monthly Ruby meetups in Singapore and RedDotRubyConference since 2013.",
+  "topic":"Happy Teams",
+  "summary":"All of us want to be happy. We want to find meaningful work that fills us with a sense of purpose. That might not be difficult, and there are a lot of self-help books out there that teaches you how to be happy. However, we are not isolated - we work in teams, 8 hours a day or even longer. So, it's not enough to be happy alone. We need our teams to be happy too, because that directly affects us. We all know that happy people are the most productive people (try Googling it), but what about having a happy team? How can you make a team happy? In this talk, I'll go through the wonders of having a happy team and the ways you can make it happen. There will be real life case studies and practices that you can apply to your company to optimize it for happiness. Things that I will cover are: - Proper Planning - Feedback / Retrospectives - Daily Standups - Show and Tell - Pair Programming / Code Review - Test Driven Development - Continuous Integration / Deployment - Learning Environment"
+  },
+  {
+  "id": 13,
+  "name": "Francis Chong",
+  "pic": "Francis-Chong.png",
+  "twitter": "siuying",
+  "intro": "Ruby and iOS developer.",
+  "topic":"Implement beautiful DSL for iOS using Ruby.",
+  "summary":"iOS 7 comes with JavaScriptCore, the JavaScript runtime of WebKit. With JavaScriptCore and Opal, we can now run Ruby code in iOS app. This talk discuss how to wrap native iOS code to Ruby, and build a elegant and dynamic DSL that drive native code, with all the flexibility and simplicity you expected from Ruby."
+  },
+  {
+  "id": 14,
+  "name": "Bruce Hsu",
+  "pic": "Brucehsu.png",
+  "twitter": "brucehsu",
+  "intro": "Szu-Kai Hsu (brucehsu) is currently a graduate student at National Chung Cheng University. Bruce has been programming Ruby and enjoying it since he first discovered Ruby in 2008.",
+  "topic":"Cores unleashed: Exploiting Parallelism in Ruby with STM (and a new VM)",
+  "summary": "How to exploit full potential of parallel processing power from modern hardware has become more and more important as multi-core processors continue to thrive. Yet modern scripting language implementations usually use Global Interpreter Lock to avoid data synchronization issues which also restrict themselves from fully utilizing multiple cores. Though most alternative implementations do eliminate GIL via fine-grained locking, traditional locking mechanism demands careful design; otherwise it could lead to poor performance or even unpredictable results. Furthermore, this approach still requires developers to apply locking on their programs, which is often error-prone. In this talk, I will introduce Software Transactional Memory which tries to simplify data synchronization by borrowing the concept of transactions from database systems. In addition, I will also introduce a brand new Ruby implementation using STM to ease the burden of parallel programming in Ruby."
+  },
+  {
+  "id": 15,
+  "name": "Richard Huang",
+  "pic": "Richard.png",
+  "twitter": "flyerhzm",
+  "intro": "Richard Huang is the Founder of Xinmin Labs, he's also a senior engineer who has a strong focus on code quality, problem solving and server performance. He loves contributing to the open source community, has built bullet and rails_best_practices gems.",
+  "topic":"Improve and refactor ruby code easier",
+  "summary": "I have built a gem rails_best_practices and a service http://railsbp.com to warn you where you should refactor your rails code. This year I go deeper, I'm building a brand new gem synvert (syntax + convert), which can not only help you find old deprecated ruby code, but also help you rewrite code to new better syntax automatically, I will introduce you about synvert at this talk."
+  },
+  {
+  "id": 16,
+  "name": "Arne Brasseur",
+  "pic": "Arne.png",
+  "twitter": "plexus",
+  "intro": "Arne is a developer, speaker, programming coach and open-source contributor. With a passion for both human and programming languages, he has spent the last decade teaching and exploring the finer points of Ruby, Emacs lisp, Bash, Mandarin Chinese, and others. When not hopping conferences or Pacific islands, he can be found at his home base in Berlin, brewing fine teas while pondering the future of open-source and the web.",
+  "topic":"Functional Programming in Ruby",
+  "summary":"Functional programming is what all the cool kids are doing these days. But Ruby is very much object-oriented. So is it time to give up and switch to Haskell, Clojure or Scala? No way! stick to the language you know and love. Functional programming is a style of programming that can be done in any language that has some basic features, like lambdas. So there is nothing stopping us from bringing some FP into our Ruby. There is already a lot of influence from functional programming in Ruby, more then you might think. In the process we'll gain thread-safety, prevent bugs due to mutable state, and become better, more versatile programmers."
+  },
+  {
+  "id": 17,
+  "name": "Manic Chuang",
+  "pic": "manic.png",
+  "twitter": "maniclf",
+  "intro": "Rails Web Developer; 2008 ~ 2013: PIXNET Web Developer (PHP included); 2013 ~ 2014.3 : Faria Web Developer, organizer of Let's Try Rails Tuesday event and coach of Rails Girls Taipei.",
+  "topic":"Practice: Refactoring with tests",
+  "summary": "在專案進行中，有時為了一個新功能我們需要重構程式碼。筆者在這邊想介紹一些重構時要注意的事項，來幫助團隊避免災害。 In a project in progress, sometimes for a new feature we need to refactor codes. I would introduce something to notice when refactoring, to help the team avoid breaking down the website."
+  },
+  {
+  "id": 18,
+  "name": "Tonytony Jan",
+  "pic": "tonytonyjan.png",
+  "twitter": "tonytonyjan",
+  "intro": "靠 Ruby 吃飯的自由業，2013 年成立腦袋有動工作室，同時也是個研究生。喜歡 Ruby、Java，愛好寫程式，以此為樂，並以此維生。A freelancer from 2012, founder of brainana.com in 2013, as well as a graduated student. Love Ruby and Java. Program for joy and living.",
+  "topic": "打造漂亮的 Rails 後台 Make Your Rails Backstage Better.",
+  "summary": "Rails 專案在建置的過程中，鮮少是沒有後台的，而如何設計一個架構完好的後台也是值得研究一個主題。在這個演說中，我將以接案的角度，整理這些年來接手的大小專案時打造後台的方式，從使用第三方的懶人 Gem、到分離前後台、到最後使用物件導向的繼承特性設計 Rails 的後台與 API。Backstage support is often used when building up Rails. In this case, how to build a suitable and complete backstage is worth discussing. In this speech, I will demonstrate some examples of the projects I worked with from my freelance career, where the usage of third party Gem, separation of front and backstage will be discussed, as well as using object-oriented inheritance feature to design Rails backstage and API."
+  },
+  {
+  "id": 19,
+  "name": "Team Yamanekko",
+  "pic": "TeamYamanekko.png",
+  "twitter": "yuri_at_earth",
+  "intro": "Team Yamanekko is a developer group of Yurie Yamane and Masayoshi Takahashi. We are using mruby for micro controllers, with the slogan \"tanoshii mruby(mruby for fun)\". Yurie Yamane is a programmer who is interested in embedded systems, and a member of asakusa.rb. Masayoshi Takahashi is an old-time Rubyist and the founder of Nihon Ruby no Kai, the non-profit Ruby community in Japan. He is also the founder of Tatsu-Zine Publising, the e-book publisher for IT engineers in Japan.",
+  "topic":"How to debug mruby",
+  "summary":"We Team Yamanekko have developed mruby applications and development tools for mruby. In this talk, our focus is debug. Unlike CRuby, our targets of debgugging are not only Ruby programs, but also C programs. In addition, mruby has its original API to get debug information and backtraces. We introduce their API and how to use them to debug your mruby programs."
+  },
+  {
+  "id": 20,
+  "name": "Satoshi GUNJI",
+  "pic": "Satoshi-GUNJI.png",
+  "twitter": "gunjisatoshi",
+  "intro": "I'm one of the members of Rubyist Magazine editors' team.",
+  "topic":"Introducing Rubyist Magazine",
+  "summary": "Rubyist Magazine is the most popular web magazine in Japan that posts information about Ruby. Rubyist Magazine has a low profile in Taiwan Rubyists because of written in Japanese, so I introduce that with some posted articles."
+  },
+  {
+  "id": 21,
+  "name": "Don Werve",
+  "pic": "DonWerve.png",
+  "twitter": "matadon",
+  "intro": "Many years ago I was a system administrator that lived and breathed C and Perl, but I fell in with a bad crowd in university and started doing Ruby, which led to my first startup in 2009. For the past three years, I've traveled around the US, Europe, and Asia as a consulting CTO, helping software companies improve their team performance.",
+  "topic":"Becoming a 10x developer.",
+  "summary":"Ruby started with the idea that programming should be fun, and nothing kills the fun faster than working a sixteen-hour day. Together, we will explore a collection of techniques, habits, and tools proven at top-tier companies to sustainably boost personal effectiveness."
+  },
+  {
+  "id": 22,
+  "name": "Lin Jen-Shin",
+  "pic": "godfat-sq.png",
+  "twitter": "godfat",
+  "intro": "Lin Jen Shin (godfat) is a programmer who loves computer games, open source, Haskell and self-referential jokes, such as: %p=~/(.+)/;puts((11%%11)[/: (.+)/,1])\"=~/(.+)/;puts((11%11)[/: (.+)/,1])",
+  "topic":"RubyQC -- A conceptual QuickCheck library for Ruby",
+  "summary":"How do we make sure our programs work as expected? Taking it to the extreme, of course we prove it formally. We have Agda for Haskell people, or Coq for OCaml people. However, in most cases we don't really care if they are 100% correct. Do we care PRNGs are really random in games? Some people might care, we don't. Can we prove halting problem? Of course not, but we do need termination check at times. For most cases, an army of tests is far good enough. Usually we write scenario based tests. We first assume things, and then do things, finally verify results. This is quite simple, but cannot really cover most of the inputs without great effort. QuickCheck took another approach. Instead of writing scenario, we think about what properties do our programs, or functions have, giving a range of inputs. Suppose we want to test the reverse function, instead of testing against a fixed set of lists and verify a fixed set of results, we think about what properties does reverse have. For example, if we reverse and reverse a list, the result should be equal to the original list. With QuickCheck, it could then generate arbitrary random lists to the property function you just wrote, and verify if the property holds. By default, it would generate 100 test cases. This approach would force you think more about the precondition and postcondition, eliminating unusual corner cases you might never think of, and force you think what are the functions we're really writing. We could also raise the number of test cases by configuring it and raise our level of confidence about correctness."
+  },
+  {
+  "id": 23,
+  "name": "Tse-Ching Ho",
+  "pic": "Tse-ChingHo.png",
+  "twitter": "tsechingho",
+  "intro": "A rubyist devoted to popularize the utilizing of ruby on bioinformatics, interested in visualization of dataset on the web and application of high throughput data, familiar with tools for automation workflow, and certainly developed websites. Subject: Ruby on Bioinformatics",
+  "topic":"Ruby on Bioinformatics",
+  "summary":"Bioinformatics is a field filled with huge amount of dataset. Analysis of data requires knowledge of biology, statistic and programming. There are tools and systems written by C/C++, Perl, Python and R, but few by Ruby. I will try to introduce the role Ruby hold now in the ecosystem of bioinformatics, talk about what we made efforts on, and share thoughts of ruby on bioinformatics."
+  },
+  {
+  "id": 24,
+  "name": "Koichi Sasada",
+  "pic": "ko1.png",
+  "twitter": "_ko1",
+  "intro": "Koichi Sasada is a programmer, mainly developping Ruby interpreter (CRuby/MRI). He is a member of Matz's team in Heroku, Inc, now we are working for Ruby 2.2. He is also a director of Ruby Association.",
+  "topic":"Object lifetime analysis with Ruby 2.1",
+  "summary":"Object lifetime is important information to tune your Ruby program. Ruby 2.1 extends hook mechanism for object allocation and deallocation. In this presentation, I will show you \"how to measure object lifetime\" with extended hooks and show the object lifetime anakysis about some practical applications."
+  },
+  {
+  "id": 25,
+  "name": "Yuichiro MASUI",
+  "pic": "Yuichiro-MASUI.png",
+  "twitter": "masuidrive",
+  "intro": "I'm Yuichiro MASUI. a.k.a. masuidrive. Ruby on Rails and iOS developer. ex-Appcelarati. I really love programming, spending all time for coding.",
+  "topic":"mruby on iOS == MobiRuby",
+  "summary":"Are you fed up with Objective-C? Now, you can build iOS apps with mruby. MobiRuby aims to replace Objective-C/C/Java on mobile platforms with Ruby, just like you can use Lua or Mono to build apps on those platforms. In this presentation, I will talk about how to create iOS app using MobiRuby and MobiRuby internals. And I will expound on how to fit mruby to no-PC device."
+  },
+  {
+  "id": 26,
+  "name": "Taian Su",
+  "pic": "taiansu.png",
+  "twitter": "taiansu",
+  "intro": "3 yrs magazine editor, 4 yrs programmer, 10+ yrs violinist. Love Ruby, CoffeeScript and LISP. Enjoy jazz, tango and reading.",
+  "topic":"Tell a good story with Ruby",
+  "summary": "With the expressive syntax, Ruby is a great language to write readable, elegant code. Here I'll share my opinions of how to code like a story, which your colleague and future you will love."
+  },
+  {
+  "id": 27,
+  "name": "Richard Lee",
+  "pic": "richardlee.png",
+  "twitter": "dlackty",
+  "intro": "CTO & Co-founder at Polydice. Passionate about product development and operations.",
+  "topic":"Ruby & Friends - Taking Go as an example",
+  "summary":"While your product & code base grow, Ruby programmers have more chances to work with other services implemented in various languages. In this talk, I'm going to present several ways to make such two-way communications between Ruby & Go language."
+  },
+  {
+  "id": 28,
+  "name": "David Yun",
+  "pic": "DavidYun.png",
+  "twitter": "abookyun",
+  "intro": "在 Polydice 執行愛料理計畫的 Ruby 愛好者。",
+  "topic":"透過 Ruby 讓 Web API 使用者喜歡你的 10 件事。",
+  "summary":"本次的演講將以 Ruby & Rails 為中心，介紹我們是如何在打造愛料理 Web API 平台的過程中，持續與 API 的使用者溝通，學習透過各式各樣的 Gems 以及開發技巧，來提供高效能、高可讀性，且受使用者喜歡的 API 架構。"
+  },
+  {
+  "id": 29,
+  "name": "YUKI TORII",
+  "pic": "yukitorii.png",
+  "twitter": "yotii23",
+  "intro": "Yuki Torii is a Rails developer and the Organizer of RailsGirls Tokyo. She is working in Manyo (Everyleaf) corporation.",
+  "topic":"the Guide to know Ruby implementation for non-C language programer",
+  "summary":" I'm not C proguramer, but trying to read Ruby's source with the help of Pat Shaughnessy's \"Ruby Under a Microscope\" http://patshaughnessy.net/ruby-under-a-microscope and Minero Aoki's \"Ruby Hacking Guide\" http://ruby-hacking-guide.github.io/ . It is very interesting experience, and have deepened my Ruby world. I'll share my trial and introduce a part of Ruby's implementation (data structure and algorithm) without C language. I'll also show a small map for walking through Ruby's implementation to programers who want to know Ruby world deeper. (in English, with simple Chinese subtitle)"
+  },
+  {
+  "id": 30,
+  "name": "Joseph Ku",
+  "pic": "joseph-ku.png",
+  "twitter": "josephku",
+  "intro": "Programmer. I wrote x86 Assembly at age 10, C at 20, Ruby at 30. Ruby lover, Board gamer, Guitar Hero® rocker.",
+  "topic":"RubyMotion Gets A Cool New Friend: mruby on iOS",
+  "summary":"Here is the outline:\n * Updates for RubyMotion\n * Current status of mruby on iOS\n * How about mruby on Apple's 64-bit A7 SoC?\n * Why mruby & RubyMotion\n * mruby + RubyMotion = ?\n * Game scripting in mruby\n * Demo\n * Pros & Cons\n * Q & A"
+  }
+  ]

@@ -1,0 +1,97 @@
+[
+  {
+    "start_at": "09:30",
+    "type": "session",
+    "title": "Cores unleashed - Exploiting Parallelism in Ruby with STM (and a new VM)",
+    "pic": "Brucehsu.png",
+    "speaker_id": 14
+  },
+  {
+    "start_at": "10:00",
+    "type": "appearance",
+    "title": "SPONSOR APPEARANCE",
+  },
+  {
+    "start_at": "10:05",
+    "type": "session",
+    "title": "How the Principles of Ruby Inspired the Rails Girls Community",
+    "pic": "linda.png",
+    "speaker_id": 2
+  },
+  {
+    "start_at": "10:55",
+    "type": "intermission",
+    "title": "Tea Time",
+  },
+  {
+    "start_at": "11:15",
+    "type": "session",
+    "title": "Ruby on Bioinformatics",
+    "pic": "Tse-ChingHo.png",
+    "speaker_id": 23
+  },
+  {
+    "start_at": "11:40",
+    "type": "none",
+ },
+  {
+    "start_at": "12:05",
+    "type": "intermission",
+    "title": "LAUNCH",
+  },
+  {
+    "start_at": "13:35",
+    "type": "session",
+    "title": "Ruby & Friends: Taking Go as an example",
+    "pic": "richardlee.png",
+    "speaker_id": 27
+  },
+  {
+    "start_at": "14:10",
+    "type": "appearance",
+    "title": "SPONSOR APPEARANCE",
+  },
+  {
+    "start_at": "14:15",
+    "type": "session",
+    "title": "Growing Up - Bringing Concurrency to Ruby",
+    "pic": "CharlesOliverNutter.png",
+    "speaker_id": 4
+  },
+  {
+    "start_at": "15:05",
+    "title": "Tea Time",
+    "type": "intermission",
+  },
+  {
+    "start_at": "15:25",
+    "type": "session",
+    "title": "Object lifetime analysis with Ruby 2.1",
+    "pic": "ko1.png",
+    "speaker_id": 24
+  },
+  {
+    "start_at": "15:55",
+    "type": "session",
+    "title": "mruby on iOS == MobiRuby",
+    "pic": "Yuichiro-MASUI.png",
+    "speaker_id": 25
+  },
+  {
+    "start_at": "16:25",
+    "type": "session",
+    "pic": "Zzak.png",
+    "title": "Contributing To Ruby: Part Two",
+    "speaker_id": 6
+  },
+  {
+    "start_at": "17:00",
+    "type": "lt",
+    "title": "Lightning Talk"
+  },
+  {
+    "start_at": "18:00",
+    "title": "CLOSING",
+    "type": "appearance",
+  }
+]
