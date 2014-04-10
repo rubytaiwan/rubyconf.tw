@@ -1,0 +1,395 @@
+@-webkit-keyframes shiney {
+  /* line 32, ../sass/animate.sass */
+  0% {
+    opacity: 0;
+    height: 0px;
+  }
+
+  /* line 36, ../sass/animate.sass */
+  20% {
+    opacity: 1;
+    height: 9px;
+  }
+
+  /* line 40, ../sass/animate.sass */
+  100% {
+    opacity: 1;
+    height: 45px;
+  }
+}
+
+@-moz-keyframes shiney {
+  /* line 32, ../sass/animate.sass */
+  0% {
+    opacity: 0;
+    height: 0px;
+  }
+
+  /* line 36, ../sass/animate.sass */
+  20% {
+    opacity: 1;
+    height: 9px;
+  }
+
+  /* line 40, ../sass/animate.sass */
+  100% {
+    opacity: 1;
+    height: 45px;
+  }
+}
+
+@-o-keyframes shiney {
+  /* line 32, ../sass/animate.sass */
+  0% {
+    opacity: 0;
+    height: 0px;
+  }
+
+  /* line 36, ../sass/animate.sass */
+  20% {
+    opacity: 1;
+    height: 9px;
+  }
+
+  /* line 40, ../sass/animate.sass */
+  100% {
+    opacity: 1;
+    height: 45px;
+  }
+}
+
+@-ms-keyframes shiney {
+  /* line 32, ../sass/animate.sass */
+  0% {
+    opacity: 0;
+    height: 0px;
+  }
+
+  /* line 36, ../sass/animate.sass */
+  20% {
+    opacity: 1;
+    height: 9px;
+  }
+
+  /* line 40, ../sass/animate.sass */
+  100% {
+    opacity: 1;
+    height: 45px;
+  }
+}
+
+@keyframes shiney {
+  /* line 32, ../sass/animate.sass */
+  0% {
+    opacity: 0;
+    height: 0px;
+  }
+
+  /* line 36, ../sass/animate.sass */
+  20% {
+    opacity: 1;
+    height: 9px;
+  }
+
+  /* line 40, ../sass/animate.sass */
+  100% {
+    opacity: 1;
+    height: 45px;
+  }
+}
+
+/* line 44, ../sass/animate.sass */
+#staff {
+  margin-bottom: 200px;
+}
+/* line 46, ../sass/animate.sass */
+#staff .staffs {
+  position: relative;
+  margin-top: 40px;
+}
+/* line 49, ../sass/animate.sass */
+#staff .shine {
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  z-index: -1;
+}
+/* line 56, ../sass/animate.sass */
+#staff .line {
+  position: absolute;
+  top: 32px;
+  left: 131px;
+}
+/* line 60, ../sass/animate.sass */
+#staff .line img {
+  min-width: 652px;
+  min-height: 73px;
+}
+/* line 63, ../sass/animate.sass */
+#staff #staff-list {
+  white-space: nowrap;
+}
+/* line 65, ../sass/animate.sass */
+#staff #staff-list li {
+  position: relative;
+  display: inline-block;
+  margin-right: 40px;
+  vertical-align: bottom;
+}
+/* line 70, ../sass/animate.sass */
+#staff #staff-list li .profile {
+  min-width: 120px;
+  position: absolute;
+  z-index: 0;
+  opacity: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  margin-top: 10px;
+  margin-left: -30px;
+  padding: 5px 10px 8px;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #f4f3df), color-stop(100%, #e4e3cf));
+  background: -webkit-linear-gradient(top, #f4f3df, #e4e3cf);
+  background: -moz-linear-gradient(top, #f4f3df, #e4e3cf);
+  background: -o-linear-gradient(top, #f4f3df, #e4e3cf);
+  background: linear-gradient(top, #f4f3df, #e4e3cf);
+  -webkit-box-shadow: inset 0 0 1px white, inset 0 1px 0 white, 0 2px 2px 1px rgba(34, 34, 34, 0.2);
+  -moz-box-shadow: inset 0 0 1px white, inset 0 1px 0 white, 0 2px 2px 1px rgba(34, 34, 34, 0.2);
+  box-shadow: inset 0 0 1px white, inset 0 1px 0 white, 0 2px 2px 1px rgba(34, 34, 34, 0.2);
+}
+/* line 86, ../sass/animate.sass */
+#staff #staff-list li .profile h3 {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+/* line 89, ../sass/animate.sass */
+#staff #staff-list li .profile span {
+  color: #999999;
+  font-size: 12px;
+}
+/* line 92, ../sass/animate.sass */
+#staff #staff-list li .frame {
+  position: relative;
+}
+/* line 94, ../sass/animate.sass */
+#staff #staff-list li .frame img {
+  position: relative;
+  z-index: 3;
+}
+/* line 97, ../sass/animate.sass */
+#staff #staff-list li .frame i {
+  position: absolute;
+  bottom: 100%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  display: block;
+  width: 2px;
+  background: #dc3137;
+  height: 0;
+  opacity: 0;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+/* line 109, ../sass/animate.sass */
+#staff #staff-list li .frame i:before {
+  position: absolute;
+  z-index: 1;
+  top: -8px;
+  left: -7px;
+  content: "";
+  background: #d00915;
+  width: 12px;
+  height: 12px;
+  border-radius: 10px;
+  border: 2px solid #d00915;
+  -webkit-box-shadow: inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white;
+  -moz-box-shadow: inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white;
+  box-shadow: inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white;
+}
+/* line 121, ../sass/animate.sass */
+#staff #staff-list li:nth-child(1) {
+  width: 76px;
+  height: 132px;
+  margin-bottom: 0;
+}
+/* line 125, ../sass/animate.sass */
+#staff #staff-list li:nth-child(1) .frame {
+  -webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+}
+/* line 127, ../sass/animate.sass */
+#staff #staff-list li:nth-child(1) .frame img {
+  width: 76px;
+}
+/* line 129, ../sass/animate.sass */
+#staff #staff-list li:nth-child(2) {
+  width: 72px;
+  height: 115px;
+  margin-bottom: 30px;
+}
+/* line 133, ../sass/animate.sass */
+#staff #staff-list li:nth-child(2) .frame {
+  -webkit-transform: rotate(70deg);
+  -moz-transform: rotate(70deg);
+  -ms-transform: rotate(70deg);
+  -o-transform: rotate(70deg);
+  transform: rotate(70deg);
+}
+/* line 135, ../sass/animate.sass */
+#staff #staff-list li:nth-child(2) .frame i {
+  -webkit-animation: shiney 1s linear 0s infinite alternate;
+  -moz-animation: shiney 1s linear 0s infinite alternate;
+  -o-animation: shiney 1s linear 0s infinite alternate;
+  -ms-animation: shiney 1s linear 0s infinite alternate;
+  animation: shiney 1s linear 0s infinite alternate;
+}
+/* line 137, ../sass/animate.sass */
+#staff #staff-list li:nth-child(2) .frame img {
+  width: 56px;
+}
+/* line 139, ../sass/animate.sass */
+#staff #staff-list li:nth-child(3) {
+  width: 72px;
+  height: 90px;
+  margin-bottom: -30px;
+}
+/* line 143, ../sass/animate.sass */
+#staff #staff-list li:nth-child(3) .frame {
+  -webkit-transform: rotate(-120deg);
+  -moz-transform: rotate(-120deg);
+  -ms-transform: rotate(-120deg);
+  -o-transform: rotate(-120deg);
+  transform: rotate(-120deg);
+}
+/* line 145, ../sass/animate.sass */
+#staff #staff-list li:nth-child(3) .frame img {
+  width: 28px;
+}
+/* line 147, ../sass/animate.sass */
+#staff #staff-list li:nth-child(4) {
+  width: 72px;
+  height: 110px;
+  margin-bottom: 25px;
+}
+/* line 151, ../sass/animate.sass */
+#staff #staff-list li:nth-child(4) .frame {
+  -webkit-transform: rotate(-15deg);
+  -moz-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  -o-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+}
+/* line 153, ../sass/animate.sass */
+#staff #staff-list li:nth-child(4) .frame img {
+  width: 50px;
+}
+/* line 155, ../sass/animate.sass */
+#staff #staff-list li:nth-child(5) {
+  width: 72px;
+  height: 121px;
+  margin-bottom: -35px;
+}
+/* line 159, ../sass/animate.sass */
+#staff #staff-list li:nth-child(5) .frame {
+  -webkit-transform: rotate(35deg);
+  -moz-transform: rotate(35deg);
+  -ms-transform: rotate(35deg);
+  -o-transform: rotate(35deg);
+  transform: rotate(35deg);
+}
+/* line 161, ../sass/animate.sass */
+#staff #staff-list li:nth-child(5) .frame i {
+  -webkit-animation: shiney 1s linear 0s infinite alternate;
+  -moz-animation: shiney 1s linear 0s infinite alternate;
+  -o-animation: shiney 1s linear 0s infinite alternate;
+  -ms-animation: shiney 1s linear 0s infinite alternate;
+  animation: shiney 1s linear 0s infinite alternate;
+}
+/* line 163, ../sass/animate.sass */
+#staff #staff-list li:nth-child(6) {
+  width: 72px;
+  height: 92px;
+  margin-bottom: 15px;
+}
+/* line 167, ../sass/animate.sass */
+#staff #staff-list li:nth-child(6) .frame {
+  -webkit-transform: rotate(-40deg);
+  -moz-transform: rotate(-40deg);
+  -ms-transform: rotate(-40deg);
+  -o-transform: rotate(-40deg);
+  transform: rotate(-40deg);
+}
+/* line 169, ../sass/animate.sass */
+#staff #staff-list li:nth-child(6) .frame i {
+  -webkit-animation: shiney 1s linear 0s infinite alternate;
+  -moz-animation: shiney 1s linear 0s infinite alternate;
+  -o-animation: shiney 1s linear 0s infinite alternate;
+  -ms-animation: shiney 1s linear 0s infinite alternate;
+  animation: shiney 1s linear 0s infinite alternate;
+}
+/* line 171, ../sass/animate.sass */
+#staff #staff-list li:nth-child(6) .frame img {
+  width: 30px;
+}
+/* line 173, ../sass/animate.sass */
+#staff #staff-list li:nth-child(7) {
+  width: 72px;
+  height: 118px;
+  margin-bottom: 35px;
+}
+/* line 177, ../sass/animate.sass */
+#staff #staff-list li:nth-child(7) .frame {
+  -webkit-transform: rotate(120deg);
+  -moz-transform: rotate(120deg);
+  -ms-transform: rotate(120deg);
+  -o-transform: rotate(120deg);
+  transform: rotate(120deg);
+}
+/* line 179, ../sass/animate.sass */
+#staff #staff-list li:nth-child(7) .frame img {
+  width: 60px;
+}
+/* line 182, ../sass/animate.sass */
+#staff #staff-list li .frame:hover {
+  cursor: pointer;
+}
+/* line 184, ../sass/animate.sass */
+#staff #staff-list li .frame:hover i {
+  display: block;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+  opacity: 1;
+  height: 45px;
+}
+/* line 189, ../sass/animate.sass */
+#staff #staff-list li .frame:hover ~ .profile {
+  opacity: 1;
+}
+/* line 191, ../sass/animate.sass */
+#staff #staff-list li .frame:before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}

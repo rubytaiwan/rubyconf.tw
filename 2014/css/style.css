@@ -1247,7 +1247,7 @@ h3 {
 }
 
 #staff .intro {
-  display: none;
+  /*display: none;*/
 }
 
 #staff .staffs {
@@ -1282,28 +1282,28 @@ h3 {
 }
 
 #staff .staff .staff-overtop{
-  position: absolute;
-  top: -60px;
+  /*position: absolute;*/
+  /*top: -60px;*/
 }
 
 #staff .staff .staff-top {
-  position: absolute;
-  top: -40px;
+  /*position: absolute;*/
+  /*top: -40px;*/
 }
 
 #staff .staff .staff-middle {
-  position: absolute;
-  top: -20px;
+  /*position: absolute;*/
+  /*top: -20px;*/
 }
 
 #staff .staff .staff-bottom {
-  position: absolute;
-  top: 0px;
+  /*position: absolute;*/
+  /*top: 0px;*/
 }
 
 #staff .staff .staff-overbottom {
-  position: absolute;
-  top: 20px;
+  /*position: absolute;*/
+  /*top: 20px;*/
 }
 
 #staff > div > div.sixteen.columns.staffs > div > div:nth-child(1):before {

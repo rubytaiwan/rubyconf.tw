@@ -1,0 +1,198 @@
+@import "compass/css3/box-shadow"
+@import "compass/css3/transform"
+@import "compass/css3/transition"
+@import "compass/css3/border-radius"
+@import "compass/css3/images"
+// Animation mixins.
+=animation($name, $duration, $ease, $delay, $iteration, $direction)
+  -webkit-animation: $name $duration $ease $delay $iteration $direction
+  -moz-animation: $name $duration $ease $delay $iteration $direction
+  -o-animation: $name $duration $ease $delay $iteration $direction
+  -ms-animation: $name $duration $ease $delay $iteration $direction
+  animation: $name $duration $ease $delay $iteration $direction
+
+=animation-delay($delay)
+  -webkit-animation-delay: $delay
+  -moz-animation-delay: $delay
+  animation: $delay
+
+=keyframes($name)
+  @-webkit-keyframes #{$name}
+    @content
+  @-moz-keyframes #{$name}
+    @content
+  @-o-keyframes #{$name}
+    @content
+  @-ms-keyframes #{$name}
+    @content
+  @keyframes #{$name}
+    @content
+
++keyframes(shiney)
+  0%
+    opacity: 0
+    height: 0px
+
+  20%
+    opacity: 1
+    height: 9px
+
+  100%
+    opacity: 1
+    height: 45px
+
+#staff
+  margin-bottom: 200px
+  .staffs
+    position: relative
+    margin-top: 40px
+  .shine
+    display: none
+    position: absolute
+    left: 0
+    right: 0
+    bottom: 100%
+    z-index: -1
+  .line
+    position: absolute
+    top: 32px
+    left: 131px
+    img
+      min-width: 652px
+      min-height: 73px
+  #staff-list
+    white-space: nowrap
+    li
+      position: relative
+      display: inline-block
+      margin-right: 40px
+      vertical-align: bottom
+      .profile
+        min-width: 120px
+        position: absolute
+        z-index: 0
+        opacity: 0
+        left: 0
+        right: 0
+        background: white
+        margin-top: 10px
+        margin-left: -30px
+        padding: 5px 10px 8px
+        +transition(.4s)
+        +border-radius(10px)
+        +background(linear-gradient(top, #F4F3DF, #E4E3CF))
+        +box-shadow(inset 0 0 1px rgba(#fff, 1), inset 0 1px 0 rgba(#fff, 1), 0 2px 2px 1px rgba(#222, .2))
+
+        h3
+          font-size: 24px
+          margin-bottom: 0
+        span
+          color: #999
+          font-size: 12px
+      .frame
+        position: relative
+        img
+          position: relative
+          z-index: 3
+        i
+          position: absolute
+          bottom: 100%
+          margin: 0 auto
+          left: 0
+          right: 0
+          display: block
+          width: 2px
+          background: #DC3137
+          height: 0
+          opacity: 0
+          +transition(.4s)
+          &:before
+            position: absolute
+            z-index: 1
+            top: -8px
+            left: -7px
+            content: ''
+            background: #D00915
+            width: 12px
+            height: 12px
+            border-radius: 10px
+            border: 2px solid #D00915
+            +box-shadow(inset 0 0 3px white, inset 0 0 3px white, inset 0 0 3px white)
+      &:nth-child(1)
+        width: 76px
+        height: 132px
+        margin-bottom: 0
+        .frame
+          +transform(rotate(-30deg))
+          img
+            width: 76px
+      &:nth-child(2)
+        width: 72px
+        height: 115px
+        margin-bottom: 30px
+        .frame
+          +transform(rotate(70deg))
+          i
+            +animation(shiney, 1s, linear, 0s, infinite, alternate)
+          img
+            width: 56px
+      &:nth-child(3)
+        width: 72px
+        height: 90px
+        margin-bottom: -30px
+        .frame
+          +transform(rotate(-120deg))
+          img
+            width: 28px
+      &:nth-child(4)
+        width: 72px
+        height: 110px
+        margin-bottom: 25px
+        .frame
+          +transform(rotate(-15deg))
+          img
+            width: 50px
+      &:nth-child(5)
+        width: 72px
+        height: 121px
+        margin-bottom: -35px
+        .frame
+          +transform(rotate(35deg))
+          i
+            +animation(shiney, 1s, linear, 0s, infinite, alternate)
+      &:nth-child(6)
+        width: 72px
+        height: 92px
+        margin-bottom: 15px
+        .frame
+          +transform(rotate(-40deg))
+          i
+            +animation(shiney, 1s, linear, 0s, infinite, alternate)
+          img
+            width: 30px
+      &:nth-child(7)
+        width: 72px
+        height: 118px
+        margin-bottom: 35px
+        .frame
+          +transform(rotate(120deg))
+          img
+            width: 60px
+      .frame
+        &:hover
+          cursor: pointer
+          i
+            display: block
+            +transition(0.4s)
+            opacity: 1
+            height: 45px
+          ~ .profile
+            opacity: 1
+        &:before
+          position: absolute
+          content: ''
+          top: 0
+          left: 0
+          right: 0
+          bottom: 0
+

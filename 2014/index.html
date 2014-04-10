@@ -39,7 +39,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen">
         <link rel="stylesheet" href="css/bootstrap-responsive.min.css" type="text/css" media="screen">
         <link rel="stylesheet" href="css/style.css" type="text/css" media="all" id="main-style">
-        <link rel="stylesheet" href="css/animate.css" type="text/css" media="all" id="main-style">
+        <link rel="stylesheet" href="stylesheets/animate.css" type="text/css" media="all" id="main-style">
         <link rel="stylesheet" href="css/jquery.qtip.min.css" type="text/css" media="all">
         <script type="text/javascript">
 
@@ -1076,104 +1076,81 @@ I'll share my trial and introduce a part of Ruby's implementation (data structur
             </div>
 
             <div class="sixteen columns staffs">
-              <div class="slidewrap">
-                <div class="staff gem-normal">
-                  <div class="staff-top staff-intro">
-                    <div class="avatar">
-                      <a href="https://twitter.com/ryudoawaru">
-                        <img class="popup" src="img/dia1.png" rel="@ryudoawaru" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>鄧慕凡<small>(Organizer)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="staff gem-small">
-                  <div class="staff-overbottom">
-                    <div class="avatar">
-                      <a href="https://twitter.com/eddiekao">
-                        <img class="popup" src="img/dia1.png" rel="@eddiekao" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>高見龍<small>(Organizer)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="staff gem-tiny">
-                  <div class="staff-bottom">
-                    <div class="avatar">
-                      <a href="https://twitter.com/ihower">
-                        <img class="popup" src="img/dia1.png" rel="@ihower" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>張文鈿<small>(Organizer)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="staff gem-small">
-                  <div class="staff-overtop">
-                    <div class="avatar">
-                      <a href="https://twitter.com/tsechingho">
-                        <img class="popup" src="img/dia1.png" rel="@tsechingho" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>何澤清<small>(Organizer)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="staff gem-normal">
-                  <div class="staff-middle">
-                    <div class="avatar">
-                      <a href="https://twitter.com/sheseee">
-                        <img class="popup" src="img/dia1.png" rel="@sheseee" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>徐曦<small>(Staff)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
-                <div class="staff gem-tiny">
-                  <div class="staff-overbottom">
-                    <div class="avatar">
-                      <a href="#">
-                        <img class="popup" src="img/dia1.png" rel="@Grace" />
-                      </a>
-                    </div>
-                    <div class="intro">
-                      <h3>謝宛君<small>(Staff)</small></h3>
-                    </div>
-                    <div class="shine">
-                      <div class='circle'><img class="popup" src="img/circle.png" rel="@ihower" /></div>
-                      <span></span>
-                    </div>
-                  </div>
-                </div>
+              <div class="line">
+                <img src="img/background/staffline.png" alt="">
               </div>
+              <ul id="staff-list">
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>鄧慕凡</h3>
+                    <span>(Organizer)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>高見龍</h3>
+                    <span>(Organizer)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>ihower</h3>
+                    <span>(Organizer)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>徐曦</h3>
+                    <span>(Staff)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>Grace</h3>
+                    <span>(Staff)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>旺旺</h3>
+                    <span>(Staff)</span>
+                  </div>
+                </li>
+                <li>
+                  <div class="frame">
+                    <i></i>
+                    <img src="img/dia1.png" alt="">
+                  </div>
+                  <div class="profile">
+                    <h3>遊包子</h3>
+                    <span>(Staff)</span>
+                  </div>
+                </li>
+              </ul>
             </div>
           </div>
         </section>
