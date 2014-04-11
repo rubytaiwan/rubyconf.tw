@@ -1,21 +1,21 @@
 [
   {
+    "start_at": "09:00",
+    "type": "intermission",
+    "title": "BREAKFAST"
+  },
+  {
     "start_at": "09:30",
     "type": "appearance",
-    "title": "OPENING",
+    "title": "OPENING"
   },
   {
     "start_at": "09:50",
     "type": "intermission",
-    "title": "INTERMISSION",
+    "title": "INTERMISSION"
   },
   {
     "start_at": "09:55",
-    "type": "appearance",
-    "title": "SPONSOR APPEARANCE",
-  },
-  {
-    "start_at": "10:00",
     "type": "session",
     "title": "Understanding Typing, Understanding Ruby",
     "pic": "JustinLin.png",
@@ -24,7 +24,7 @@
   {
     "start_at": "10:50",
     "type": "intermission",
-    "title": "INTERMISSION",
+    "title": "TEA TIME"
   },
   {
     "start_at": "11:10",
@@ -35,8 +35,8 @@
   },
   {
     "start_at": "12:00",
-    "title": "LAUNCH",
-    "type": "intermission",
+    "title": "LUNCH",
+    "type": "intermission"
   },
   {
     "start_at": "13:30",
@@ -47,11 +47,6 @@
   },
   {
     "start_at": "14:00",
-    "type": "appearance",
-    "title": "SPONSOR APPEARANCE",
-  },
-  {
-    "start_at": "14:05",
     "type": "session",
     "title": "Objective Ruby",
     "pic": "matz.png",
@@ -59,8 +54,8 @@
   },
   {
     "start_at": "14:55",
-    "title": "Tea Time",
-    "type": "intermission",
+    "title": "TEA TIME",
+    "type": "intermission"
   },
   {
     "start_at": "15:15",
@@ -100,6 +95,6 @@
   {
     "start_at": "19:30",
     "type": "party",
-    "title": "Official Party",
+    "title": "OFFICIAL PARTY"
   }
 ]

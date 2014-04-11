@@ -9,17 +9,18 @@
   {
     "start_at": "10:00",
     "type": "appearance",
-    "title": "SPONSOR APPEARANCE",
- },
+    "title": "SPONSOR APPEARANCE"
+  },
   {
     "start_at": "10:05",
     "type": "none",
- },
+    "title": "NOT AVAILABLE"
+  },
   {
     "start_at": "10:55",
     "type": "intermission",
-    "title": "Tea Time",
- },
+    "title": "TEA TIME"
+  },
   {
     "start_at": "11:15",
     "type": "session",
@@ -37,8 +38,8 @@
   {
     "start_at": "12:05",
     "type": "intermission",
-    "title": "LAUNCH",
- },
+    "title": "LUNCH"
+  },
   {
     "start_at": "13:35",
     "type": "session",
@@ -49,11 +50,18 @@
   {
     "start_at": "14:10",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "14:15",
     "type": "none",
- },
+    "title": "NOT AVAILABLE"
+  },
+  {
+    "start_at": "15:05",
+    "title": "TEA TIME",
+    "type": "intermission"
+  },
   {
     "start_at": "15:25",
     "type": "session",
@@ -78,9 +86,11 @@
   {
     "start_at": "17:00",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "18:00",
     "type": "none",
- },
+    "title": "NOT AVAILABLE"
+  }
 ]

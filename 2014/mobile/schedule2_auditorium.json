@@ -8,11 +8,6 @@
   },
   {
     "start_at": "10:00",
-    "type": "appearance",
-    "title": "SPONSOR APPEARANCE",
-  },
-  {
-    "start_at": "10:05",
     "type": "session",
     "title": "How the Principles of Ruby Inspired the Rails Girls Community",
     "pic": "linda.png",
@@ -21,7 +16,7 @@
   {
     "start_at": "10:55",
     "type": "intermission",
-    "title": "Tea Time",
+    "title": "TEA TIME"
   },
   {
     "start_at": "11:15",
@@ -33,11 +28,12 @@
   {
     "start_at": "11:40",
     "type": "none",
+    "title": "NOT AVAILABLE"
  },
   {
     "start_at": "12:05",
     "type": "intermission",
-    "title": "LAUNCH",
+    "title": "LUNCH"
   },
   {
     "start_at": "13:35",
@@ -48,11 +44,6 @@
   },
   {
     "start_at": "14:10",
-    "type": "appearance",
-    "title": "SPONSOR APPEARANCE",
-  },
-  {
-    "start_at": "14:15",
     "type": "session",
     "title": "Growing Up - Bringing Concurrency to Ruby",
     "pic": "CharlesOliverNutter.png",
@@ -60,8 +51,8 @@
   },
   {
     "start_at": "15:05",
-    "title": "Tea Time",
-    "type": "intermission",
+    "title": "TEA TIME",
+    "type": "intermission"
   },
   {
     "start_at": "15:25",
@@ -87,11 +78,11 @@
   {
     "start_at": "17:00",
     "type": "lt",
-    "title": "Lightning Talk"
+    "title": "LIGHTNING TALK"
   },
   {
     "start_at": "18:00",
     "title": "CLOSING",
-    "type": "appearance",
+    "type": "appearance"
   }
 ]

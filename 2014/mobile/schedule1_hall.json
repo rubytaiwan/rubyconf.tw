@@ -2,48 +2,59 @@
   {
     "start_at": "09:30",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "09:50",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "09:55",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "10:00",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "10:50",
-    "type": "none",
+    "type": "intermission",
+    "title": "TEA TIME"
   },
-  {
+ {
     "start_at": "11:10",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "12:00",
-    "type": "none",
+    "title": "LUNCH",
+    "type": "intermission"
   },
-  {
+ {
     "start_at": "13:30",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "14:00",
     "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "14:05",
     "type": "none",
+    "title": "NOT AVAILABLE"
  },
   {
     "start_at": "14:55",
-    "type": "none",
- },
-  {
+    "title": "TEA TIME",
+    "type": "intermission"
+  },
+ {
     "start_at": "15:15",
     "type": "session",
     "title": "Happy Teams",
@@ -60,19 +71,12 @@
   {
     "start_at": "16:15",
     "type": "session",
-    "title": "Money, Sex and Evolution",
-    "pic": "Sausheong.png",
-    "speaker_id": 9
-  },
-  {
-    "start_at": "16:45",
-    "type": "session",
     "pic": "Satoshi-GUNJI.png",
     "title": "Introducing Rubyist Magazine",
     "speaker_id": 20
   },
   {
-    "start_at": "17:15",
+    "start_at": "16:45",
     "type": "session",
     "pic": "hsbt.png",
     "title": "From \"legacy\" to the \"edge\" 2014 edition.",
