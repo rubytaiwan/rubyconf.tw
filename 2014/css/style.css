@@ -1249,4 +1249,7 @@ h3 {
 #staff .staffs {
   text-align: center;
 }
-
+.sponsor-appeal{
+  font-weight: bold;
+  font-size: small;
+}
