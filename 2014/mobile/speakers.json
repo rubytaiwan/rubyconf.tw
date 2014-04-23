@@ -171,15 +171,6 @@
   "summary": "Rubyist Magazine is the most popular web magazine in Japan that posts information about Ruby. Rubyist Magazine has a low profile in Taiwan Rubyists because of written in Japanese, so I introduce that with some posted articles."
   },
   {
-  "id": 21,
-  "name": "Don Werve",
-  "pic": "DonWerve.png",
-  "twitter": "matadon",
-  "intro": "Many years ago I was a system administrator that lived and breathed C and Perl, but I fell in with a bad crowd in university and started doing Ruby, which led to my first startup in 2009. For the past three years, I've traveled around the US, Europe, and Asia as a consulting CTO, helping software companies improve their team performance.",
-  "topic":"Becoming a 10x developer.",
-  "summary":"Ruby started with the idea that programming should be fun, and nothing kills the fun faster than working a sixteen-hour day. Together, we will explore a collection of techniques, habits, and tools proven at top-tier companies to sustainably boost personal effectiveness."
-  },
-  {
   "id": 22,
   "name": "Lin Jen-Shin",
   "pic": "godfat-sq.png",

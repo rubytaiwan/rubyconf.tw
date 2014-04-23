@@ -72,16 +72,14 @@
   {
     "start_at": "15:55",
     "type": "session",
-    "title": "Becoming a 10x developer",
-    "pic": "DonWerve.png",
-    "speaker_id": 21
-  },
-  {
-    "start_at": "16:25",
-    "type": "session",
     "title": "sweaters as a service - adventures in electronic knitting",
     "pic": "Amy-Wibowo.png",
     "speaker_id": 8
+  },
+  {
+    "start_at": "16:25",
+    "type": "none",
+    "title": "NOT AVAILABLE"
   },
   {
     "start_at": "17:00",
