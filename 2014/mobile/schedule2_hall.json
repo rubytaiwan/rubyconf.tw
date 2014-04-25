@@ -78,8 +78,10 @@
   },
   {
     "start_at": "16:25",
-    "type": "none",
-    "title": "NOT AVAILABLE"
+    "type": "session",
+    "title": "Improve and refactor ruby code easier",
+    "pic": "Richard.png",
+    "speaker_id": 15
   },
   {
     "start_at": "17:00",
