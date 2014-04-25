@@ -50,33 +50,33 @@
     "title": "NOT AVAILABLE"
  },
   {
-    "start_at": "14:55",
+    "start_at": "15:25",
     "title": "TEA TIME",
     "type": "intermission"
   },
  {
-    "start_at": "15:15",
+    "start_at": "15:45",
     "type": "session",
     "title": "Happy Teams",
     "pic": "Winston.png",
     "speaker_id": 12
   },
   {
-    "start_at": "15:45",
+    "start_at": "16:15",
     "type": "session",
     "title": "Analytics For The Busy Ruby Developer",
     "pic": "Lance.png",
     "speaker_id": 10
   },
   {
-    "start_at": "16:15",
+    "start_at": "16:55",
     "type": "session",
     "pic": "Satoshi-GUNJI.png",
     "title": "Introducing Rubyist Magazine",
     "speaker_id": 20
   },
   {
-    "start_at": "16:45",
+    "start_at": "17:15",
     "type": "session",
     "pic": "hsbt.png",
     "title": "From \"legacy\" to the \"edge\" 2014 edition.",
