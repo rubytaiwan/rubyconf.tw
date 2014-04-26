@@ -39,58 +39,51 @@
     "type": "intermission"
   },
   {
-    "start_at": "13:30",
+    "start_at": "14:00",
     "type": "session",
     "title": "Practice: Refactoring with tests",
     "pic": "manic.png",
     "speaker_id": 17
   },
   {
-    "start_at": "14:00",
+    "start_at": "14:30",
     "type": "session",
     "title": "Objective Ruby",
     "pic": "matz.png",
     "speaker_id": 1
   },
   {
-    "start_at": "14:55",
+    "start_at": "15:25",
     "title": "TEA TIME",
     "type": "intermission"
   },
   {
-    "start_at": "15:15",
+    "start_at": "15:45",
     "type": "session",
     "title": "RubyQC -- A conceptual QuickCheck library for Ruby",
     "pic": "godfat-sq.png",
     "speaker_id": 22
   },
   {
-    "start_at": "15:45",
+    "start_at": "16:15",
     "type": "session",
     "title": "Tell a good story with Ruby",
     "pic": "taiansu.png",
     "speaker_id": 26
   },
   {
-    "start_at": "16:15",
+    "start_at": "16:45",
     "type": "session",
     "title": "透過 Ruby 讓 Web API 使用者喜歡你的 10 件事",
     "pic": "DavidYun.png",
     "speaker_id": 28
   },
   {
-    "start_at": "16:45",
+    "start_at": "17:15",
     "type": "session",
     "title": "打造漂亮的 Rails 後台",
     "pic": "tonytonyjan.png",
     "speaker_id": 18
-  },
-  {
-    "start_at": "17:15",
-    "type": "session",
-    "title": "Improve and refactor ruby code easier",
-    "pic": "Richard.png",
-    "speaker_id": 15
   },
   {
     "start_at": "19:30",
