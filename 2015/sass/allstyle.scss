@@ -1,0 +1,19 @@
+html{
+	width: 100%;
+	background-image:url(../images/bg.jpg);
+	background-repeat: no-repeat;
+  	// background-position: center center;
+  	background-size: cover;
+
+}
+.inside{
+	// border-color: white;
+	// border-style: solid;
+	top: 230px;
+	width: 98%;
+	padding: 2% 0 2% 0;
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.75);
+	color: white;
+	text-align: center;
+}
