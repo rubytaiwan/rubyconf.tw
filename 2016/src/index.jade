@@ -1,0 +1,64 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    title Ruby Conf. 2016 Coming Soon
+    //- CSS
+    link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Lobster")
+    link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Lato:400,700")
+    link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous")
+    link(rel='stylesheet', href='stylesheets/style.min.css')
+
+    //- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+    //- WARNING: Respond.js doesn't work if you view the page via file://
+    //if lt IE 9
+      script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
+      script(src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js')
+
+    //- Favicon and touch icons
+    link(rel='shortcut icon', href='')
+    link(rel='apple-touch-icon-precomposed', sizes='144x144', href='')
+    link(rel='apple-touch-icon-precomposed', sizes='114x114', href='')
+    link(rel='apple-touch-icon-precomposed', sizes='72x72', href='')
+    link(rel='apple-touch-icon-precomposed', href='')
+  
+  body
+    .coming-soon
+      .inner-bg
+        .container-fluid
+          .row
+            .col-sm-12
+              h1.title RubyConf Taiwan 2016
+              h2.sub-title Coming Soon
+              p.detail
+                span.date 2016 / 12 / 2 - 3
+                span.location 
+                  i.fa.fa-map-marker(aria-hidden='true')
+                  | 中央研究院學術活動中心
+              .timer
+                .days-wrapper
+                  span.days
+                  br
+                  | days
+                .hours-wrapper
+                  span.hours
+                  br
+                  | hours
+                .minutes-wrapper
+                  span.minutes
+                  br
+                  | minutes
+                .seconds-wrapper
+                  span.seconds
+                  br
+                  | seconds
+    
+    // Javascript
+    script(src='scripts/jquery-1.11.1.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js' integrity='sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS' crossorigin='anonymous')
+    script(src='https://use.fontawesome.com/a57863a8af.js')
+    script(src='scripts/jquery.backstretch.min.js')
+    script(src='scripts/jquery.countdown.min.js')
+    script(src='scripts/script.min.js')
