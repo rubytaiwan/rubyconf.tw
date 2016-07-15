@@ -1,0 +1,23 @@
+.coming-soon .container-fluid,.coming-soon .container-fluid .row .col-sm-12{padding:0}
+body{background:url(../img/pattern.jpg) #f8f8f8;border-top:5px solid #B8243E;border-bottom:5px solid #B8243E;font-family:Lato,sans-serif;color:#555;font-weight:400;text-align:left;height:100vh}
+.coming-soon{margin:0 auto;text-align:center;color:#fff;height:100%}
+.coming-soon .container-fluid .row{margin:0}
+.coming-soon .inner-bg{padding-top:10vh;background:url(../img/pattern-3.png);background-color:rgba(255,255,255,.3);box-shadow:0 1px 5px 0 rgba(0,0,0,.3) inset;height:100%}
+.coming-soon h1.title{color:#B8243E;font-family:Lobster,cursive;font-size:4em;font-weight:400;text-shadow:0 1px 7px rgba(255,255,255,.5);margin:30px 0;padding:0 20px}
+.coming-soon h2.sub-title,.coming-soon p.detail{font-weight:700;text-shadow:0 1px 7px rgba(0,0,0,.5)}
+.coming-soon h2.sub-title{font-size:2.4em;text-transform:uppercase}
+.coming-soon p.detail{margin-top:40px;padding:25px 0;font-size:1.6em;line-height:1.8;background-color:rgba(0,0,0,.1)}
+.coming-soon p.detail span{display:block}
+.coming-soon p.detail i{padding-left:10px;padding-right:5px}
+.timer{margin-top:20px;text-shadow:0 1px 5px rgba(0,0,0,.2)}
+.timer .days-wrapper,.timer .hours-wrapper,.timer .minutes-wrapper,.timer .seconds-wrapper{display:inline-block;width:50px;margin:0 10px;padding-top:20px;font-size:14px;line-height:1.2}
+.timer .days,.timer .hours,.timer .minutes,.timer .seconds{font-size:24px}
+@media (min-width:768px){.inner-bg{padding-top:18vh!important}
+.coming-soon h1.title{font-size:5em;margin:40px 0}
+.coming-soon h2.sub-title{font-size:3.8em}
+.coming-soon p.detail{font-size:2em}
+.coming-soon p.detail i{padding-left:15px;padding-right:10px}
+.coming-soon .timer{margin-top:40px}
+.coming-soon .timer .days-wrapper,.coming-soon .timer .hours-wrapper,.coming-soon .timer .minutes-wrapper,.coming-soon .timer .seconds-wrapper{width:100px}
+.coming-soon .timer .days,.coming-soon .timer .hours,.coming-soon .timer .minutes,.coming-soon .timer .seconds{font-size:36px}
+}
