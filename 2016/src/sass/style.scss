@@ -72,23 +72,35 @@ body {
       padding-right: 5px;
     }
     .btn{
-      background-color: #B8243E;
-      display: block;
-      width: 240px;
-      margin: 0px auto;
+      background-color: rgba( #B8243E, 0.8);
+      display: inline-block;
+      margin: 0px 10px;
       margin-top: 20px;
-      
+      width: 260px;
       color: #fff;
       font-size: 0.8em;
+      text-decoration: none;
+      -o-transition: all .3s;
+      -moz-transition: all .3s;
+      -webkit-transition: all .3s;
+      -ms-transition: all .3s;
+      transition: all .3s;
       
       &:hover, &:focus {
-        background-color: #C62828;
-        text-decoration: none;
-        -o-transition: all .3s;
-        -moz-transition: all .3s;
-        -webkit-transition: all .3s;
-        -ms-transition: all .3s;
-        transition: all .3s;
+        background-color: rgba( #B8243E, 1);
+      }
+
+      &.support-btn{
+        cursor: default;
+        font-size: 0.8em;
+        
+        a{
+          color: white;
+          text-decoration: none;
+          &:hover, &:focus {
+            border-bottom: 1px dotted rgba(white,0.8);
+          }
+        }
       }
     }
   }
