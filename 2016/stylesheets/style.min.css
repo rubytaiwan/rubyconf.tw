@@ -4,14 +4,17 @@ body{background:url(../img/pattern.jpg) #f8f8f8;border-top:5px solid #B8243E;bor
 .coming-soon .container-fluid .row{margin:0}
 .coming-soon .inner-bg{padding-top:5vh;background:url(../img/pattern-3.png);background-color:rgba(255,255,255,.3);box-shadow:0 1px 5px 0 rgba(0,0,0,.3) inset;height:100%}
 .coming-soon h1.title{color:#B8243E;font-family:Lobster,cursive;font-size:4em;font-weight:400;text-shadow:0 1px 7px rgba(255,255,255,.5);margin:20px 0;padding:0 20px}
+.coming-soon p.detail .btn,.coming-soon p.detail .btn.support-btn a{color:#fff;text-decoration:none}
 .coming-soon h2.sub-title,.coming-soon p.detail{font-weight:700;text-shadow:0 1px 7px rgba(0,0,0,.5)}
 .coming-soon h2.sub-title{font-size:2em;text-transform:uppercase}
 .coming-soon p.detail{margin-top:20px;padding:20px 0;font-size:1.6em;line-height:1.8;background-color:rgba(0,0,0,.1)}
-.coming-soon p.detail .btn,.coming-soon p.detail span.location span{display:block;font-size:.8em}
 .coming-soon p.detail span{display:block}
+.coming-soon p.detail span.location span{display:block;font-size:.8em}
 .coming-soon p.detail i{padding-left:10px;padding-right:5px}
-.coming-soon p.detail .btn{background-color:#B8243E;width:200px;margin:20px auto 0;color:#fff}
-.coming-soon p.detail .btn:focus,.coming-soon p.detail .btn:hover{background-color:#C62828;text-decoration:none;transition:all .3s}
+.coming-soon p.detail .btn{background-color:rgba(184,36,62,.8);display:inline-block;margin:20px 10px 0;width:260px;font-size:.8em;transition:all .3s}
+.coming-soon p.detail .btn:focus,.coming-soon p.detail .btn:hover{background-color:#b8243e}
+.coming-soon p.detail .btn.support-btn{cursor:default;font-size:.8em}
+.coming-soon p.detail .btn.support-btn a:focus,.coming-soon p.detail .btn.support-btn a:hover{border-bottom:1px dotted rgba(255,255,255,.8)}
 .timer{margin-top:10px;text-shadow:0 1px 5px rgba(0,0,0,.2)}
 .timer .days-wrapper,.timer .hours-wrapper,.timer .minutes-wrapper,.timer .seconds-wrapper{display:inline-block;width:50px;margin:0 10px;padding-top:20px;font-size:1em;line-height:1.2}
 .timer .days,.timer .hours,.timer .minutes,.timer .seconds{font-size:1.5em}
