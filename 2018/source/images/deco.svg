@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="deco" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 12" style="enable-background:new 0 0 20 12;" xml:space="preserve">
+  <style type="text/css">
+    .color-marble{fill:#CDD6DA;}
+  </style>
+  <title>Deco</title>
+  <path id="deco" class="color-marble" d="M0,6c0-0.1,0-0.3,0.1-0.4l5.2-5.5C5.4,0.1,5.5,0,5.7,0C5.8,0,5.9,0.1,6,0.1l4,4.2l4-4.2
+	C14.1,0.1,14.2,0,14.3,0c0.1,0,0.3,0.1,0.4,0.1l5.2,5.5c0.2,0.2,0.2,0.6,0,0.7l-5.2,5.5C14.6,12,14.5,12,14.3,12s-0.3-0.1-0.4-0.1
+	l-4-4.2l-4,4.2C5.9,12,5.8,12,5.7,12s-0.3-0.1-0.4-0.1L0.1,6.4C0,6.3,0,6.1,0,6z"></path>
+</svg>
