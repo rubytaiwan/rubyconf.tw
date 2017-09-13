@@ -19,9 +19,21 @@ $marble: #CFD7DB
   // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc1d23', endColorstr='#652f8b',GradientType=1 )
   background-attachment: fixed
 
-body
+html, body
+  @media (min-width: $screen-md)
+    height: 100%
+
+.main
   font-family: 'Lato', sans-serif
   @extend .main-background
+  
+  @media (min-width: $screen-md)
+    height: 100%
+    min-height: 100%
+  
 
   a:hover, a:visited, a:link, a:active
     text-decoration: none
+
+  svg
+    width: 100%
