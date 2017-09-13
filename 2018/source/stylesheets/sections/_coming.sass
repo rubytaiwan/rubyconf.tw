@@ -1,0 +1,47 @@
+#coming-soon
+  padding: 80px 0
+
+  .coming-soon
+    font-size: 36px
+    font-weight: bold
+    color: #fff
+    text-shadow: 0 1px 1px rgba(0,0,0,0.30)
+    letter-spacing: 2px
+    word-spacing: 999px
+
+  .countdown
+    color: #fff
+    text-align: center
+    text-shadow: 0 1px 1px rgba(0,0,0,0.30)
+
+    .days-wrapper, .hours-wrapper, .minutes-wrapper, .seconds-wrapper
+      display: inline-block
+      width: 70px
+      padding: 0 10px
+      margin-top: 40px
+      font-size: 16px
+
+    .days, .hours, .minutes, .seconds
+      font-size: 24px
+
+  .actions
+    margin-top: 60px
+    
+    .btn
+      +size(240px, 60px)
+      display: block
+      background: transparent
+      border-color: #fff
+      padding: 0
+      margin: 15px auto 0
+
+      color: #fff
+      font-size: 18px
+      letter-spacing: 1.2px
+      line-height: 58px
+
+      +transition(all, 0.3s)
+
+      &:hover
+        background: #fff
+        color: $midnight
