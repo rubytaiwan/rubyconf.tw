@@ -1,0 +1,83 @@
+#coming-soon
+  position: relative
+  width: 100%
+  padding: 80px 0
+
+  @media (min-width: $screen-sm)
+    padding: 120px 0
+
+  @media (min-width: $screen-md)
+    float: left
+    width: 40%
+    height: 100%
+    min-height: 100%
+
+  .event-countdown
+    width: 100%
+    @media (min-width: $screen-md)
+      position: absolute
+      top: 50%
+      left: 50%
+      +transform(translateX(-50%) translateY(-50%))
+
+  .coming-soon
+    font-size: 36px
+    color: #fff
+    text-shadow: 0 1px 1px rgba(0,0,0,0.30)
+    letter-spacing: 2px
+    word-spacing: 999px
+
+    @media (min-width: $screen-sm)
+      font-size: 42px
+      word-spacing: 0px
+
+  .countdown
+    color: #fff
+    text-align: center
+    text-shadow: 0 1px 1px rgba(0,0,0,0.30)
+    margin-top: 40px
+
+    @media (min-width: $screen-sm)
+      margin-top: 60px
+
+    .days-wrapper, .hours-wrapper, .minutes-wrapper, .seconds-wrapper
+      display: inline-block
+      width: 50px
+      margin: 0 10px
+      font-size: 16px
+
+      @media (min-width: $screen-sm)
+        margin: 0 15px
+
+    .days, .hours, .minutes, .seconds
+      font-size: 24px
+
+      @media (min-width: $screen-sm)
+        font-size: 28px
+
+  .actions
+    margin-top: 60px
+
+    @media (min-width: $screen-sm)
+      margin-top: 80px
+    
+    .btn
+      +size(240px, 60px)
+      display: block
+      background: transparent
+      border-color: #fff
+      padding: 0
+      margin: 15px auto 0
+      +transition(all, 0.3s)
+
+      color: #fff
+      font-size: 18px
+      letter-spacing: 1.2px
+      line-height: 58px
+
+      @media (min-width: $screen-sm)
+        font-size: 20px
+
+      &:hover
+        background: #fff
+        color: $midnight

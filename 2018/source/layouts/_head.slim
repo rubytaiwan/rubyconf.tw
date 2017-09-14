@@ -1,0 +1,24 @@
+head
+  meta charset="UTF-8"
+  title= data.site.site.title
+  meta name="description" content= data.site.site.description
+  link rel="canonical" href="#{root_url}"
+
+  meta property="og:title" content= data.site.site.title
+  meta property="og:description" content= data.site.site.description
+  meta property="og:type" content="website"
+  meta property="og:url" content="#{root_url}"
+  meta property="og:image" content="#{root_url}images/og_image.png"
+  link rel="shortcut icon" href=image_path("icon.png")
+  link rel="apple-touch-icon" href=image_path("icon.png")
+  link rel="apple-touch-icon-precomposed" href=image_path("icon.png")
+  link rel="apple-touch-icon-120x120-precomposed" href=image_path("icon.png")
+  link rel="icon" size="32x32" href=image_path("icon.png")
+  link rel="stylesheet" href="//fonts.googleapis.com/css?family=Righteous"
+  link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosanstc.css"
+
+  meta content="IE=edge" http-equiv="X-UA-Compatible"
+  meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"
+
+  = stylesheet_link_tag :main
+  = javascript_include_tag :main

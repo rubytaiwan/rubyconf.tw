@@ -1,0 +1,99 @@
+#cover
+  position: relative
+  width: 100%
+  padding: 80px 40px
+  background-color: #fff
+  box-shadow: 0 2px 8px 0 rgba(#333,0.50)
+
+  @media (min-width: $screen-sm)
+    padding: 160px 0 120px
+
+  @media (min-width: $screen-md)
+    float: left
+    width: 60%
+    height: 100%
+    min-height: 100%
+
+  .event-info
+    @media (min-width: $screen-md)
+      position: absolute
+      top: 50%
+      left: 50%
+      +transform(translateX(-50%) translateY(-50%))
+
+  .ruby_elixir_logo
+    max-width: 240px
+    margin: 0 auto
+    text-shadow: 0 1px 1px rgba(0,0,0,0.30)
+
+    @media (min-width: $screen-sm)
+      max-width: 320px
+  
+  .event
+    border-top: 1px solid $marble
+    border-bottom: 1px solid $marble
+    max-width: 240px
+    padding: 30px 0
+    margin: 40px auto
+    color: $midnight
+
+    @media (min-width: $screen-sm)
+      max-width: 300px
+      margin-top: 60px
+      padding: 40px 0
+
+    .deco
+      +size(20px,12px)
+      margin: 0 auto
+
+    .event-date
+      font-family: 'Righteous'
+      font-size: 24px
+      margin: 0 0 20px
+
+      @media (min-width: $screen-sm)
+        font-size: 28px
+
+    .event-location
+      font-family: 'Noto Sans TC'
+      font-size: 18px
+      margin: 25px 0 0
+
+      @media (min-width: $screen-sm)
+        font-size: 20px
+
+      &.en
+        font-family: 'Lato'
+        font-weight: bold
+        font-size: 14px
+        white-space: pre
+        margin: 15px 0 0
+
+        @media (min-width: $screen-sm)
+          font-size: 16px
+
+  .social-media
+    text-align: center
+    padding: 0
+    margin: 0
+
+    li
+      position: relative
+      padding: 0 5px
+
+      .media
+        display: inline-block
+        +size(40px, 40px)
+
+        .color
+          +transition(fill, 0.3s)
+
+        &:hover
+          &.facebook .color
+            fill: #3b5998
+          &.twitter .color
+            fill: #1da1f2
+          &.ruby .color
+            fill: $ruby-dark
+          &.elixir .color
+            fill: $elixir-dark

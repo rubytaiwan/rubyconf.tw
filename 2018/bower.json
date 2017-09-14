@@ -1,0 +1,23 @@
+{
+  "name": "2018",
+  "homepage": "https://github.com/irene84111/rubyconf.tw",
+  "authors": [
+    "Irene Chang <irene84111@gmail.com>"
+  ],
+  "description": "Ruby x Elixir Conf Taiwan 2018",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap-sass": "^3.3.7",
+    "fastclick": "^1.0.6",
+    "jquery.countdown": "^2.2.0"
+  }
+}

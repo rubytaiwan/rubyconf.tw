@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="social_btn_elixir" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+	<style type="text/css">
+		.color{fill:#CFD7DB;}
+	</style>
+	<title>Social Button Elixir</title>
+	<path id="btn_elixir" class="color" d="M39.5,18.9L21.1,0.5C20.8,0.2,20.4,0,20,0l0,0c-0.4,0-0.8,0.2-1.1,0.5L0.5,18.9
+	c-0.6,0.6-0.6,1.6,0,2.2l18.4,18.4c0.3,0.3,0.7,0.5,1.1,0.5l0,0c0.4,0,0.8-0.2,1.1-0.5l18.4-18.4l0,0C40.2,20.5,40.2,19.5,39.5,18.9
+	z M25.2,24.5c-1,2.7-3.9,3.6-6.3,3.3c-3.2-0.4-5.2-3-4.5-7.3c0.5-3.4,3.3-8,6.1-9.9c-0.2,3.1,0.8,5,2.7,7.1
+	C26,20.8,25.8,22.9,25.2,24.5z"></path>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="social_btn_ruby" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+	<style type="text/css">
+		.color{fill:#CFD7DB;}
+	</style>
+	<title>Social Button Ruby</title>
+	<path id="btn_ruby" class="color" d="M39.5,18.9L21.1,0.5C20.8,0.2,20.4,0,20,0l0,0c-0.4,0-0.8,0.2-1.1,0.5L0.5,18.9
+	c-0.6,0.6-0.6,1.6,0,2.2l18.4,18.4c0.3,0.3,0.7,0.5,1.1,0.5l0,0c0.4,0,0.8-0.2,1.1-0.5l18.4-18.4l0,0C40.2,20.5,40.2,19.5,39.5,18.9
+	z M20,29.3L9.7,19l4.2-4.2h12.2l4.2,4.2L20,29.3z"></path>
+</svg>

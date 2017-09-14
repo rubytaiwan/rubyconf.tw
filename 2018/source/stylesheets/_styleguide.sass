@@ -1,0 +1,39 @@
+/* Color palette */
+$ruby-dark: #CC1D23
+$ruby-light: #E98371
+$elixir-dark: #652F8B
+$elixir-light: #AA90C2
+$midnight: #3C4A68
+$marble: #CFD7DB
+
+.main-background
+  /* Old browsers */
+  background: $ruby-dark
+  /* FF3.6-15 */
+  background: -moz-linear-gradient(-45deg, $ruby-dark 0%, $elixir-dark 100%)
+  /* Chrome10-25,Safari5.1-6 */
+  background: -webkit-linear-gradient(-45deg, $ruby-dark 0%,$elixir-dark 100%)
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background: linear-gradient(135deg, $ruby-dark 0%,$elixir-dark 100%)
+  /* IE6-9 fallback on horizontal gradient */
+  // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc1d23', endColorstr='#652f8b',GradientType=1 )
+  background-attachment: fixed
+
+html, body
+  @media (min-width: $screen-md)
+    height: 100%
+
+.main
+  font-family: 'Lato', sans-serif
+  @extend .main-background
+  
+  @media (min-width: $screen-md)
+    height: 100%
+    min-height: 100%
+  
+
+  a:hover, a:visited, a:link, a:active
+    text-decoration: none
+
+  svg
+    width: 100%
