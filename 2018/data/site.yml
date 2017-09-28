@@ -6,6 +6,7 @@ site:
   eventLocation_en: |
     CHANG YUNG-FA FOUNDATION
     International Convention Center
+    Taipei, Taiwan
   socialMedia:
     - name: 'facebook'
       link: 'https://www.facebook.com/rubyconftw/'
@@ -15,3 +16,10 @@ site:
       link: 'https://ruby.tw/'
     - name: 'elixir'
       link: 'http://elixir.tw/'
+  speakers:
+    - name: 'Yukihiro (Matz) Matsumoto'
+      avatar: 'matz.png'
+    - name: 'Akira Matsuda'
+      avatar: 'akira-matsuda.jpg'
+    - name: 'Jose Valim'
+      avatar: 'jose-valim.jpg'
