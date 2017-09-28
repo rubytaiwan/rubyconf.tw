@@ -1,17 +1,29 @@
 section#cover
-  .ruby_elixir_logo
-    = inline_svg "ruby_elixir_conf_logo"
-  .event
-    h3.event-date.text-center
-      = data.site.site.eventDate
-    .deco
-      = inline_svg "deco"
-    h4.event-location.text-center
-      = data.site.site.eventLocation_zh
-    h4.event-location.en.text-center
-      = data.site.site.eventLocation_en
-  ul.social-media.list-inline
-    - data.site.site.socialMedia.each do |item|
-      li
-        = link_to item.link, target: '_blank', class:"media " + item.name  do
-          = inline_svg "btn_" + item.name
+  .intro
+    .ruby_elixir_logo
+      = inline_svg "ruby_elixir_conf_logo"
+    .event
+      h3.event-date.text-center
+        = data.site.site.eventDate
+      .deco
+        = inline_svg "deco"
+      h4.event-location.text-center
+        = data.site.site.eventLocation_zh
+      h4.event-location.en.text-center
+        = data.site.site.eventLocation_en
+    ul.social-media.list-inline
+      - data.site.site.socialMedia.each do |item|
+        li
+          = link_to item.link, target: '_blank', class:"media " + item.name  do
+            = inline_svg "btn_" + item.name
+
+  .keynote-speakers
+    h5.section-title Keynote Speakers
+    .speakers
+      - data.site.site.speakers.each do |speaker|
+        .speaker
+          .speaker-avatar
+            = image_tag 'speakers/' + speaker.avatar, class:'speaker-img', alt: speaker.name, title: speaker.name
+          h6.speaker-name = speaker.name
+          .deco
+            = inline_svg "deco"
