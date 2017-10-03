@@ -19,7 +19,7 @@ site:
   speakers:
     - name: 'Yukihiro (Matz) Matsumoto'
       avatar: 'matz.png'
+    - name: 'José Valim'
+      avatar: 'jose-valim.jpg'
     - name: 'Akira Matsuda'
       avatar: 'akira-matsuda.jpg'
-    - name: 'Jose Valim'
-      avatar: 'jose-valim.jpg'
